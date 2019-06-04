@@ -1,0 +1,2 @@
+PC	Actinobacillus_pleuropneumoniae	Atopobium_vaginae	BVAB1	BVAB3	Burkholderia_mallei	Coprobacillus_sp.	Enterococcus_faecium	Gardnerella_vaginalis	Lactobacillus_gasseri	Lactobacillus_iners	Lactobacillus_jensenii	Lactobacillus_kefiranofaciens	Megasphaera_genomosp.	Megasphaera_sp.	Neisseria_gonorrhoeae	Paracoccus_denitrificans	Ruminococcus_lactaris	Thermobifida_cellulosilytica	Ureaplasma_parvum
+test	42	4	2	5	386	587	135	218	11	83	31	5	4	2	54	145	2	23	2

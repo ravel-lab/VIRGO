@@ -1,0 +1,3 @@
+PC	Actinobacillus_pleuropneumoniae	BVAB3	Burkholderia_mallei	Coprobacillus_sp.	Enterococcus_faecium	Gardnerella_vaginalis	Lactobacillus_crispatus	Lactobacillus_gasseri	Lactobacillus_iners	Lactobacillus_jensenii	Lactobacillus_kefiranofaciens	Megasphaera_genomosp.	Neisseria_gonorrhoeae	Paracoccus_denitrificans	Thermobifida_cellulosilytica
+sub1	0.08602	0.0068816	0.781062	1.08041	0.295909	0.141073	96.9927	0.0103224	0.0584936	0.0550528	0.0103224	0.0103224	0.106665	0.323435	0.0412896
+sub2	0.0626933	0	0.65201	1.14102	0.204798	0.0835911	97.3878	0.00835911	0.075232	0.0250773	0.00835911	0	0.0961297	0.213157	0.0417955

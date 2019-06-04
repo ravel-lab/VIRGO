@@ -1,0 +1,1615 @@
+Gene	KEGG_orthology_number	Annotation
+V1593031	K13755	dtni:9446  ;  
+V1872750	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1684119	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1885045	K07486	ypz:YPZ3_pMT0062  transposase; K07486 transposase
+V1684135	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1872749	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1684088	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1162988	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1032679	K03723	dosa:Os11t0533100-01  Os11g0533100; DEAD-like helicase, N-terminal domain containing protein.;  
+V1032233	K07497	dsrd:25030  ;  
+V1032606	K02004	zpr:ZPR_4640  ABC transporter permease; K02004
+V1806613	K01529	dvvi:GSVIVP00035915001  GSVIVT00035915001; assembled CDS; K01529 
+V1891377	K00425	dapi:ACYPI56368-PA  GLEAN_36368; .;  
+V1684188	K07497	dsrd:25030  ;  
+V1032310	K03555	dtni:5534  ;  
+V1684136	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1032903	K03529	dtni:3301  ;  
+V1033202	K03722	zmn:Za10_0404  helicase C2; K03722 ATP-dependent DNA helicase DinG [EC:3.6.4.12]
+V1047211	K08282	dvvi:GSVIVP00037509001  GSVIVT00037509001; assembled CDS; K04373 p90 ribosomal S6 kinase [EC:2.7.11.1]
+V1032665	K03657	dtps:262303  thaps1_ua_kg.chr_4000313; .; K03657 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.1.-]
+V1034189	K01191	dvvi:GSVIVP00037953001  GSVIVT00037953001; assembled CDS; K01191 alpha-mannosidase [EC:3.2.1.24]
+V1796904	K01256	dtni:9713  ;  
+V1808158	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1032357	K06994	xce:Xcel_3218  MmpL domain-containing protein; K06994 putative drug exporter of the RND superfamily
+V1375181	K03350	dvvi:GSVIVP00016677001  GSVIVT00016677001; assembled CDS; K03350 anaphase-promoting complex component APC3
+V1032803	K03495	dvvi:GSVIVP00006007001  GSVIVT00006007001; assembled CDS; K03495 glucose inhibited division protein A
+V1032966	K01191	dvvi:GSVIVP00037953001  GSVIVT00037953001; assembled CDS; K01191 alpha-mannosidase [EC:3.2.1.24]
+V1047171	K07487	spy:SPy_2013  IS1562 transposase; K07487 transposase
+V1032705	K01144	zpr:ZPR_2311  RecD-like exodeoxyribonuclease; K01144 exodeoxyribonuclease V [EC:3.1.11.5]
+V1033097	K01955	dtni:9790  ;  
+V1150431	K01153	zpr:ZPR_4672  HsdR; K01153 type I restriction enzyme, R subunit [EC:3.1.21.3]
+V1033479	K07486	ypz:YPZ3_pMT0062  transposase; K07486 transposase
+V1032767	K01531	dvvi:GSVIVP00011999001  GSVIVT00011999001; assembled CDS; K01531 Mg2+-importing ATPase [EC:3.6.3.2]
+V1047198	K01955	dtni:9790  ;  
+V1032381	K01595	dvvi:GSVIVP00030262001  GSVIVT00030262001; assembled CDS; K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31]
+V1033117	K01621	dpch:126443  e_gwh2.7.87.1; .;  
+V1033132	K08724	ppy:PPE_03134  stage V sporulation protein D (sporulation specific penicillin-binding protein); K08724 penicillin-binding protein 2B
+V1143422	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1884884	K01531	dvvi:GSVIVP00011999001  GSVIVT00011999001; assembled CDS; K01531 Mg2+-importing ATPase [EC:3.6.3.2]
+V1032664	K02029	ypz:YPZ3_3524  ABC transporter permease; K02029 polar amino acid transport system permease protein
+V1150470	K03491	tpd:Teth39_0331  transcriptional antiterminator BglG; K03491 lichenan operon transcriptional antiterminator
+V1032318	K07456	dvvi:GSVIVP00013081001  GSVIVT00013081001; assembled CDS; K07456 DNA mismatch repair protein MutS2
+V1033009	K01187	dvvi:GSVIVP00035203001  GSVIVT00035203001; assembled CDS; K01187 alpha-glucosidase [EC:3.2.1.20]
+V1033012	K07706	tte:TTE0562  baeS2; sensory transduction histidine kinase; K07706 two-component system, AgrA family, sensor histidine kinase AgrC [EC:2.7.13.-]
+V1047007	K01879	dvvi:GSVIVP00019077001  GSVIVT00019077001; assembled CDS
+V1047039	K03205	zmn:Za10_1354  conjugal transfer coupling protein TraG; K03205 type IV secretion system protein VirD4
+V1885079	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1033042	K01537	dvvi:GSVIVP00028663001  GSVIVT00028663001; assembled CDS; K01537 Ca2+-transporting ATPase [EC:3.6.3.8]
+V1047236	K03697	sub:SUB1281  clpE; ATP-dependent Clp protease ATP-binding subunit; K03697 ATP-dependent Clp protease ATP-binding subunit ClpE
+V1204502	K00527	zmo:ZMO1025  anaerobic ribonucleoside triphosphate reductase; K00527 ribonucleoside-triphosphate reductase [EC:1.17.4.2]
+V1872766	K00525	dphu:PHUM620170  ribonucleoside-diphosphate reductase large chain, putative;  
+V1032324	K01537	dvvi:GSVIVP00028663001  GSVIVT00028663001; assembled CDS; K01537 Ca2+-transporting ATPase [EC:3.6.3.8]
+V1032412	K08659	tde:TDE2584  dipeptidase; K08659 dipeptidase [EC:3.4.-.-]
+V1032470	K06147	dtni:8809  ;  
+V1032489	K02355	dvvi:GSVIVP00019173001  GSVIVT00019173001; assembled CDS; K02355 elongation factor EF-G [EC:3.6.5.3]
+V1032914	K02335	dtps:270013  estExt_thaps1_ua_kg.C_chr_200009; .; K02335 DNA polymerase I [EC:2.7.7.7]
+V1033078	K02337	zpr:ZPR_4431  DNA polymerase III subunit alpha-1; K02337 DNA polymerase III subunit alpha [EC:2.7.7.7]
+V1047286	K02340	zpr:ZPR_3066  DNA polymerase III subunit delta; K02340 DNA polymerase III subunit delta [EC:2.7.7.7]
+V1388962	K02621	zpr:ZPR_2724  DNA topoisomerase IV subunit A; K02621 topoisomerase IV subunit A [EC:5.99.1.-]
+V1884525	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1890890	K01537	dvvi:GSVIVP00028663001  GSVIVT00028663001; assembled CDS; K01537 Ca2+-transporting ATPase [EC:3.6.3.8]
+V1032641	K03763	vpr:Vpar_0958  DNA polymerase III subunit alpha; K03763 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+V1033276	K01870	dvvi:GSVIVP00019784001  GSVIVT00019784001; assembled CDS; K01870 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+V1143197	K03328	ypz:YPZ3_3412  wzxE; putative lipopolysaccharide biosynthesis protein; K03328 polysaccharide transporter, PST family
+V1034201	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1101503	K01535	dvvi:GSVIVP00034179001  GSVIVT00034179001; assembled CDS; K01535 H+-transporting ATPase [EC:3.6.3.6]
+V1237103	K02757	dapi:ACYPI49255-PA  GLEAN_29255; .;  
+V1552696	K03701	ddpu:319808  NCBI_GNO_3100105; .;  
+V1032206	K07386	dola:12028  ENSORLG00000009595; .;  
+V1032638	K02519	dvvi:GSVIVP00025807001  GSVIVT00025807001; assembled CDS; K02519 translation initiation factor IF-2
+V1032880	K02469	dvvi:GSVIVP00033901001  GSVIVT00033901001; assembled CDS; K02469 DNA gyrase subunit A [EC:5.99.1.3]
+V1033466	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1047005	K01144	zpr:ZPR_2311  RecD-like exodeoxyribonuclease; K01144 exodeoxyribonuclease V [EC:3.1.11.5]
+V1047070	K00687	stl:stu0613  pbp2B; penicillin-binding protein 2B; K00687 penicillin-binding protein 2B [EC:2.3.2.-]
+V1552755	K01002	xcv:XCV0446  mdoB; phosphoglycerol transferase I (EC:2.7.8.20); K01002 phosphoglycerol transferase [EC:2.7.8.20]
+V1884499	K02006	dpop:597142  eugene3.00880092; .
+V1032299	K01972	dtps:264833  thaps1_ua_kg.chr_22000086; .; K01972 DNA ligase (NAD+) [EC:6.5.1.2]
+V1032589	K06147	dtni:8809  ;  
+V1032629	K00691	sru:SRU_0074  malP; maltodextrin phosphorylase (EC:2.4.1.8); K00691 maltose phosphorylase [EC:2.4.1.8]
+V1032802	K03650	dvvi:GSVIVP00015270001  GSVIVT00015270001; assembled CDS; K03650 tRNA modification GTPase
+V1032845	K01281	zpr:ZPR_2073  x-prolyl-dipeptidyl aminopeptidase; K01281 X-Pro dipeptidyl-peptidase [EC:3.4.14.11]
+V1032990	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1033055	K02056	ypz:YPZ3_3448  putative sugar transport system ATP-binding protein; K02056 simple sugar transport system ATP-binding protein [EC:3.6.3.17]
+V1033346	K01873	dvvi:GSVIVP00032988001  GSVIVT00032988001; assembled CDS
+V1101485	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1237091	K07497	dsrd:25030  ;  
+V1684154	K03046	dvvi:GSVIVP00034404001  GSVIVT00034404001; assembled CDS; K03046 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+V1684155	K03043	dvvi:GSVIVP00013217001  GSVIVT00013217001; assembled CDS; K03043 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+V1684172	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1880844	K06147	dtni:8809  ;  
+V1883389	K07497	dsrd:25030  ;  
+V1032434	K01890	dvvi:GSVIVP00017573001  GSVIVT00017573001; assembled CDS; K01890 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+V1032628	K01234	vfi:VF_2049  malZ; maltodextrin glucosidase (EC:3.2.1.135 3.2.1.54 3.2.1.133); K01208 cyclomaltodextrinase [EC:3.2.1.54]; K01234 neopullulanase [EC:3.2.1.135]; K05992  [EC:3.2.1.133]
+V1033256	K03581	ypz:YPZ3_0929  exodeoxyribonuclease V alpha chain; K03581 exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]
+V1034247	K01581	dvvi:GSVIVP00016806001  GSVIVT00016806001; assembled CDS; K01581 ornithine decarboxylase [EC:4.1.1.17]
+V1143339	K06919	ypz:YPZ3_0839  putative primase; K06919 putative DNA primase/helicase
+V1150387	K00936	dvvi:GSVIVP00028044001  GSVIVT00028044001; assembled CDS; K00936 
+V1162595	K01552	dvvi:GSVIVP00003662001  GSVIVT00003662001; assembled CDS; K01552 
+V1755572	K07652	dmtr:Medtr3g138810.1  Response regulator receiver; ATP-binding region, ATPase-like chr03_pseudomolecule_IMGAG_V3 35545580-35542923 H EGN_Mt090430 20090702;  
+V1032391	K03466	dpch:2358  fgenesh1_pg.C_scaffold_3000352; .;  
+V1032740	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1032792	K00820	dvvi:GSVIVP00028703001  GSVIVT00028703001; assembled CDS; K00820 glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]
+V1032804	K00033	dvvi:GSVIVP00021207001  GSVIVT00021207001; assembled CDS; K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44]
+V1033170	K00054	zpr:ZPR_0646  3-hydroxy-3-methylglutaryl-coenzyme A reductase; K00054 hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]
+V1033361	K11927	dtni:4283  ;  
+V1033398	K00692	zmo:ZMO0374  levansucrase (EC:2.4.1.10); K00692 levansucrase [EC:2.4.1.10]
+V1033562	K02006	dpop:597142  eugene3.00880092; .
+V1047201	K03292	xop:PXO_02748  cation symporter; K03292 glycoside/pentoside/hexuronide:cation symporter, GPH family
+V1450945	K07487	spy:SPy_2013  IS1562 transposase; K07487 transposase
+V1755600	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1884555	K01874	dvvi:GSVIVP00018514001  GSVIVT00018514001; assembled CDS; K01874 methionyl-tRNA synthetase [EC:6.1.1.10]
+V1891261	K03046	dvvi:GSVIVP00034404001  GSVIVT00034404001; assembled CDS; K03046 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+V1032746	K06147	dtni:8809  ;  
+V1032888	K02238	dlja:26844  LjSGA_144731.1; /partial;  
+V1032939	K03455	dosa:Os03t0127900-01  Os03g0127900; Cation/H+ exchanger domain containing protein.;  
+V1033086	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1033243	K06158	dvvi:GSVIVP00006684001  GSVIVT00006684001; assembled CDS; K06158 ATP-binding cassette, sub-family F, member 3
+V1033247	K01552	dvvi:GSVIVP00003662001  GSVIVT00003662001; assembled CDS; K01552 
+V1033290	K01533	dvvi:GSVIVP00030125001  GSVIVT00030125001; assembled CDS; K01533 Cu2+-exporting ATPase [EC:3.6.3.4]
+V1033563	K01486	zpr:ZPR_4605  adenine deaminase; K01486 adenine deaminase [EC:3.5.4.2]
+V1047181	K02027	ddpu:267666  SNAP_00035724; .;  
+V1204306	K02037	dlja:26747  LjSGA_142671.2; /partial;  
+V1684170	K02313	zpr:ZPR_3590  chromosomal replication initiator protein DnaA; K02313 chromosomal replication initiator protein
+V1755585	K02470	dvvi:GSVIVP00000640001  GSVIVT00000640001; assembled CDS; K02470 DNA gyrase subunit B [EC:5.99.1.3]
+V1796834	K03657	dtps:262303  thaps1_ua_kg.chr_4000313; .; K03657 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.1.-]
+V1883309	K01662	dvvi:GSVIVP00032595001  GSVIVT00032595001; assembled CDS; K01662 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]
+V1883391	K07133	xne:XNC1_0021  ATPase; K07133
+V1886306	K03696	dvvi:GSVIVP00018029001  GSVIVT00018029001; assembled CDS; K03696 ATP-dependent Clp protease ATP-binding subunit ClpC
+V1032201	K04753	dlja:254  chr1.CM0017.710.nd; /partial;  
+V1032351	K01875	dvvi:GSVIVP00033603001  GSVIVT00033603001; assembled CDS; K01875 seryl-tRNA synthetase [EC:6.1.1.11]
+V1032609	K03293	dsrd:5976  ;  
+V1032652	K01362	dvvi:GSVIVP00028325001  GSVIVT00028325001; assembled CDS
+V1033069	K01883	dvvi:GSVIVP00032763001  GSVIVT00032763001; assembled CDS; K01883 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+V1033161	K01190	dvvi:GSVIVP00034182001  GSVIVT00034182001; assembled CDS; K01190 beta-galactosidase [EC:3.2.1.23]
+V1033273	K12308	dola:18320  ENSORLG00000014614; .;  
+V1034244	K12574	dmtr:Medtr8g109520.1  Beta-lactamase-like; RNA-metabolising metallo-beta-lactamase chr08_pseudomolecule_IMGAG_V3 24579323-24587179 E EGN_Mt090430 20090702;  
+V1047157	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1047206	K02757	dapi:ACYPI49255-PA  GLEAN_29255; .;  
+V1101416	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1204490	K03483	ttm:Tthe_2097  PTS modulated transcriptional regulator, MtlR family (EC:2.7.1.69); K03483 mannitol operon transcriptional antiterminator
+V1608693	K00841	sub:SUB0021  aromatic amino acid aminotransferase; K00841 aminotransferase [EC:2.6.1.-]
+V1828770	K01007	dtps:23810  estExt_fgenesh1_pg.C_chr_80342; .; K01007 pyruvate,water dikinase [EC:2.7.9.2]
+V1872764	K07133	xne:XNC1_0021  ATPase; K07133
+V1032212	K01953	dvvi:GSVIVP00024074001  GSVIVT00024074001; assembled CDS; K01953 asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+V1032402	K03070	dvvi:GSVIVP00028236001  GSVIVT00028236001; assembled CDS; K03070 preprotein translocase subunit SecA
+V1032747	K07386	dola:12028  ENSORLG00000009595; .;  
+V1032882	K02338	zpr:ZPR_1831  DNA polymerase III subunit beta; K02338 DNA polymerase III subunit beta [EC:2.7.7.7]
+V1033340	K03655	dvvi:GSVIVP00030485001  GSVIVT00030485001; assembled CDS
+V1033595	K05366	dapi:ACYPI53269-PA  GLEAN_33269; .;  
+V1034256	K02622	zpr:ZPR_2726  DNA topoisomerase IV subunit B; K02622 topoisomerase IV subunit B [EC:5.99.1.-]
+V1047213	K01002	xcv:XCV0446  mdoB; phosphoglycerol transferase I (EC:2.7.8.20); K01002 phosphoglycerol transferase [EC:2.7.8.20]
+V1101466	K00571	dtps:34058  e_gw1.5.404.1; .
+V1143193	K03596	dvvi:GSVIVP00020896001  GSVIVT00020896001; assembled CDS; K03596 GTP-binding protein LepA
+V1163624	K03697	sub:SUB1281  clpE; ATP-dependent Clp protease ATP-binding subunit; K03697 ATP-dependent Clp protease ATP-binding subunit ClpE
+V1163762	K00036	dvvi:GSVIVP00029105001  GSVIVT00029105001; assembled CDS; K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]
+V1204768	K03572	dsmi:17031  ;  
+V1755579	K12573	dtni:15068  ;  
+V1884278	K01200	vco:VC0395_A2273  pullulanase (EC:3.2.1.41); K01200 pullulanase [EC:3.2.1.41]
+V1032291	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1032476	K00104	dvvi:GSVIVP00028321001  GSVIVT00028321001; assembled CDS; K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15]
+V1032779	K12555	sub:SUB1733  pbp2A; penicillin-binding protein 2A; K12555 penicillin-binding protein 2A [EC:2.4.1.129 2.3.2.-]
+V1032997	K03168	dota:Ot06g02420  HMG box-containing protein (ISS);  
+V1033033	K01876	dvvi:GSVIVP00038605001  GSVIVT00038605001; assembled CDS; K01876 aspartyl-tRNA synthetase [EC:6.1.1.12]
+V1033324	K01869	dvvi:GSVIVP00035298001  GSVIVT00035298001; assembled CDS; K01869 leucyl-tRNA synthetase [EC:6.1.1.4]
+V1033494	K02004	zpr:ZPR_4640  ABC transporter permease; K02004
+V1034221	K01835	dvvi:GSVIVP00030550001  GSVIVT00030550001; assembled CDS; K01835 phosphoglucomutase [EC:5.4.2.2]
+V1322982	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1806665	K07486	ypz:YPZ3_pMT0062  transposase; K07486 transposase
+V1032224	K01443	dtps:37041  e_gw1.13.85.1; .; K01443 N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]
+V1032296	K03328	ypz:YPZ3_3412  wzxE; putative lipopolysaccharide biosynthesis protein; K03328 polysaccharide transporter, PST family
+V1032407	K04042	zmo:ZMO0498  glmU; bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase; K04042 bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]
+V1032415	K01951	dvvi:GSVIVP00000429001  GSVIVT00000429001; assembled CDS; K01951 GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+V1032588	K06147	dtni:8809  ;  
+V1033003	K08483	ypz:YPZ3_2637  ptsI; PTS sytem, enzyme I component; K08483 phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]
+V1033413	K01939	dvvi:GSVIVP00025551001  GSVIVT00025551001; assembled CDS; K01939 adenylosuccinate synthase [EC:6.3.4.4]
+V1033484	K03307	zpr:ZPR_2835  sodium-glucose/galactose cotransporter; K03307 solute:Na+ symporter, SSS family
+V1034291	K00571	dtps:34058  e_gw1.5.404.1; .
+V1047008	K03328	ypz:YPZ3_3412  wzxE; putative lipopolysaccharide biosynthesis protein; K03328 polysaccharide transporter, PST family
+V1149114	K11072	xne:XNC1_3705  potA; spermidine/putrescine ABC transporter ATP-binding protein; K11072 spermidine/putrescine transport system ATP-binding protein [EC:3.6.3.31]
+V1199359	K02761	ypz:YPZ3_2363  celB; PTS system, cellobiose-specific IIC component; K02761 PTS system, cellobiose-specific IIC component
+V1684175	K03739	sub:SUB1148  dltB; activated D-alanine transport protein; K03739 membrane protein involved in D-alanine export
+V1828763	K06147	dtni:8809  ;  
+V1828795	K03303	xne:XNC1_1643  putative L-lactate permease; K03303 lactate transporter, LctP family
+V1032374	K03367	sub:SUB1149  dltA; D-alanine--poly(phosphoribitol) ligase subunit 1; K03367 D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13]
+V1032473	K01928	zpr:ZPR_3812  UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase; K01928 UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]
+V1032577	K06147	dtni:8809  ;  
+V1032699	K01376	dvvi:GSVIVP00036897001  GSVIVT00036897001; assembled CDS; K01376 
+V1032841	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1033262	K01586	dvvi:GSVIVP00036342001  GSVIVT00036342001; assembled CDS; K01586 diaminopimelate decarboxylase [EC:4.1.1.20]
+V1033268	K13678	spx:SPG_0996  group 1 family glycosyl transferase (EC:2.4.1.-); K13678 monoglucosyldiacylglycerol glycosyltransferase [EC:2.4.1.-]
+V1033406	K06158	dvvi:GSVIVP00006684001  GSVIVT00006684001; assembled CDS; K06158 ATP-binding cassette, sub-family F, member 3
+V1047061	K01868	dvvi:GSVIVP00033369001  GSVIVT00033369001; assembled CDS; K01868 threonyl-tRNA synthetase [EC:6.1.1.3]
+V1143382	K03446	dani:AN9382  Uncharacterized ORF;  
+V1163652	K03798	dvvi:GSVIVP00024154001  GSVIVT00024154001; assembled CDS; K03798 cell division protease FtsH [EC:3.4.24.-]
+V1204519	K03702	dota:Ot14g01080  excinuclease ABC subunit B (ISS);  
+V1552781	K03763	vpr:Vpar_0958  DNA polymerase III subunit alpha; K03763 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+V1684147	K00936	dvvi:GSVIVP00028044001  GSVIVT00028044001; assembled CDS; K00936 
+V1884240	K03549	dvvi:GSVIVP00029418001  GSVIVT00029418001; assembled CDS; K03549 KUP system potassium uptake protein
+V1885137	K01372	dtni:8392  ;  
+V1032307	K02810	yep:YE105_C0564  PTSsystem, sucrose-specific IIBC component; K02809 PTS system, sucrose-specific IIB component [EC:2.7.1.69]; K02810 PTS system, sucrose-specific IIC component
+V1032315	K01872	dvvi:GSVIVP00013953001  GSVIVT00013953001; assembled CDS; K01872 alanyl-tRNA synthetase [EC:6.1.1.7]
+V1032344	K02111	dvvi:GSVIVP00035586001  GSVIVT00035586001; assembled CDS; K02111 F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]
+V1032745	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1033036	K06948	dtps:34729  e_gw1.6.183.1; .; K06948 
+V1033085	K02004	zpr:ZPR_4640  ABC transporter permease; K02004
+V1033325	K03328	ypz:YPZ3_3412  wzxE; putative lipopolysaccharide biosynthesis protein; K03328 polysaccharide transporter, PST family
+V1034187	K04066	dlja:8561  chr6.CM0738.270.nd; /partial;  
+V1034218	K08659	tde:TDE2584  dipeptidase; K08659 dipeptidase [EC:3.4.-.-]
+V1034223	K06158	dvvi:GSVIVP00006684001  GSVIVT00006684001; assembled CDS; K06158 ATP-binding cassette, sub-family F, member 3
+V1034239	K10254	dani:AN9297  Uncharacterized ORF;  
+V1047113	K08884	dtni:5367  ;  
+V1047208	K02355	dvvi:GSVIVP00019173001  GSVIVT00019173001; assembled CDS; K02355 elongation factor EF-G [EC:3.6.5.3]
+V1143204	K00786	yen:YE3078  wbcG; putative glycosyltransferase (EC:2.4.-.-); K00786  [EC:2.4.-.-]
+V1143661	K06950	dvvi:GSVIVP00030197001  GSVIVT00030197001; assembled CDS; K06950 
+V1204503	K09704	dtps:8322  fgenesh1_pg.C_chr_10000092; .; K09704 hypothetical protein
+V1684077	K03590	zpr:ZPR_3805  cell division protein FtsA; K03590 cell division protein FtsA
+V1684156	K04567	dvvi:GSVIVP00024821001  GSVIVT00024821001; assembled CDS; K04567 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+V1796843	K01621	dpch:126443  e_gwh2.7.87.1; .;  
+V1819373	K04072	dani:AN5234  Uncharacterized ORF;  
+V1828822	K10254	dani:AN9297  Uncharacterized ORF;  
+V1032292	K00763	dvvi:GSVIVP00019510001  GSVIVT00019510001; assembled CDS
+V1032301	K02433	dvvi:GSVIVP00018820001  GSVIVT00018820001; assembled CDS; K02433 aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]
+V1032410	K01937	dvvi:GSVIVP00028076001  GSVIVT00028076001; assembled CDS; K01937 CTP synthase [EC:6.3.4.2]
+V1032529	K06158	dvvi:GSVIVP00006684001  GSVIVT00006684001; assembled CDS; K06158 ATP-binding cassette, sub-family F, member 3
+V1032563	K01610	dvvi:GSVIVP00011154001  GSVIVT00011154001; assembled CDS; K01610 phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+V1032581	K02027	ddpu:267666  SNAP_00035724; .;  
+V1032631	K10108	ypz:YPZ3_3274  malE; periplasmic maltose-binding protein; K10108 maltose/maltodextrin transport system substrate-binding protein
+V1032632	K10109	ypz:YPZ3_3275  malF; maltose transport system permease protein MalF; K10109 maltose/maltodextrin transport system permease protein
+V1032728	K01929	zpr:ZPR_3928  UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase; K01929 UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase [EC:6.3.2.10]
+V1032922	K01081	dtps:3837  fgenesh1_pg.C_chr_3000771; .; K01081 5'-nucleotidase [EC:3.1.3.5]
+V1033180	K00690	dapi:ACYPI54809-PA  GLEAN_34809; .;  
+V1033275	K00965	dtni:8246  ;  
+V1033629	K04043	dvvi:GSVIVP00005738001  GSVIVT00005738001; assembled CDS; K04043 molecular chaperone DnaK
+V1034229	K07407	dvvi:GSVIVP00029420001  GSVIVT00029420001; assembled CDS; K07407 alpha-galactosidase [EC:3.2.1.22]
+V1034275	K13867	dtni:33009  ;  
+V1034282	K02810	yep:YE105_C0564  PTSsystem, sucrose-specific IIBC component; K02809 PTS system, sucrose-specific IIB component [EC:2.7.1.69]; K02810 PTS system, sucrose-specific IIC component
+V1034296	K00158	sus:Acid_7324  pyruvate oxidase (EC:1.2.3.3); K00158 pyruvate oxidase [EC:1.2.3.3]
+V1047240	K03475	dapi:ACYPI56131-PA  GLEAN_36131; .;  
+V1143205	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1237119	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1547385	K03350	dvvi:GSVIVP00016677001  GSVIVT00016677001; assembled CDS; K03350 anaphase-promoting complex component APC3
+V1828818	K07749	dtni:25319  ;  
+V1883097	K01810	dvvi:GSVIVP00015125001  GSVIVT00015125001; assembled CDS; K01810 glucose-6-phosphate isomerase [EC:5.3.1.9]
+V1884712	K01945	dvvi:GSVIVP00000242001  GSVIVT00000242001; assembled CDS; K01945 phosphoribosylamine--glycine ligase [EC:6.3.4.13]
+V1890912	K08659	tde:TDE2584  dipeptidase; K08659 dipeptidase [EC:3.4.-.-]
+V1032343	K02115	dvvi:GSVIVP00010758001  GSVIVT00010758001; assembled CDS; K02115 F-type H+-transporting ATPase subunit gamma [EC:3.6.3.14]
+V1032565	K03724	zpr:ZPR_0474  DEAD box helicase family protein; K03724 ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]
+V1032567	K03320	dsrd:22939  ;  
+V1032730	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1032883	K03588	zpr:ZPR_3809  cell division protein FtsW; K03588 cell division protein FtsW
+V1032919	K01271	dvvi:GSVIVP00016599001  GSVIVT00016599001; assembled CDS; K01271 X-Pro dipeptidase [EC:3.4.13.9]
+V1033030	K00951	dtni:34759  ;  
+V1143201	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1806647	K02316	zpr:ZPR_3825  DNA primase; K02316 DNA primase [EC:2.7.7.-]
+V1806654	K00599	dvvi:GSVIVP00037837001  GSVIVT00037837001; assembled CDS; K00599 
+V1828804	K01126	dvvi:GSVIVP00016186001  GSVIVT00016186001; assembled CDS; K01126 glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+V1880059	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1884693	K03169	ddpu:340055  NCBI_GNO_386500001; .;  
+V1032231	K02030	ypz:YPZ3_3525  putative periplasmic solute-binding protein; K02030 polar amino acid transport system substrate-binding protein
+V1032309	K04077	dvvi:GSVIVP00034341001  GSVIVT00034341001; assembled CDS
+V1032393	K01422	dsrd:22990  ;  
+V1032517	K02343	dosa:Os05t0529600-01  Os05g0529600; Hypothetical conserved gene.;  
+V1032595	K03549	dvvi:GSVIVP00029418001  GSVIVT00029418001; assembled CDS; K03549 KUP system potassium uptake protein
+V1032601	K02750	yep:YE105_C1066  PTS system, alpha-glucoside-specific IIBC component; K02749 PTS system, arbutin-like IIB component [EC:2.7.1.69]; K02750 PTS system, arbutin-like IIC component
+V1032674	K00936	dvvi:GSVIVP00028044001  GSVIVT00028044001; assembled CDS; K00936 
+V1032676	K04075	zpr:ZPR_2840  PP-loop family protein; K04075 tRNA(Ile)-lysidine synthase [EC:6.3.4.-]
+V1032703	K02032	ddpu:66764  e_gw1.461.15.1; .;  
+V1032731	K00600	dvvi:GSVIVP00032161001  GSVIVT00032161001; assembled CDS; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1]
+V1032739	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1032910	K03346	uur:UU308  hypothetical protein; K03346 replication initiation and membrane attachment protein
+V1033130	K01925	zpr:ZPR_3810  UDP-N-acetylmuramoylalanine--D-glutamate ligase; K01925 UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+V1033414	K01756	dvvi:GSVIVP00018292001  GSVIVT00018292001; assembled CDS; K01756 adenylosuccinate lyase [EC:4.3.2.2]
+V1033432	K09961	ypy:YPK_1223  hypothetical protein; K09961 hypothetical protein
+V1033486	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1033516	K06901	dvvi:GSVIVP00029413001  GSVIVT00029413001; assembled CDS; K06901 putative MFS transporter, AGZA family, xanthine/uracil permease
+V1033520	K07258	ddpu:315307  NCBI_GNO_1400012; .;  
+V1033554	K09963	ttm:Tthe_2356  hypothetical protein; K09963 hypothetical protein
+V1033613	K03665	dvvi:GSVIVP00014548001  GSVIVT00014548001; assembled CDS; K03665 GTP-binding protein HflX
+V1033632	K02548	dvvi:GSVIVP00006156001  GSVIVT00006156001; assembled CDS; K02548 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.-]
+V1034238	K01621	dpch:126443  e_gwh2.7.87.1; .;  
+V1338860	K01881	dvvi:GSVIVP00037704001  GSVIVT00037704001; assembled CDS; K01881 prolyl-tRNA synthetase [EC:6.1.1.15]
+V1552702	K01286	ypa:YPA_1037  serine-type D-Ala-D-Ala carboxypeptidase (EC:3.4.16.4); K01286 D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+V1614186	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1806608	K02057	ddpu:344873  NCBI_GNO_1170800001; .;  
+V1806610	K03281	dlja:26777  LjSGA_143406.1.1; /partial;  
+V1887002	K09952	zpr:ZPR_4422  hypothetical protein; K09952 hypothetical protein
+V1887307	K07021	dota:Ot09g03580  Transcription factor GT-2 and related proteins, contains trihelix DNA-binding/SANT domain (ISS);  
+V1891109	K00244	dani:AN10296  Uncharacterized ORF; S. cerevisiae ortholog YEL047C has fumarate reductase (NADH) activity, has role in cellular response to anoxia and localizes to ribosome, cytosol, plasma membrane enriched fraction, mitochondrion;  
+V1032203	K02073	ypz:YPZ3_1205  hypothetical protein; K02073 D-methionine transport system substrate-binding protein
+V1032372	K03740	sub:SUB1146  dltD; D-alanyl-lipoteichoic acid biosynthesis protein; K03740 D-alanine transfer protein
+V1032380	K02004	zpr:ZPR_4640  ABC transporter permease; K02004
+V1032418	K07706	tte:TTE0562  baeS2; sensory transduction histidine kinase; K07706 two-component system, AgrA family, sensor histidine kinase AgrC [EC:2.7.13.-]
+V1032472	K00936	dvvi:GSVIVP00028044001  GSVIVT00028044001; assembled CDS; K00936 
+V1032625	K02529	dlja:26978  LjSGA_146954.1; /partial;  
+V1032707	K00938	dvvi:GSVIVP00015641001  GSVIVT00015641001; assembled CDS; K00938 phosphomevalonate kinase [EC:2.7.4.2]
+V1032881	K03629	zpr:ZPR_1454  DNA replication and repair protein RecF; K03629 DNA replication and repair protein RecF
+V1033020	K02837	zpr:ZPR_1173  peptide chain release factor 3; K02837 peptide chain release factor 3
+V1033045	K01232	yep:YE105_C1067  6-phospho-alpha-glucosidase; K01232 maltose-6'-phosphate glucosidase [EC:3.2.1.122]
+V1033257	K00680	dvvi:GSVIVP00023724001  GSVIVT00023724001; assembled CDS; K00680 
+V1033274	K00849	dvvi:GSVIVP00033170001  GSVIVT00033170001; assembled CDS; K00849 galactokinase [EC:2.7.1.6]
+V1033549	K01689	dvvi:GSVIVP00038473001  GSVIVT00038473001; assembled CDS; K01689 enolase [EC:4.2.1.11]
+V1033557	K00134	dvvi:GSVIVP00035097001  GSVIVT00035097001; assembled CDS; K00134 glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+V1033558	K00927	dvvi:GSVIVP00035677001  GSVIVT00035677001; assembled CDS; K00927 phosphoglycerate kinase [EC:2.7.2.3]
+V1033682	K03476	vvy:VVA1602  putative L-ascorbate 6-phosphate lactonase; K03476 L-ascorbate 6-phosphate lactonase [EC:3.1.1.-]
+V1033745	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1034198	K10112	dlja:26906  LjSGA_145734.1.1; /partial;  
+V1034300	K02761	ypz:YPZ3_2363  celB; PTS system, cellobiose-specific IIC component; K02761 PTS system, cellobiose-specific IIC component
+V1046988	K03686	dvvi:GSVIVP00008854001  GSVIVT00008854001; assembled CDS; K03686 molecular chaperone DnaJ
+V1047216	K06147	dtni:8809  ;  
+V1338889	K06207	dvvi:GSVIVP00025567001  GSVIVT00025567001; assembled CDS; K06207 GTP-binding protein
+V1684176	K02761	ypz:YPZ3_2363  celB; PTS system, cellobiose-specific IIC component; K02761 PTS system, cellobiose-specific IIC component
+V1755599	K01992	zpr:ZPR_3118  ABC-type transporter permease protein; K01992 ABC-2 type transport system permease protein
+V1796915	K01200	vco:VC0395_A2273  pullulanase (EC:3.2.1.41); K01200 pullulanase [EC:3.2.1.41]
+V1796925	K00851	dvvi:GSVIVP00014074001  GSVIVT00014074001; assembled CDS; K00851 gluconokinase [EC:2.7.1.12]
+V1884806	K01187	dvvi:GSVIVP00035203001  GSVIVT00035203001; assembled CDS; K01187 alpha-glucosidase [EC:3.2.1.20]
+V1032221	K01104	dvvi:GSVIVP00022056001  GSVIVT00022056001; assembled CDS; K01078 acid phosphatase [EC:3.1.3.2]; K01104 protein-tyrosine phosphatase [EC:3.1.3.48]
+V1032297	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1032314	K05592	dtni:7510  ;  
+V1032329	K03655	dvvi:GSVIVP00030485001  GSVIVT00030485001; assembled CDS
+V1032388	K03548	dlja:11582  LjT16I12.10.nd; /partial;  
+V1032400	K02240	sub:SUB1377  comFA; late competence protein; K02240 competence protein ComFA
+V1032409	K06885	dlja:4791  chr2.CM0201.640.nd; .;  
+V1032474	K01779	zmo:ZMO1158  aspartate racemase; K01779 aspartate racemase [EC:5.1.1.13]
+V1032485	K09384	dsrd:21933  ;  
+V1032626	K00925	dpop:589796  eugene3.29900002; .; K00925 acetate kinase [EC:2.7.2.1]
+V1032672	K14155	ypz:YPZ3_2647  putative aminotransferase; K14155 cystathione beta-lyase [EC:4.4.1.8]
+V1032715	K09698	vpr:Vpar_1017  glutamyl-tRNA synthetase; K09698 nondiscriminating glutamyl-tRNA synthetase [EC:6.1.1.24]
+V1032729	K01215	vfi:VF_A0731  treC; trehalose-6-P hydrolase (EC:3.2.1.70); K01215 glucan 1,6-alpha-glucosidase [EC:3.2.1.70]
+V1032776	K05794	dosa:Os05t0121200-01  Os05g0121200; Similar to Transmembrane transport protein-like protein.;  
+V1032992	K09762	xce:Xcel_1547  hypothetical protein; K09762 hypothetical protein
+V1033025	K00599	dvvi:GSVIVP00037837001  GSVIVT00037837001; assembled CDS; K00599 
+V1033056	K07335	xce:Xcel_0994  basic membrane lipoprotein; K07335 basic membrane protein A and related proteins
+V1033096	K03040	dvvi:GSVIVP00035276001  GSVIVT00035276001; assembled CDS; K03040 DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+V1033102	K01226	dsrd:24465  ;  
+V1033119	K03079	vvy:VVA1609  putative L-xylulose 5-phosphate 3-epimerase; K03079 L-ribulose-5-phosphate 3-epimerase [EC:5.1.3.22]
+V1033127	K02314	zpr:ZPR_0897  replicative DNA helicase; K02314 replicative DNA helicase [EC:3.6.4.12]
+V1033134	K02077	yep:YE105_C1152  periplasmic solute binding protein; K02077 zinc/manganese transport system substrate-binding protein
+V1033168	K00963	dvvi:GSVIVP00034877001  GSVIVT00034877001; assembled CDS; K00963 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+V1033341	K07030	xce:Xcel_2280  Dak phosphatase; K07030
+V1033351	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1033404	K07133	xne:XNC1_0021  ATPase; K07133
+V1033517	K07024	dota:Ot09g01780  .;  
+V1033612	K03699	dani:AN0789  Uncharacterized ORF;  
+V1033693	K07106	dapi:ACYPI003292-PA  LOC100162118; PREDICTED: hypothetical protein;  
+V1034178	K06881	dlja:26220  LjSGA_127398.2; /partial;  
+V1047238	K00928	dvvi:GSVIVP00037944001  GSVIVT00037944001; assembled CDS; K00928 aspartate kinase [EC:2.7.2.4]
+V1101418	K02054	dlja:10947  LjT46I09.140.nd; /partial;  
+V1143165	K03315	zpr:ZPR_2853  Na+/H+ antiporter; K03315 Na+:H+ antiporter, NhaC family
+V1446896	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1446946	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1796881	K01376	dvvi:GSVIVP00036897001  GSVIVT00036897001; assembled CDS; K01376 
+V1796918	K00841	sub:SUB0021  aromatic amino acid aminotransferase; K00841 aminotransferase [EC:2.6.1.-]
+V1882964	K06131	zmo:ZMO0314  phospholipase D/transphosphatidylase; K06131 cardiolipin synthase [EC:2.7.8.-]
+V1883175	K01488	dvvi:GSVIVP00006894001  GSVIVT00006894001; assembled CDS; K01488 adenosine deaminase [EC:3.5.4.4]
+V1886924	K01552	dvvi:GSVIVP00003662001  GSVIVT00003662001; assembled CDS; K01552 
+V1032371	K01286	ypa:YPA_1037  serine-type D-Ala-D-Ala carboxypeptidase (EC:3.4.16.4); K01286 D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+V1032376	K03455	dosa:Os03t0127900-01  Os03g0127900; Cation/H+ exchanger domain containing protein.;  
+V1032466	K03497	zpr:ZPR_4284  partitioning protein; K03497 chromosome partitioning protein, ParB family
+V1032619	K07636	zpr:ZPR_3238  two-component system sensor histidine kinase; K07636 two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+V1032716	K04485	dota:Ot20g00820  .;  
+V1032733	K00104	dvvi:GSVIVP00028321001  GSVIVT00028321001; assembled CDS; K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15]
+V1033053	K02564	dtni:17024  ;  
+V1033067	K03218	ddpu:315299  NCBI_GNO_1400004; .;  
+V1033110	K00549	dvvi:GSVIVP00017439001  GSVIVT00017439001; assembled CDS; K00549 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]
+V1033208	K01992	zpr:ZPR_3118  ABC-type transporter permease protein; K01992 ABC-2 type transport system permease protein
+V1033314	K01924	zpr:ZPR_3807  UDP-N-acetylmuramate--L-alanine ligase; K01924 UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]
+V1033499	K01887	dvvi:GSVIVP00016648001  GSVIVT00016648001; assembled CDS; K01887 arginyl-tRNA synthetase [EC:6.1.1.19]
+V1033752	K07010	dosa:Os01t0138800-01  Os01g0138800; Peptidase C26 domain containing protein.;  
+V1034265	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1046974	K07462	zpr:ZPR_0236  single-stranded-DNA-specific exonuclease RecJ; K07462 single-stranded-DNA-specific exonuclease [EC:3.1.-.-]
+V1046999	K01243	ypz:YPZ3_2981  mtn; 5-methylthioadenosine/S-adenosylhomocysteine nucleosidase; K01243 S-adenosylhomocysteine/5'-methylthioadenosine nucleosidase [EC:3.2.2.9]
+V1047142	K03703	dpop:595105  eugene3.67180001; .; K03703 excinuclease ABC subunit C
+V1047158	K03293	dsrd:5976  ;  
+V1101394	K03446	dani:AN9382  Uncharacterized ORF;  
+V1143199	K00786	yen:YE3078  wbcG; putative glycosyltransferase (EC:2.4.-.-); K00786  [EC:2.4.-.-]
+V1143512	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1163728	K06958	zmo:ZMO1325  hypothetical protein; K06958 UPF0042 nucleotide-binding protein
+V1204307	K06915	zpr:ZPR_2243  hypothetical protein; K06915
+V1204456	K03811	zpr:ZPR_4463  nicotinamide mononucleotide transport protein; K03811 nicotinamide mononucleotide transporter
+V1204804	K01577	dosa:Os01t0505400-01  Os01g0505400; Thiamine pyrophosphate enzyme, C-terminal TPP-binding domain containing protein.;  
+V1237151	K01791	zpr:ZPR_1101  UDP-N-acetylglucosamine 2-epimerase; K01791 UDP-N-acetylglucosamine 2-epimerase [EC:5.1.3.14]
+V1567963	K03350	dvvi:GSVIVP00016677001  GSVIVT00016677001; assembled CDS; K03350 anaphase-promoting complex component APC3
+V1684093	K11749	dosa:Os03t0579000-01  Os03g0579000; Peptidase M50 domain containing protein.;  
+V1684104	K09963	ttm:Tthe_2356  hypothetical protein; K09963 hypothetical protein
+V1796838	K01679	dvvi:GSVIVP00028048001  GSVIVT00028048001; assembled CDS; K01679 fumarate hydratase, class II [EC:4.2.1.2]
+V1806574	K03322	dvvi:GSVIVP00033760001  GSVIVT00033760001; assembled CDS; K03322 metal ion transporter, Nramp family
+V1806578	K03531	dvvi:GSVIVP00027244001  GSVIVT00027244001; assembled CDS; K03531 cell division protein FtsZ
+V1806580	K01928	zpr:ZPR_3812  UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase; K01928 UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]
+V1806607	K03293	dsrd:5976  ;  
+V1880123	K03311	ypz:YPZ3_2818  brnQ; branched-chain amino acid transport system II carrier protein; K03311 branched-chain amino acid:cation transporter, LIVCS family
+V1883383	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1886316	K01552	dvvi:GSVIVP00003662001  GSVIVT00003662001; assembled CDS; K01552 
+V1032208	K09155	vpr:Vpar_1721  hypothetical protein; K09155 hypothetical protein
+V1032331	K04487	dvvi:GSVIVP00017707001  GSVIVT00017707001; assembled CDS; K04487 cysteine desulfurase [EC:2.8.1.7]
+V1032332	K06286	sub:SUB0650  ezrA; septation ring formation regulator EzrA; K06286 septation ring formation regulator
+V1032337	K05837	zpr:ZPR_0657  rod shape-determining protein MrdB; K05837 rod shape determining protein RodA
+V1032358	K01467	dani:AN12021  Uncharacterized ORF;  
+V1032417	K07707	sub:SUB1670  fasA; response regulator protein; K07707 two-component system, AgrA family, response regulator AgrA
+V1032492	K07025	dvvi:GSVIVP00024290001  GSVIVT00024290001; assembled CDS; K07025 putative hydrolase of the HAD superfamily
+V1032493	K01989	xau:Xaut_2525  ABC transporter, periplasmic component; K01989 putative ABC transport system substrate-binding protein
+V1032571	K00244	dani:AN10296  Uncharacterized ORF; S. cerevisiae ortholog YEL047C has fumarate reductase (NADH) activity, has role in cellular response to anoxia and localizes to ribosome, cytosol, plasma membrane enriched fraction, mitochondrion;  
+V1032635	K11753	dbmo:BGIBMGA009969  .;  
+V1032639	K02600	dlja:4649  chr1.CM0195.380.nd; /partial;  
+V1032681	K00016	dvvi:GSVIVP00009618001  GSVIVT00009618001; assembled CDS; K00016 L-lactate dehydrogenase [EC:1.1.1.27]
+V1032710	K00599	dvvi:GSVIVP00037837001  GSVIVT00037837001; assembled CDS; K00599 
+V1032794	K00009	dani:AN5975  Uncharacterized ORF; Putative mannitol-1-phosphate 5-dehydrogenase with a predicted role in mannose/mannitol, fructose, and sorbose/sorbitol metabolism; expression upregulated after exposure to farnesol;  
+V1032838	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1033010	K06921	ypm:YP_pMT109  putative DNA-binding protein; K06921
+V1033049	K03319	dota:Ot18g00730  .;  
+V1033099	K01465	dtps:27776  estExt_Genewise1.C_chr_40123; .; K01465 dihydroorotase [EC:3.5.2.3]
+V1033169	K00626	dvvi:GSVIVP00029076001  GSVIVT00029076001; assembled CDS; K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+V1033176	K00936	dvvi:GSVIVP00028044001  GSVIVT00028044001; assembled CDS; K00936 
+V1033362	K02761	ypz:YPZ3_2363  celB; PTS system, cellobiose-specific IIC component; K02761 PTS system, cellobiose-specific IIC component
+V1033464	K01915	dvvi:GSVIVP00032953001  GSVIVT00032953001; assembled CDS; K01915 glutamine synthetase [EC:6.3.1.2]
+V1033580	K07024	dota:Ot09g01780  .;  
+V1033591	K03484	yep:YE105_C0562  sucrose operon repressor; K03484 LacI family transcriptional regulator, sucrose operon repressor
+V1033638	K02548	dvvi:GSVIVP00006156001  GSVIVT00006156001; assembled CDS; K02548 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.-]
+V1033786	K00845	zpr:ZPR_4378  ROK family member transcriptional repressor; K00845 glucokinase [EC:2.7.1.2]
+V1034271	K03446	dani:AN9382  Uncharacterized ORF;  
+V1046996	K11754	dtni:412  ;  
+V1047209	K05823	trq:TRQ2_1410  amidohydrolase; K05823 N-acetyldiaminopimelate deacetylase [EC:3.5.1.47]
+V1101399	K00088	dvvi:GSVIVP00002094001  GSVIVT00002094001; assembled CDS; K00088 IMP dehydrogenase [EC:1.1.1.205]
+V1101424	K00790	ddpu:315300  NCBI_GNO_1400005; .;  
+V1101426	K09686	zmo:ZMO0799  ABC-2 type transporter; K09686 antibiotic transport system permease protein
+V1204705	K07706	tte:TTE0562  baeS2; sensory transduction histidine kinase; K07706 two-component system, AgrA family, sensor histidine kinase AgrC [EC:2.7.13.-]
+V1206511	K01992	zpr:ZPR_3118  ABC-type transporter permease protein; K01992 ABC-2 type transport system permease protein
+V1684075	K01286	ypa:YPA_1037  serine-type D-Ala-D-Ala carboxypeptidase (EC:3.4.16.4); K01286 D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+V1819389	K00868	dvvi:GSVIVP00022363001  GSVIVT00022363001; assembled CDS; K00868 pyridoxine kinase [EC:2.7.1.35]
+V1828756	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1872726	K02237	dtni:33702  ;  
+V1872733	K01926	xce:Xcel_0440  CoA-binding domain-containing protein; K01926 AT-rich DNA-binding protein
+V1883274	K00925	dpop:589796  eugene3.29900002; .; K00925 acetate kinase [EC:2.7.2.1]
+V1883275	K01786	zpr:ZPR_2147  L-ribulose-5-phosphate 4-epimerase; K01786 L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4]
+V1885173	K01119	ypz:YPZ3_3234  cpdB; 2,3-cyclic nucleotide 2-phosphodiesterase/3-nucleotidase bifunctional periplasmic precursor protein; K01119 2',3'-cyclic-nucleotide 2'-phosphodiesterase [EC:3.1.4.16]
+V1886264	K01807	dvvi:GSVIVP00031147001  GSVIVT00031147001; assembled CDS; K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6]
+V1890909	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1891137	K01104	dvvi:GSVIVP00022056001  GSVIVT00022056001; assembled CDS; K01078 acid phosphatase [EC:3.1.3.2]; K01104 protein-tyrosine phosphatase [EC:3.1.3.48]
+V1032302	K02434	dvvi:GSVIVP00020369001  GSVIVT00020369001; assembled CDS; K02434 aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+V1032356	K00135	dvvi:GSVIVP00002101001  GSVIVT00002101001; assembled CDS; K00139 succinate-semialdehyde dehydrogenase [EC:1.2.1.24]
+V1032359	K03284	dani:AN6940  Uncharacterized ORF;  
+V1032521	K00943	dvvi:GSVIVP00020561001  GSVIVT00020561001; assembled CDS; K00943 dTMP kinase [EC:2.7.4.9]
+V1032555	K00075	dvvi:GSVIVP00038228001  GSVIVT00038228001; assembled CDS; K00075 UDP-N-acetylmuramate dehydrogenase [EC:1.1.1.158]
+V1032558	K03431	zmo:ZMO1002  glmM; phosphoglucosamine mutase (EC:5.4.2.10); K03431 phosphoglucosamine mutase [EC:5.4.2.10]
+V1032627	K01187	dvvi:GSVIVP00035203001  GSVIVT00035203001; assembled CDS; K01187 alpha-glucosidase [EC:3.2.1.20]
+V1032688	K06158	dvvi:GSVIVP00006684001  GSVIVT00006684001; assembled CDS; K06158 ATP-binding cassette, sub-family F, member 3
+V1032693	K08602	xau:Xaut_2070  PepF/M3 family oligoendopeptidase; K08602 oligoendopeptidase F [EC:3.4.24.-]
+V1032698	K01866	dvvi:GSVIVP00002216001  GSVIVT00002216001; assembled CDS; K01866 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+V1032700	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1032825	K03076	dosa:Os08t0254500-01  Os08g0254500; Similar to Preprotein translocase secY subunit, chloroplast precursor (CpSecY).;  
+V1032920	K02529	dlja:26978  LjSGA_146954.1; /partial;  
+V1032968	K01534	dvvi:GSVIVP00001529001  GSVIVT00001529001; assembled CDS
+V1033050	K01910	yep:YE105_C1628  [citrate [pro-3s]-lyase] ligase; K01910 [citrate (pro-3S)-lyase] ligase [EC:6.2.1.22]
+V1033186	K01990	dtni:18699  ;  
+V1033267	K03429	vpr:Vpar_1358  monogalactosyldiacylglycerol synthase; K03429 1,2-diacylglycerol 3-glucosyltransferase [EC:2.4.1.157]
+V1033440	K02032	ddpu:66764  e_gw1.461.15.1; .;  
+V1033462	K00791	dvvi:GSVIVP00022073001  GSVIVT00022073001; assembled CDS; K00791 tRNA delta(2)-isopentenylpyrophosphate transferase [EC:2.5.1.8]
+V1033559	K01803	dvvi:GSVIVP00036055001  GSVIVT00036055001; assembled CDS; K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1]
+V1033643	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1033667	K00789	dvvi:GSVIVP00028192001  GSVIVT00028192001; assembled CDS; K00789 S-adenosylmethionine synthetase [EC:2.5.1.6]
+V1033672	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1033723	K02529	dlja:26978  LjSGA_146954.1; /partial;  
+V1034206	K09014	dosa:Os01t0830000-01  Os01g0830000; Similar to Plastid sufB (Fragment).;  
+V1034210	K03424	dvvi:GSVIVP00003532001  GSVIVT00003532001; assembled CDS; K03424 TatD DNase family protein [EC:3.1.21.-]
+V1047239	K00003	dvvi:GSVIVP00032075001  GSVIVT00032075001; assembled CDS; K00003 homoserine dehydrogenase [EC:1.1.1.3]; K00928 aspartate kinase [EC:2.7.2.4]
+V1047268	K01758	dtps:11993  fgenesh1_pg.C_chr_23000021; .; K01758 cystathionine gamma-lyase [EC:4.4.1.1]
+V1047272	K02761	ypz:YPZ3_2363  celB; PTS system, cellobiose-specific IIC component; K02761 PTS system, cellobiose-specific IIC component
+V1101199	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1101502	K00244	dani:AN10296  Uncharacterized ORF; S. cerevisiae ortholog YEL047C has fumarate reductase (NADH) activity, has role in cellular response to anoxia and localizes to ribosome, cytosol, plasma membrane enriched fraction, mitochondrion;  
+V1162625	K07486	ypz:YPZ3_pMT0062  transposase; K07486 transposase
+V1336048	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1684159	K02033	ypz:YPZ3_3045  putative transporter, permease protein; K02033 peptide/nickel transport system permease protein
+V1684165	K02030	ypz:YPZ3_3525  putative periplasmic solute-binding protein; K02030 polar amino acid transport system substrate-binding protein
+V1755602	K00574	dvvi:GSVIVP00020327001  GSVIVT00020327001; assembled CDS
+V1796878	K02044	ypz:YPZ3_1090  putative substrate-binding periplasmic transport protein; K02044 phosphonate transport system substrate-binding protein
+V1806605	K01838	dani:AN9497  Uncharacterized ORF; Ortholog of <i>S. cerevisiae</i> YKL033W-A;  
+V1806641	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1806643	K07052	dvvi:GSVIVP00036976001  GSVIVT00036976001; assembled CDS; K07052 
+V1808252	K00864	dvvi:GSVIVP00003297001  GSVIVT00003297001; assembled CDS; K00864 glycerol kinase [EC:2.7.1.30]
+V1819364	K07030	xce:Xcel_2280  Dak phosphatase; K07030
+V1880009	K12999	sub:SUB0703  glycosyl transferase; K12999 glucosyltransferase [EC:2.4.1.-]
+V1884415	K02027	ddpu:267666  SNAP_00035724; .;  
+V1884554	K01867	dvvi:GSVIVP00032095001  GSVIVT00032095001; assembled CDS; K01867 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+V1884715	K07456	dvvi:GSVIVP00013081001  GSVIVT00013081001; assembled CDS; K07456 DNA mismatch repair protein MutS2
+V1032217	K02042	ypz:YPZ3_1092  ABC transport membrane permease; K02042 phosphonate transport system permease protein
+V1032295	K01005	dpkn:PK6_0780c  cardiolipin synthetase, putative; K01005 
+V1032339	K03569	zpr:ZPR_0661  rod shape-determining protein MreB; K03569 rod shape-determining protein MreB and related proteins
+V1032360	K07021	dota:Ot09g03580  Transcription factor GT-2 and related proteins, contains trihelix DNA-binding/SANT domain (ISS);  
+V1032361	K02026	ypz:YPZ3_3065  sugar transport system, permease protein; K02026 multiple sugar transport system permease protein
+V1032406	K00057	dpch:6477  fgenesh1_pg.C_scaffold_11000162; .;  
+V1032444	K09960	ypy:YPK_1225  hypothetical protein; K09960 hypothetical protein
+V1032446	K09961	ypy:YPK_1223  hypothetical protein; K09961 hypothetical protein
+V1032495	K05833	vvy:VV2129  ABC-type uncharacterized transport system, ATPase component; K05833 putative ABC transport system ATP-binding protein
+V1032564	K01251	dvvi:GSVIVP00031656001  GSVIVT00031656001; assembled CDS; K01251 adenosylhomocysteinase [EC:3.3.1.1]
+V1032607	K02003	dpop:271985  gw1.14874.4.1; .; K02003 
+V1032616	K02038	zmo:ZMO1049  phosphate ABC transporter inner membrane subunit PstA; K02038 phosphate transport system permease protein
+V1032633	K10110	ypz:YPZ3_3276  malG; maltose transport system permease protein MalG; K10110 maltose/maltodextrin transport system permease protein
+V1032636	K03177	dvvi:GSVIVP00020642001  GSVIVT00020642001; assembled CDS; K03177 tRNA pseudouridine synthase B [EC:5.4.99.12]
+V1032649	K07668	ttm:Tthe_2686  transcriptional regulator; K07668 two-component system, OmpR family, response regulator VicR
+V1032657	K03799	dlja:1139  chr5.CM0071.200.nd; .;  
+V1032660	K00867	dmtr:Medtr1g147060.1  Bacterial pantothenate kinase; Major facilitator superfamily MFS_1 chr01_pseudomolecule_IMGAG_V3 32678048-32676622 H EGN_Mt090430 20090702;  
+V1032675	K04083	dtps:21837  estExt_fgenesh1_pg.C_chr_30547; .; K04083 molecular chaperone Hsp33
+V1032701	K02034	zmo:ZMO0982  binding-protein-dependent transport systems inner membrane component; K02034 peptide/nickel transport system permease protein
+V1032764	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1032926	K00384	dvvi:GSVIVP00006001001  GSVIVT00006001001; assembled CDS; K00384 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+V1032931	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1032955	K02761	ypz:YPZ3_2363  celB; PTS system, cellobiose-specific IIC component; K02761 PTS system, cellobiose-specific IIC component
+V1032996	K04094	zmo:ZMO0691  tRNA (uracil-5-)-methyltransferase Gid; K04094 glucose inhibited division protein Gid
+V1033021	K03699	dani:AN0789  Uncharacterized ORF;  
+V1033028	K02687	dpop:791935  fgenesh4_pg.C_scaffold_3088000001; .; K02687 ribosomal protein L11 methyltransferase [EC:2.1.1.-]
+V1033079	K00850	dvvi:GSVIVP00032133001  GSVIVT00032133001; assembled CDS; K00850 6-phosphofructokinase [EC:2.7.1.11]
+V1033098	K01956	dvvi:GSVIVP00034896001  GSVIVT00034896001; assembled CDS; K01956 carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+V1033125	K07030	xce:Xcel_2280  Dak phosphatase; K07030
+V1033163	K01784	dvvi:GSVIVP00029850001  GSVIVT00029850001; assembled CDS; K01784 UDP-glucose 4-epimerase [EC:5.1.3.2]
+V1033295	K02342	dapi:ACYPI28763-PA  GLEAN_08763; .;  
+V1033327	K01956	dvvi:GSVIVP00034896001  GSVIVT00034896001; assembled CDS; K01956 carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+V1033724	K07478	dvvi:GSVIVP00037524001  GSVIVT00037524001; assembled CDS; K07478 putative ATPase
+V1034192	K02601	zpr:ZPR_1163  transcription antitermination protein; K02601 transcriptional antiterminator NusG
+V1034305	K07029	dvvi:GSVIVP00026944001  GSVIVT00026944001; assembled CDS; K07029 
+V1047058	K03106	dvvi:GSVIVP00021597001  GSVIVT00021597001; assembled CDS; K03106 signal recognition particle subunit SRP54
+V1047060	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1047267	K03654	dvvi:GSVIVP00035461001  GSVIVT00035461001; assembled CDS; K03654 ATP-dependent DNA helicase RecQ [EC:3.6.1.-]
+V1143202	K00786	yen:YE3078  wbcG; putative glycosyltransferase (EC:2.4.-.-); K00786  [EC:2.4.-.-]
+V1143260	K03303	xne:XNC1_1643  putative L-lactate permease; K03303 lactate transporter, LctP family
+V1163647	K03305	dtps:4104  fgenesh1_pg.C_chr_4000054; .; K03305 proton-dependent oligopeptide transporter, POT family
+V1204719	K06147	dtni:8809  ;  
+V1204806	K07076	vdi:Vdis_1578  DNA polymerase beta domain-containing protein; K07076
+V1237104	K02243	sub:SUB0118  competence protein; K02243 competence protein ComGA
+V1338876	K05910	spz:M5005_Spy_1378  NADH peroxidase (EC:1.11.1.1); K05910 NADH peroxidase [EC:1.11.1.1]
+V1338896	K02770	ypz:YPZ3_1188  fruA; PTS system, fructose-specific IIBC component; K02769 PTS system, fructose-specific IIB component [EC:2.7.1.69]; K02770 PTS system, fructose-specific IIC component
+V1552752	K03544	dvvi:GSVIVP00031954001  GSVIVT00031954001; assembled CDS; K03544 ATP-dependent Clp protease ATP-binding subunit ClpX
+V1684092	K03500	dvvi:GSVIVP00033387001  GSVIVT00033387001; assembled CDS; K03500 ribosomal RNA small subunit methyltransferase B [EC:2.1.1.-]
+V1796864	K02023	ypz:YPZ3_3064  putative sugar ABC transporter, ATP-binding protein; K02023 multiple sugar transport system ATP-binding protein
+V1806577	K01223	ddpu:72676  e_gw1.12282.2.1; .;  
+V1806611	K03778	dtps:33104  e_gw1.3.420.1; .; K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]
+V1807976	K02346	dtni:28682  ;  
+V1880033	K10530	spz:M5005_Spy_0340  lctO; L-lactate oxidase (EC:1.13.12.-); K10530 lactate oxidase [EC:1.13.12.-]
+V1882220	K06207	dvvi:GSVIVP00025567001  GSVIVT00025567001; assembled CDS; K06207 GTP-binding protein
+V1885083	K03698	tsa:AciPR4_0597  metal dependent phosphohydrolase; K03698 CMP-binding protein
+V1886365	K07566	dvvi:GSVIVP00037855001  GSVIVT00037855001; assembled CDS; K07566 putative translation factor
+V1891194	K02006	dpop:597142  eugene3.00880092; .
+V1032293	K01916	zpr:ZPR_3823  NH(3)-dependent NAD(+) synthetase; K01916 NAD+ synthase [EC:6.3.1.5]
+V1032342	K02112	dtni:24822  ;  
+V1032405	K13292	zmo:ZMO0291  prolipoprotein diacylglyceryl transferase; K13292 phosphatidylglycerol:prolipoprotein diacylglycerol transferase [EC:2.-.-.-]
+V1032494	K05832	vvy:VV2130  ABC-type uncharacterized transport system, permease component; K05832 putative ABC transport system permease protein
+V1032523	K02341	zpr:ZPR_0035  DNA polymerase III subunit delta'; K02341 DNA polymerase III subunit delta' [EC:2.7.7.7]
+V1032527	K14742	zpr:ZPR_0609  M22 family peptidase; K14742 hypothetical protease [EC:3.4.-.-]
+V1032576	K03293	dsrd:5976  ;  
+V1032593	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1032683	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1032684	K00526	dvvi:GSVIVP00019890001  GSVIVT00019890001; assembled CDS; K10808 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+V1032737	K00805	xce:Xcel_0483  polyprenyl synthetase; K00805 heptaprenyl diphosphate synthase [EC:2.5.1.30]
+V1032750	K02967	dvvi:GSVIVP00013244001  GSVIVT00013244001; assembled CDS; K02967 small subunit ribosomal protein S2
+V1033032	K01892	dvvi:GSVIVP00032071001  GSVIVT00032071001; assembled CDS; K01892 histidyl-tRNA synthetase [EC:6.1.1.21]
+V1033048	K01376	dvvi:GSVIVP00036897001  GSVIVT00036897001; assembled CDS; K01376 
+V1033052	K01644	dani:AN3577  Uncharacterized ORF; Putative citrate lyase;  
+V1033075	K03496	dapi:ACYPI46968-PA  GLEAN_26968; .;  
+V1033082	K09861	zpr:ZPR_0823  hypothetical protein; K09861 hypothetical protein
+V1033094	K02006	dpop:597142  eugene3.00880092; .
+V1033138	K03570	zpr:ZPR_0660  rod shape-determining protein MreC; K03570 rod shape-determining protein MreC
+V1033213	K13789	dmtr:Medtr5g100210.1  Polyprenyl synthetase chr05_pseudomolecule_IMGAG_V3 40103398-40100868 E EGN_Mt090430 20090702;  
+V1033215	K03601	zmo:ZMO0300  exodeoxyribonuclease VII large subunit (EC:3.1.11.6); K03601 exodeoxyribonuclease VII large subunit [EC:3.1.11.6]
+V1033246	K01239	dtni:27122  ;  
+V1033253	K00566	dvvi:GSVIVP00024614001  GSVIVT00024614001; assembled CDS; K00566 tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase [EC:2.1.1.61]
+V1033304	K01478	yep:YE105_C0547  arginine deiminase; K01478 arginine deiminase [EC:3.5.3.6]
+V1033331	K11752	dota:Ot04g04150  Cytosine deaminase FCY1 and related enzymes (ISS);  
+V1033374	K00872	dvvi:GSVIVP00017199001  GSVIVT00017199001; assembled CDS; K00872 homoserine kinase [EC:2.7.1.39]
+V1033426	K02796	ypz:YPZ3_1962  PTS system, mannose-specific IID component; K02796 PTS system, mannose-specific IID component
+V1033463	K01758	dtps:11993  fgenesh1_pg.C_chr_23000021; .; K01758 cystathionine gamma-lyase [EC:4.4.1.1]
+V1033467	K09686	zmo:ZMO0799  ABC-2 type transporter; K09686 antibiotic transport system permease protein
+V1033569	K02036	dosa:Os06t0695800-01  Os06g0695800; Phosphate transport system permease protein 1 domain containing protein.;  
+V1033608	K05340	tsa:AciPR4_2256  putative integral membrane protein; K05340 glucose uptake protein
+V1033679	K01733	dvvi:GSVIVP00032716001  GSVIVT00032716001; assembled CDS; K01733 threonine synthase [EC:4.2.3.1]
+V1033722	K01262	dvvi:GSVIVP00024992001  GSVIVT00024992001; assembled CDS; K01262 X-Pro aminopeptidase [EC:3.4.11.9]
+V1034272	K01990	dtni:18699  ;  
+V1034327	K10117	ttm:Tthe_0754  extracellular solute-binding protein family 1; K10117 multiple sugar transport system substrate-binding protein
+V1047243	K02052	ypz:YPZ3_2477  putative ABC-transporter ATP-binding protein; K02052 putative spermidine/putrescine transport system ATP-binding protein
+V1101377	K01443	dtps:37041  e_gw1.13.85.1; .; K01443 N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]
+V1101405	K03446	dani:AN9382  Uncharacterized ORF;  
+V1150390	K09963	ttm:Tthe_2356  hypothetical protein; K09963 hypothetical protein
+V1199360	K02004	zpr:ZPR_4640  ABC transporter permease; K02004
+V1203697	K01491	dvvi:GSVIVP00027962001  GSVIVT00027962001; assembled CDS; K00288 methylenetetrahydrofolate dehydrogenase (NADP+) [EC:1.5.1.5]; K01491 methenyltetrahydrofolate cyclohydrolase [EC:3.5.4.9]
+V1204507	K03655	dvvi:GSVIVP00030485001  GSVIVT00030485001; assembled CDS
+V1204587	K04074	tye:THEYE_A1797  cell-division initiation protein; K04074 cell division initiation protein
+V1204704	K02770	ypz:YPZ3_1188  fruA; PTS system, fructose-specific IIBC component; K02769 PTS system, fructose-specific IIB component [EC:2.7.1.69]; K02770 PTS system, fructose-specific IIC component
+V1204773	K03446	dani:AN9382  Uncharacterized ORF;  
+V1237154	K01060	xce:Xcel_2723  acetyl xylan esterase; K01060 cephalosporin-C deacetylase [EC:3.1.1.41]
+V1338888	K01239	dtni:27122  ;  
+V1366239	K07462	zpr:ZPR_0236  single-stranded-DNA-specific exonuclease RecJ; K07462 single-stranded-DNA-specific exonuclease [EC:3.1.-.-]
+V1366241	K07484	ypz:YPZ3_0337  hypothetical protein; K07484 transposase
+V1389191	K07444	zpr:ZPR_1851  RNA methylase family protein; K07444 putative N6-adenine-specific DNA methylase [EC:2.1.1.-]
+V1398941	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1552707	K05592	dtni:7510  ;  
+V1684142	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1684177	K00364	dtni:1185  ;  
+V1755542	K04763	zpr:ZPR_1869  tyrosine recombinase; K04763 integrase/recombinase XerD
+V1796866	K03455	dosa:Os03t0127900-01  Os03g0127900; Cation/H+ exchanger domain containing protein.;  
+V1806656	K05946	xac:XAC0046  rffM; UDP-N-acetyl-D-mannosamine transferase; K05946 N-acetylglucosaminyldiphosphoundecaprenol [EC:2.4.1.187]
+V1882979	K02038	zmo:ZMO1049  phosphate ABC transporter inner membrane subunit PstA; K02038 phosphate transport system permease protein
+V1883276	K06198	wch:wcw_1948  putative transcription factor, CoiA-like family; K06198 competence protein CoiA
+V1884510	K07652	dmtr:Medtr3g138810.1  Response regulator receiver; ATP-binding region, ATPase-like chr03_pseudomolecule_IMGAG_V3 35545580-35542923 H EGN_Mt090430 20090702;  
+V1884653	K02800	dapi:ACYPI50775-PA  GLEAN_30775; .;  
+V1884791	K01258	zpr:ZPR_0860  peptidase T; K01258 tripeptide aminopeptidase [EC:3.4.11.4]
+V1885117	K00986	xcc:XCC3626  RNA-directed DNA polymerase; K00986 RNA-directed DNA polymerase [EC:2.7.7.49]
+V1886313	K03798	dvvi:GSVIVP00024154001  GSVIVT00024154001; assembled CDS; K03798 cell division protease FtsH [EC:3.4.24.-]
+V1891162	K06286	sub:SUB0650  ezrA; septation ring formation regulator EzrA; K06286 septation ring formation regulator
+V1032218	K02041	ypz:YPZ3_1089  putative ABC transport ATP-binding subunit; K02041 phosphonate transport system ATP-binding protein
+V1032335	K07478	dvvi:GSVIVP00037524001  GSVIVT00037524001; assembled CDS; K07478 putative ATPase
+V1032413	K03458	dtps:13485  gw1.23.17.1; .; K03458 nucleobase:cation symporter-2, NCS2 family
+V1032465	K03497	zpr:ZPR_4284  partitioning protein; K03497 chromosome partitioning protein, ParB family
+V1032468	K06942	dvvi:GSVIVP00029755001  GSVIVT00029755001; assembled CDS; K06942 
+V1032490	K00100	dvvi:GSVIVP00030668001  GSVIVT00030668001; assembled CDS; K00100 
+V1032550	K07024	dota:Ot09g01780  .;  
+V1032570	K07313	dmtr:Medtr2g022060.1  Serine/threonine-specific protein phosphatase and bis(5-nucleosyl)-tetraphosphatase chr02_pseudomolecule_IMGAG_V3 5801969-5802670 H EGN_Mt090430 20090702;  
+V1032597	K07024	dota:Ot09g01780  .;  
+V1032598	K03436	tte:TTE2588  glpR2; sugar metabolism transcriptional regulator; K03436 DeoR family transcriptional regulator, fructose operon transcriptional repressor
+V1032605	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1032630	K10112	dlja:26906  LjSGA_145734.1.1; /partial;  
+V1032634	K03705	zmo:ZMO0015  hrcA; heat-inducible transcription repressor; K03705 heat-inducible transcriptional repressor
+V1032736	K02548	dvvi:GSVIVP00006156001  GSVIVT00006156001; assembled CDS; K02548 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.-]
+V1032741	K00426	dapi:ACYPI40540-PA  GLEAN_20540; .;  
+V1032742	K00425	dapi:ACYPI56368-PA  GLEAN_36368; .;  
+V1032752	K09903	dvvi:GSVIVP00034853001  GSVIVT00034853001; assembled CDS; K00947 
+V1032836	K04763	zpr:ZPR_1869  tyrosine recombinase; K04763 integrase/recombinase XerD
+V1032837	K00243	zpr:ZPR_1718  nucleic acid-binding domain-containing protein; K00243 hypothetical protein
+V1032909	K11144	uue:UUR10_0311  hypothetical protein; K11144 primosomal protein DnaI
+V1032918	K01259	dvvi:GSVIVP00038542001  GSVIVT00038542001; assembled CDS; K01259 proline iminopeptidase [EC:3.4.11.5]
+V1032928	K06131	zmo:ZMO0314  phospholipase D/transphosphatidylase; K06131 cardiolipin synthase [EC:2.7.8.-]
+V1032954	K01223	ddpu:72676  e_gw1.12282.2.1; .;  
+V1032957	K01223	ddpu:72676  e_gw1.12282.2.1; .;  
+V1032999	K03470	dtps:18530  gw1.4.569.1; .; K03470 ribonuclease HII [EC:3.1.26.4]
+V1033146	K00974	dtps:263072  thaps1_ua_kg.chr_7000029; .; K00974 tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.21 2.7.7.25 3.1.3.- 3.1.4.-]
+V1033174	K02016	dlja:10555  LjT10D02.20.nd; /partial;  
+V1033200	K01893	dvvi:GSVIVP00013655001  GSVIVT00013655001; assembled CDS; K01893 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+V1033248	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1033568	K02036	dosa:Os06t0695800-01  Os06g0695800; Phosphate transport system permease protein 1 domain containing protein.;  
+V1033576	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1033588	K01878	dota:Ot02g07010  .;  
+V1033594	K03655	dvvi:GSVIVP00030485001  GSVIVT00030485001; assembled CDS
+V1033692	K02493	dtni:27529  ;  
+V1033776	K03492	str:Sterm_3118  GntR family transcriptional regulator; K03492 GntR family transcriptional regulator
+V1034324	K01270	zpr:ZPR_1684  aminoacyl-histidine dipeptidase; K01270 aminoacylhistidine dipeptidase [EC:3.4.13.3]
+V1034346	K00941	dvvi:GSVIVP00035470001  GSVIVT00035470001; assembled CDS
+V1047203	K01126	dvvi:GSVIVP00016186001  GSVIVT00016186001; assembled CDS; K01126 glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+V1047241	K09687	dtni:6649  ;  
+V1101427	K09687	dtni:6649  ;  
+V1101429	K11933	ypz:YPZ3_1241  hcr; putative oxidoreductase; K11933 NADH oxidoreductase Hcr [EC:1.-.-.-]
+V1150703	K08368	ypz:YPZ3_2109  putative transporter protein; K08368 MFS transporter, putative metabolite transport protein
+V1163617	K06901	dvvi:GSVIVP00029413001  GSVIVT00029413001; assembled CDS; K06901 putative MFS transporter, AGZA family, xanthine/uracil permease
+V1163775	K06889	dvvi:GSVIVP00016548001  GSVIVT00016548001; assembled CDS
+V1163789	K00904	dtni:29469  ;  
+V1204788	K03701	ddpu:319808  NCBI_GNO_3100105; .;  
+V1237098	K11069	xne:XNC1_3701  potD; spermidine/putrescine ABC transporter periplasmic-binding protein; K11069 spermidine/putrescine transport system substrate-binding protein
+V1301210	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1338863	K00873	dvvi:GSVIVP00033621001  GSVIVT00033621001; assembled CDS; K00873 pyruvate kinase [EC:2.7.1.40]
+V1338864	K06147	dtni:8809  ;  
+V1338894	K03427	zpr:ZPR_4675  type I restriction-modification system DNA methylase; K03427 type I restriction enzyme M protein [EC:2.1.1.72]
+V1796870	K01463	dvvi:GSVIVP00028906001  GSVIVT00028906001; assembled CDS; K01463 
+V1796916	K00925	dpop:589796  eugene3.29900002; .; K00925 acetate kinase [EC:2.7.2.1]
+V1806642	K01026	sax:USA300HOU_0244  3-oxoacid CoA-transferase (EC:2.8.3.5); K01026 propionate CoA-transferase [EC:2.8.3.1]
+V1808244	K03305	dtps:4104  fgenesh1_pg.C_chr_4000054; .; K03305 proton-dependent oligopeptide transporter, POT family
+V1828853	K01005	dpkn:PK6_0780c  cardiolipin synthetase, putative; K01005 
+V1872763	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1880919	K06889	dvvi:GSVIVP00016548001  GSVIVT00016548001; assembled CDS
+V1883115	K03070	dvvi:GSVIVP00028236001  GSVIVT00028236001; assembled CDS; K03070 preprotein translocase subunit SecA
+V1884587	K01866	dvvi:GSVIVP00002216001  GSVIVT00002216001; assembled CDS; K01866 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+V1887057	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1891156	K02004	zpr:ZPR_4640  ABC transporter permease; K02004
+V1032232	K00948	dvvi:GSVIVP00018977001  GSVIVT00018977001; assembled CDS; K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+V1032298	K01227	dtni:26132  ;  
+V1032426	K03217	dvvi:GSVIVP00030703001  GSVIVT00030703001; assembled CDS; K03217 preprotein translocase subunit YidC
+V1032431	K10040	vpe:Varpa_4702  polar amino acid ABC transporter, inner membrane subunit; K10040 putative glutamine transport system permease protein
+V1032462	K03734	zpr:ZPR_1921  thiamin biosynthesis lipoprotein; K03734 thiamine biosynthesis lipoprotein
+V1032519	K06187	zpr:ZPR_1233  recombination protein RecR; K06187 recombination protein RecR
+V1032525	K07056	dvvi:GSVIVP00014544001  GSVIVT00014544001; assembled CDS; K07056 
+V1032526	K01071	dtni:3671  ;  
+V1032561	K03488	dapi:ACYPI49254-PA  GLEAN_29254; .;  
+V1032585	K10039	wsu:WS0279  binding component of ABC transporter; K10039 putative glutamine transport system substrate-binding protein
+V1032620	K00526	dvvi:GSVIVP00019890001  GSVIVT00019890001; assembled CDS; K10808 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+V1032663	K02028	ypz:YPZ3_2860  putative amino acid ABC transporter, ATP-binding protein; K02028 polar amino acid transport system ATP-binding protein [EC:3.6.3.21]
+V1032724	K03152	dvvi:GSVIVP00027798001  GSVIVT00027798001; assembled CDS; K05687 protein DJ-1
+V1032735	K03885	dvvi:GSVIVP00029180001  GSVIVT00029180001; assembled CDS; K03885 NADH dehydrogenase [EC:1.6.99.3]
+V1032751	K02357	dtps:2892  fgenesh1_pg.C_chr_2000847; .; K02357 elongation factor EF-Ts
+V1032839	K01066	dvvi:GSVIVP00036563001  GSVIVT00036563001; assembled CDS; K01066 esterase / lipase [EC:3.1.1.-]
+V1033008	K00858	dvvi:GSVIVP00024584001  GSVIVT00024584001; assembled CDS; K00858 NAD+ kinase [EC:2.7.1.23]
+V1033013	K07707	sub:SUB1670  fasA; response regulator protein; K07707 two-component system, AgrA family, response regulator AgrA
+V1033043	K01424	dvvi:GSVIVP00017540001  GSVIVT00017540001; assembled CDS; K01424 L-asparaginase [EC:3.5.1.1]
+V1033167	K07058	dapi:ACYPI38711-PA  GLEAN_18711; .;  
+V1033258	K03979	dtps:33088  e_gw1.3.315.1; .; K03979 GTP-binding protein
+V1033296	K15051	sub:SUB0677  endA; competence associated endonuclease; K15051 DNA-entry nuclease
+V1033391	K09013	dvvi:GSVIVP00002047001  GSVIVT00002047001; assembled CDS; K09013 Fe-S cluster assembly ATP-binding protein
+V1033402	K05966	yep:YE105_C1633  2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase; K05966 triphosphoribosyl-dephospho-CoA synthase [EC:2.7.8.25]
+V1033424	K13634	dapi:ACYPI25270-PA  GLEAN_05270; .;  
+V1033428	K02794	ypz:YPZ3_1960  manX; PTS system, mannose-specific IIAB component; K02793 PTS system, mannose-specific IIA component [EC:2.7.1.69]; K02794 PTS system, mannose-specific IIB component [EC:2.7.1.69]
+V1033439	K02033	ypz:YPZ3_3045  putative transporter, permease protein; K02033 peptide/nickel transport system permease protein
+V1033496	K01090	dvvi:GSVIVP00038525001  GSVIVT00038525001; assembled CDS
+V1033531	K07404	dani:AN2112  Uncharacterized ORF;  
+V1033635	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1033669	K08659	tde:TDE2584  dipeptidase; K08659 dipeptidase [EC:3.4.-.-]
+V1033740	K05311	vpr:Vpar_1091  DeoR family transcriptional regulator; K05311 central glycolytic genes regulator
+V1034181	K09685	vpr:Vpar_0606  purine operon repressor, PurR; K09685 purine operon repressor
+V1034186	K03631	zpr:ZPR_3243  DNA repair protein RecN; K03631 DNA repair protein RecN (Recombination protein N)
+V1034207	K03621	ddpu:117277  fgenesh1_pg.C_scaffold_223000025; .;  
+V1034255	K09835	dvvi:GSVIVP00027139001  GSVIVT00027139001; assembled CDS; K09835 carotenoid isomerase [EC:5.-.-.-]
+V1034266	K04487	dvvi:GSVIVP00017707001  GSVIVT00017707001; assembled CDS; K04487 cysteine desulfurase [EC:2.8.1.7]
+V1034322	K07485	tvo:TVN0688  hypothetical protein; K07485 transposase
+V1034330	K01258	zpr:ZPR_0860  peptidase T; K01258 tripeptide aminopeptidase [EC:3.4.11.4]
+V1046990	K00806	dvvi:GSVIVP00024111001  GSVIVT00024111001; assembled CDS; K00806 undecaprenyl pyrophosphate synthetase [EC:2.5.1.31]
+V1047001	K05885	dota:Ot10g00700  putative aldo/keto reductase [Oryza sativa (ISS);  
+V1047006	K06967	vvy:VVA0944  SAM-dependent methyltransferase; K06967
+V1047012	K01533	dvvi:GSVIVP00030125001  GSVIVT00030125001; assembled CDS; K01533 Cu2+-exporting ATPase [EC:3.6.3.4]
+V1047200	K02529	dlja:26978  LjSGA_146954.1; /partial;  
+V1047210	K01507	dvvi:GSVIVP00029599001  GSVIVT00029599001; assembled CDS; K01507 inorganic pyrophosphatase [EC:3.6.1.1]
+V1047237	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1101263	K06926	xce:Xcel_2870  hypothetical protein; K06926
+V1101375	K03110	dvvi:GSVIVP00026227001  GSVIVT00026227001; assembled CDS; K03110 signal recognition particle receptor
+V1101403	K01179	dvvi:GSVIVP00035959001  GSVIVT00035959001; assembled CDS; K01179 endoglucanase [EC:3.2.1.4]
+V1143334	K02055	ypz:YPZ3_2480  putative transport system periplasmic protein; K02055 putative spermidine/putrescine transport system substrate-binding protein
+V1199406	K00867	dmtr:Medtr1g147060.1  Bacterial pantothenate kinase; Major facilitator superfamily MFS_1 chr01_pseudomolecule_IMGAG_V3 32678048-32676622 H EGN_Mt090430 20090702;  
+V1203288	K01112	dvvi:GSVIVP00027249001  GSVIVT00027249001; assembled CDS; K01112 
+V1206528	K01126	dvvi:GSVIVP00016186001  GSVIVT00016186001; assembled CDS; K01126 glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+V1237131	K07487	spy:SPy_2013  IS1562 transposase; K07487 transposase
+V1684090	K00661	dsrd:12147  ;  
+V1755597	K04761	ddpu:338001  NCBI_GNO_196000001; .;  
+V1872768	K08161	dlja:11656  chr1.LjT05B18.110.nd; /partial;  
+V1883295	K03655	dvvi:GSVIVP00030485001  GSVIVT00030485001; assembled CDS
+V1883307	K01809	dvvi:GSVIVP00038234001  GSVIVT00038234001; assembled CDS; K01809 mannose-6-phosphate isomerase [EC:5.3.1.8]
+V1884289	K03350	dvvi:GSVIVP00016677001  GSVIVT00016677001; assembled CDS; K03350 anaphase-promoting complex component APC3
+V1884406	K01934	dvvi:GSVIVP00031739001  GSVIVT00031739001; assembled CDS
+V1884439	K00547	dvvi:GSVIVP00023763001  GSVIVT00023763001; assembled CDS; K00547 homocysteine S-methyltransferase [EC:2.1.1.10]
+V1884608	K09384	dsrd:21933  ;  
+V1891419	K03446	dani:AN9382  Uncharacterized ORF;  
+V1032222	K02773	vei:Veis_2222  putative PTS IIA-like nitrogen-regulatory protein PtsN; K02773 PTS system, galactitol-specific IIA component [EC:2.7.1.69]
+V1032223	K08728	reh:H16_A0680  nucleoside 2-deoxyribosyltransferase (EC:2.4.2.6); K08728 nucleoside deoxyribosyltransferase [EC:2.4.2.6]
+V1032228	K01921	dlja:25987  LjSGA_019583.1; /partial;  
+V1032379	K07052	dvvi:GSVIVP00036976001  GSVIVT00036976001; assembled CDS; K07052 
+V1032394	K00059	dvvi:GSVIVP00035074001  GSVIVT00035074001; assembled CDS; K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+V1032397	K03553	dvvi:GSVIVP00025801001  GSVIVT00025801001; assembled CDS; K03553 recombination protein RecA
+V1032398	K13685	vpr:Vpar_1542  glycosyl transferase family 4; K13685 UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl 1-P transferase [EC:2.7.8.-]
+V1032422	K07040	dlja:8557  chr6.CM0738.140.nd; /partial;  
+V1032464	K03501	dvvi:GSVIVP00016162001  GSVIVT00016162001; assembled CDS; K03501 glucose inhibited division protein B [EC:2.1.-.-]
+V1032547	K09960	ypy:YPK_1225  hypothetical protein; K09960 hypothetical protein
+V1032552	K00625	dola:16620  ENSORLG00000013267; .;  
+V1032599	K01362	dvvi:GSVIVP00028325001  GSVIVT00028325001; assembled CDS
+V1032600	K07024	dota:Ot09g01780  .;  
+V1032608	K03100	dvvi:GSVIVP00016732001  GSVIVT00016732001; assembled CDS; K03100 signal peptidase I [EC:3.4.21.89]
+V1032656	K03744	zpr:ZPR_0784  hypothetical protein; K03744 LemA protein
+V1032671	K02244	sub:SUB0119  competence protein; K02244 competence protein ComGB
+V1032702	K02031	dapi:ACYPI45144-PA  GLEAN_25144; .;  
+V1032708	K01823	dvvi:GSVIVP00025071001  GSVIVT00025071001; assembled CDS; K01823 isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]
+V1032720	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1032772	K07023	dvvi:GSVIVP00030235001  GSVIVT00030235001; assembled CDS
+V1032820	K02931	dvvi:GSVIVP00026943001  GSVIVT00026943001; assembled CDS; K02931 large subunit ribosomal protein L5
+V1032929	K03469	dtps:2595  fgenesh1_pg.C_chr_2000550; .; K03469 ribonuclease HI [EC:3.1.26.4]
+V1032974	K07741	spz:M5005_Spy_1217  phage antirepressor protein; K07741 anti-repressor protein
+V1032995	K03733	zpr:ZPR_1154  tyrosine recombinase XerC; K03733 integrase/recombinase XerC
+V1033054	K02057	ddpu:344873  NCBI_GNO_1170800001; .;  
+V1033139	K03569	zpr:ZPR_0661  rod shape-determining protein MreB; K03569 rod shape-determining protein MreB and related proteins
+V1033147	K11068	dtps:11229  fgenesh1_pg.C_chr_19a_19000172; .; K11068 hemolysin III
+V1033162	K01190	dvvi:GSVIVP00034182001  GSVIVT00034182001; assembled CDS; K01190 beta-galactosidase [EC:3.2.1.23]
+V1033166	K01265	dvvi:GSVIVP00030293001  GSVIVT00030293001; assembled CDS; K01265 methionyl aminopeptidase [EC:3.4.11.18]
+V1033173	K02013	dlja:26890  LjSGA_145438.1; /partial;  
+V1033306	K03545	zpr:ZPR_0628  trigger factor; K03545 trigger factor
+V1033332	K14652	dsrd:5461  ;  
+V1033392	K11717	dota:Ot03g03050  cysteine desulfurase (ISS);  
+V1033451	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1033472	K00882	ypz:YPZ3_1187  fruK; 1-phosphofructokinase; K00882 1-phosphofructokinase [EC:2.7.1.56]
+V1033497	K00604	dvvi:GSVIVP00022341001  GSVIVT00022341001; assembled CDS; K00604 methionyl-tRNA formyltransferase [EC:2.1.2.9]
+V1033555	K01914	dtps:24816  estExt_fgenesh1_pg.C_chr_140126; .; K01914 aspartate--ammonia ligase [EC:6.3.1.1]
+V1033570	K06949	dvvi:GSVIVP00002842001  GSVIVT00002842001; assembled CDS; K06949 ribosome biogenesis GTPase [EC:3.6.1.-]
+V1034199	K00226	dvvi:GSVIVP00007090001  GSVIVT00007090001; assembled CDS; K00226 dihydroorotate oxidase [EC:1.3.3.1]
+V1034204	K07025	dvvi:GSVIVP00024290001  GSVIVT00024290001; assembled CDS; K07025 putative hydrolase of the HAD superfamily
+V1034248	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1034286	K09681	pjd:Pjdr2_1709  transcriptional regulator, LysR family; K09681 LysR family transcriptional regulator, transcription activator of glutamate synthase operon
+V1034318	K06926	xce:Xcel_2870  hypothetical protein; K06926
+V1034333	K02334	zmn:Za10_0209  phage SPO1 DNA polymerase-related protein; K02334 DNA polymerase bacteriophage-type [EC:2.7.7.7]
+V1046998	K02563	dvvi:GSVIVP00017740001  GSVIVT00017740001; assembled CDS; K02563 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+V1047068	K06878	dvvi:GSVIVP00038829001  GSVIVT00038829001; assembled CDS; K01874 methionyl-tRNA synthetase [EC:6.1.1.10]
+V1047073	K00924	dvvi:GSVIVP00038883001  GSVIVT00038883001; assembled CDS; K00924 
+V1047169	K02340	zpr:ZPR_3066  DNA polymerase III subunit delta; K02340 DNA polymerase III subunit delta [EC:2.7.7.7]
+V1047299	K06901	dvvi:GSVIVP00029413001  GSVIVT00029413001; assembled CDS; K06901 putative MFS transporter, AGZA family, xanthine/uracil permease
+V1101417	K06180	dvvi:GSVIVP00015501001  GSVIVT00015501001; assembled CDS; K06180 ribosomal large subunit pseudouridine synthase D [EC:5.4.99.12]
+V1149272	K09952	zpr:ZPR_4422  hypothetical protein; K09952 hypothetical protein
+V1163705	K07486	ypz:YPZ3_pMT0062  transposase; K07486 transposase
+V1338897	K02003	dpop:271985  gw1.14874.4.1; .; K02003 
+V1338909	K01193	dvvi:GSVIVP00034185001  GSVIVT00034185001; assembled CDS; K01193 beta-fructofuranosidase [EC:3.2.1.26]
+V1684078	K03589	zpr:ZPR_3806  FtsQ-like cell division protein; K03589 cell division protein FtsQ
+V1684149	K03436	tte:TTE2588  glpR2; sugar metabolism transcriptional regulator; K03436 DeoR family transcriptional regulator, fructose operon transcriptional repressor
+V1684169	K01420	zpr:ZPR_1983  CRP family transcriptional regulator; K01420 CRP/FNR family transcriptional regulator, anaerobic regulatory protein
+V1755580	K00016	dvvi:GSVIVP00009618001  GSVIVT00009618001; assembled CDS; K00016 L-lactate dehydrogenase [EC:1.1.1.27]
+V1796922	K03667	dtps:20993  estExt_fgenesh1_pg.C_chr_10921; .; K03667 ATP-dependent HslUV protease ATP-binding subunit HslU
+V1806595	K02821	ypz:YPZ3_2270  phosphotransferase enzyme II, A component; K02821 PTS system, ascorbate-specific IIA component [EC:2.7.1.69]
+V1806599	K02099	ypz:YPZ3_1600  araC; arabinose operon regulatory protein; K02099 AraC family transcriptional regulator, arabinose operon regulatory protein
+V1806636	K01358	dvvi:GSVIVP00028120001  GSVIVT00028120001; assembled CDS; K01358 ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+V1806657	K03710	zpr:ZPR_4385  transcriptional regulator; K03710 GntR family transcriptional regulator
+V1807974	K01409	dvvi:GSVIVP00001958001  GSVIVT00001958001; assembled CDS; K01409 O-sialoglycoprotein endopeptidase [EC:3.4.24.57]
+V1828716	K02836	dvvi:GSVIVP00025035001  GSVIVT00025035001; assembled CDS; K02836 peptide chain release factor RF-2
+V1828717	K11936	ypy:YPK_2239  hmsR; N-glycosyltransferase; K11936 biofilm PGA synthesis N-glycosyltransferase PgaC [EC:2.4.-.-]
+V1872685	K02008	dpop:418672  gw1.VIII.100.1; .
+V1883278	K09687	dtni:6649  ;  
+V1883370	K01200	vco:VC0395_A2273  pullulanase (EC:3.2.1.41); K01200 pullulanase [EC:3.2.1.41]
+V1883371	K03481	str:Sterm_3662  RpiR family transcriptional regulator; K03481 RpiR family transcriptional regulator, glv operon transcriptional regulator
+V1884620	K00571	dtps:34058  e_gw1.5.404.1; .
+V1890913	K02073	ypz:YPZ3_1205  hypothetical protein; K02073 D-methionine transport system substrate-binding protein
+V1032210	K04068	ypz:YPZ3_3050  anaerobic ribonucleoside-triphosphate reductase activating protein; K04068 anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]
+V1032216	K02042	ypz:YPZ3_1092  ABC transport membrane permease; K02042 phosphonate transport system permease protein
+V1032303	K07029	dvvi:GSVIVP00026944001  GSVIVT00026944001; assembled CDS; K07029 
+V1032304	K06890	dvvi:GSVIVP00023775001  GSVIVT00023775001; assembled CDS; K06890 
+V1032311	K03550	dlja:8827  chr5.CM0813.410.nd; /partial;  
+V1032312	K03551	ddpu:315314  NCBI_GNO_1400019; .;  
+V1032399	K01271	dvvi:GSVIVP00016599001  GSVIVT00016599001; assembled CDS; K01271 X-Pro dipeptidase [EC:3.4.13.9]
+V1032404	K06023	xop:PXO_02224  HPr kinase/phosphorylase; K06023 HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]
+V1032448	K07474	ypy:YPK_3746  putative phage terminase, small subunit; K07474 phage terminase small subunit
+V1032513	K02864	dvvi:GSVIVP00029480001  GSVIVT00029480001; assembled CDS; K02864 large subunit ribosomal protein L10
+V1032573	K15051	sub:SUB0677  endA; competence associated endonuclease; K15051 DNA-entry nuclease
+V1032614	K02040	zmo:ZMO1047  phosphate ABC transporter periplasmic phosphate-binding protein; K02040 phosphate transport system substrate-binding protein
+V1032615	K02037	dlja:26747  LjSGA_142671.2; /partial;  
+V1032617	K02036	dosa:Os06t0695800-01  Os06g0695800; Phosphate transport system permease protein 1 domain containing protein.;  
+V1032618	K07658	zpr:ZPR_0499  two-component system response regulator; K07658 two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP
+V1032651	K00784	dvvi:GSVIVP00034348001  GSVIVT00034348001; assembled CDS; K00784 ribonuclease Z [EC:3.1.26.11]
+V1032670	K00975	dvvi:GSVIVP00036349001  GSVIVT00036349001; assembled CDS
+V1032680	K01056	dvvi:GSVIVP00038245001  GSVIVT00038245001; assembled CDS; K01056 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+V1032722	K03295	dvvi:GSVIVP00020819001  GSVIVT00020819001; assembled CDS; K03295 cation efflux system protein, CDF family
+V1032738	K03183	dtps:2944  fgenesh1_pg.C_chr_2000899; .; K03183 ubiquinone/menaquinone biosynthesis methyltransferase [EC:2.1.1.-]
+V1032768	K01126	dvvi:GSVIVP00016186001  GSVIVT00016186001; assembled CDS; K01126 glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+V1032791	K03549	dvvi:GSVIVP00029418001  GSVIVT00029418001; assembled CDS; K03549 KUP system potassium uptake protein
+V1032814	K02982	dvvi:GSVIVP00013200001  GSVIVT00013200001; assembled CDS; K02982 small subunit ribosomal protein S3
+V1032826	K00939	dvvi:GSVIVP00035062001  GSVIVT00035062001; assembled CDS; K00939 adenylate kinase [EC:2.7.4.3]
+V1032846	K00847	dvvi:GSVIVP00031957001  GSVIVT00031957001; assembled CDS; K00847 fructokinase [EC:2.7.1.4]
+V1032850	K07507	zpr:ZPR_4070  hypothetical protein; K07507 putative Mg2+ transporter-C (MgtC) family protein
+V1032925	K03975	dota:Ot13g01460  DedA protein (ISS);  
+V1032940	K01447	zpr:ZPR_4700  N-acetylmuramoyl-L-alanine amidase; K01447 N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+V1032941	K01185	ddpu:300287  PASA_GEN_1000108; .;  
+V1032991	K02069	dvvi:GSVIVP00023093001  GSVIVT00023093001; assembled CDS; K02069 putative ABC transport system permease protein
+V1033000	K14540	dosa:Os11t0447300-01  Os11g0447300; GTP-binding protein, HSR1-related domain containing protein.;  
+V1033044	K03481	str:Sterm_3662  RpiR family transcriptional regulator; K03481 RpiR family transcriptional regulator, glv operon transcriptional regulator
+V1033081	K03427	zpr:ZPR_4675  type I restriction-modification system DNA methylase; K03427 type I restriction enzyme M protein [EC:2.1.1.72]
+V1033084	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1033124	K01066	dvvi:GSVIVP00036563001  GSVIVT00036563001; assembled CDS; K01066 esterase / lipase [EC:3.1.1.-]
+V1033136	K02075	yen:YE3110  putative ABC-transporter membrane protein; K02075 zinc/manganese transport system permease protein
+V1033212	K06442	dvvi:GSVIVP00011801001  GSVIVT00011801001; assembled CDS; K06442 putative hemolysin
+V1033251	K02528	dvvi:GSVIVP00036861001  GSVIVT00036861001; assembled CDS; K02528 dimethyladenosine transferase [EC:2.1.1.-]
+V1033263	K00928	dvvi:GSVIVP00037944001  GSVIVT00037944001; assembled CDS; K00928 aspartate kinase [EC:2.7.2.4]
+V1033303	K04761	ddpu:338001  NCBI_GNO_196000001; .;  
+V1033468	K02824	ddpu:241514  SNAP_00009572; .;  
+V1033481	K10118	ttr:Tter_2000  binding-protein-dependent transporters inner membrane component; K10118 multiple sugar transport system permease protein
+V1033482	K10112	dlja:26906  LjSGA_145734.1.1; /partial;  
+V1033532	K03439	dvvi:GSVIVP00032354001  GSVIVT00032354001; assembled CDS; K03439 tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]
+V1033598	K07009	vma:VAB18032_26851  cobb/cobq domain-containing protein glutamine amidotransferase; K07009
+V1033700	K01870	dvvi:GSVIVP00019784001  GSVIVT00019784001; assembled CDS; K01870 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+V1033707	K01639	dtni:12651  ;  
+V1034213	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1034264	K07024	dota:Ot09g01780  .;  
+V1034276	K01439	zmo:ZMO1632  succinyl-diaminopimelate desuccinylase; K01439 succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]
+V1034287	K01356	zmo:ZMO0199  LexA repressor (EC:3.4.21.88); K01356 repressor LexA [EC:3.4.21.88]
+V1046989	K03687	dvvi:GSVIVP00033682001  GSVIVT00033682001; assembled CDS; K03687 molecular chaperone GrpE
+V1047016	K11936	ypy:YPK_2239  hmsR; N-glycosyltransferase; K11936 biofilm PGA synthesis N-glycosyltransferase PgaC [EC:2.4.-.-]
+V1047055	K02781	yep:YE105_C2991  glucitol/sorbitol-specific PTS system component IIA; K02781 PTS system, glucitol/sorbitol-specific IIA component [EC:2.7.1.69]
+V1101484	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1101493	K03446	dani:AN9382  Uncharacterized ORF;  
+V1143367	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1150392	K01187	dvvi:GSVIVP00035203001  GSVIVT00035203001; assembled CDS; K01187 alpha-glucosidase [EC:3.2.1.20]
+V1162576	K07741	spz:M5005_Spy_1217  phage antirepressor protein; K07741 anti-repressor protein
+V1162584	K01156	xcc:XCC1067  type III restriction-modification enzyme, helicase subunit; K01156 type III restriction enzyme [EC:3.1.21.5]
+V1163048	K01181	dtps:268987  estExt_thaps1_ua_kg.C_chr_60011; .; K01181 endo-1,4-beta-xylanase [EC:3.2.1.8]
+V1163759	K07335	xce:Xcel_0994  basic membrane lipoprotein; K07335 basic membrane protein A and related proteins
+V1203404	K01889	dvvi:GSVIVP00036385001  GSVIVT00036385001; assembled CDS; K01889 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+V1204733	K01752	dtps:262207  thaps1_ua_kg.chr_4000217; .; K01752 L-serine dehydratase [EC:4.3.1.17]
+V1206514	K00948	dvvi:GSVIVP00018977001  GSVIVT00018977001; assembled CDS; K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+V1237155	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1338913	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1389024	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1552701	K03217	dvvi:GSVIVP00030703001  GSVIVT00030703001; assembled CDS; K03217 preprotein translocase subunit YidC
+V1552787	K05896	xop:PXO_00873  scpA; segregation and condensation protein A; K05896 segregation and condensation protein A
+V1552799	K03977	dtps:32414  e_gw1.2.194.1; .; K03977 GTP-binding protein
+V1552800	K02945	dvvi:GSVIVP00033192001  GSVIVT00033192001; assembled CDS; K02945 small subunit ribosomal protein S1
+V1796839	K01643	yep:YE105_C1631  citrate lyase alpha chain; K01643 citrate lyase subunit alpha / citrate CoA-transferase [EC:4.1.3.6 2.8.3.10]
+V1796871	K02053	dlja:10946  LjT46I09.130.nd; /partial;  
+V1796880	K06950	dvvi:GSVIVP00030197001  GSVIVT00030197001; assembled CDS; K06950 
+V1796919	K13038	dosa:Os06t0199500-01  Os06g0199500; Similar to Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) (Halotolerance protein Hal3a) (AtHal3a) (PPCDC) (AtCoaC).;  
+V1806619	K02315	xbo:XBJ1_1250  hypothetical protein; K02315 DNA replication protein DnaC
+V1819410	K02483	zmo:ZMO0257  winged helix family two component transcriptional regulator; K02483 two-component system, OmpR family, response regulator
+V1828755	K15051	sub:SUB0677  endA; competence associated endonuclease; K15051 DNA-entry nuclease
+V1883162	K12700	sub:SUB0724  inosine-uridine preferring nucleoside hydrolase; K12700 non-specific riboncleoside hydrolase [EC:3.2.-.-]
+V1883207	K07024	dota:Ot09g01780  .;  
+V1883240	K03574	dtni:10081  ;  
+V1884299	K02355	dvvi:GSVIVP00019173001  GSVIVT00019173001; assembled CDS; K02355 elongation factor EF-G [EC:3.6.5.3]
+V1884645	K00865	dtps:261750  thaps1_ua_kg.chr_3000128; .; K00865 glycerate kinase [EC:2.7.1.31]
+V1884654	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1884657	K07658	zpr:ZPR_0499  two-component system response regulator; K07658 two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP
+V1884709	K03655	dvvi:GSVIVP00030485001  GSVIVT00030485001; assembled CDS
+V1885076	K00244	dani:AN10296  Uncharacterized ORF; S. cerevisiae ortholog YEL047C has fumarate reductase (NADH) activity, has role in cellular response to anoxia and localizes to ribosome, cytosol, plasma membrane enriched fraction, mitochondrion;  
+V1886373	K02770	ypz:YPZ3_1188  fruA; PTS system, fructose-specific IIBC component; K02769 PTS system, fructose-specific IIB component [EC:2.7.1.69]; K02770 PTS system, fructose-specific IIC component
+V1032214	K01246	dvvi:GSVIVP00037647001  GSVIVT00037647001; assembled CDS; K01246 DNA-3-methyladenine glycosylase I [EC:3.2.2.20]
+V1032230	K02028	ypz:YPZ3_2860  putative amino acid ABC transporter, ATP-binding protein; K02028 polar amino acid transport system ATP-binding protein [EC:3.6.3.21]
+V1032348	K02108	dvvi:GSVIVP00013243001  GSVIVT00013243001; assembled CDS; K02108 F-type H+-transporting ATPase subunit a [EC:3.6.3.14]
+V1032423	K02483	zmo:ZMO0257  winged helix family two component transcriptional regulator; K02483 two-component system, OmpR family, response regulator
+V1032460	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1032461	K01104	dvvi:GSVIVP00022056001  GSVIVT00022056001; assembled CDS; K01078 acid phosphatase [EC:3.1.3.2]; K01104 protein-tyrosine phosphatase [EC:3.1.3.48]
+V1032516	K00564	dpop:737629  estExt_Genewise1_v1.C_LG_XVIII2468; .; K07579 putative methylase
+V1032556	K11070	xne:XNC1_3703  potC; spermidine/putrescine ABC transporter membrane protein; K11070 spermidine/putrescine transport system permease protein
+V1032584	K10040	vpe:Varpa_4702  polar amino acid ABC transporter, inner membrane subunit; K10040 putative glutamine transport system permease protein
+V1032586	K10041	wsu:WS0277  amino acid permease ATP-binding protein; K10041 putative glutamine transport system ATP-binding protein [EC:3.6.3.-]
+V1032642	K00981	dvvi:GSVIVP00027257001  GSVIVT00027257001; assembled CDS; K00981 phosphatidate cytidylyltransferase [EC:2.7.7.41]
+V1032753	K02838	dvvi:GSVIVP00020546001  GSVIVT00020546001; assembled CDS; K02838 ribosome recycling factor
+V1032755	K01358	dvvi:GSVIVP00028120001  GSVIVT00028120001; assembled CDS; K01358 ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+V1032774	K03652	dvvi:GSVIVP00025403001  GSVIVT00025403001; assembled CDS; K03652 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+V1032808	K02926	dvvi:GSVIVP00024151001  GSVIVT00024151001; assembled CDS; K02926 large subunit ribosomal protein L4
+V1032824	K02876	dvvi:GSVIVP00030345001  GSVIVT00030345001; assembled CDS; K02876 large subunit ribosomal protein L15
+V1032829	K02945	dvvi:GSVIVP00033192001  GSVIVT00033192001; assembled CDS; K02945 small subunit ribosomal protein S1
+V1032887	K07177	xce:Xcel_0792  peptidase S16 lon domain-containing protein; K07177 PDZ domain-containing protein
+V1032913	K10563	dvvi:GSVIVP00000281001  GSVIVT00000281001; assembled CDS; K10563 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+V1032938	K01304	dtps:5692  fgenesh1_pg.C_chr_5000734; .
+V1032953	K00845	zpr:ZPR_4378  ROK family member transcriptional repressor; K00845 glucokinase [EC:2.7.1.2]
+V1033007	K07816	sub:SUB0852  hypothetical protein; K07816 putative GTP pyrophosphokinase [EC:2.7.6.5]
+V1033037	K00969	zpr:ZPR_0333  nicotinic acid mononucleotide adenylyltransferase; K00969 nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]
+V1033066	K03091	vpr:Vpar_1011  RNA polymerase, sigma-24 subunit, ECF subfamily; K03091 RNA polymerase sporulation-specific sigma factor
+V1033083	K06889	dvvi:GSVIVP00016548001  GSVIVT00016548001; assembled CDS
+V1033093	K02008	dpop:418672  gw1.VIII.100.1; .
+V1033100	K00609	dvvi:GSVIVP00027272001  GSVIVT00027272001; assembled CDS; K00609 aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]
+V1033120	K03081	sub:SUB1724  ulaD; 3-keto-L-gulonate-6-phosphate decarboxylase; K03081 3-dehydro-L-gulonate-6-phosphate decarboxylase [EC:4.1.1.85]
+V1033131	K01000	dvvi:GSVIVP00003447001  GSVIVT00003447001; assembled CDS; K01000 phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+V1033155	K01286	ypa:YPA_1037  serine-type D-Ala-D-Ala carboxypeptidase (EC:3.4.16.4); K01286 D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+V1033199	K02086	tjr:TherJR_1573  primosome, DnaD subunit; K02086 DNA replication protein
+V1033217	K02356	dvvi:GSVIVP00037495001  GSVIVT00037495001; assembled CDS; K02356 elongation factor EF-P
+V1033236	K07741	spz:M5005_Spy_1217  phage antirepressor protein; K07741 anti-repressor protein
+V1033264	K01778	dvvi:GSVIVP00023128001  GSVIVT00023128001; assembled CDS; K01778 diaminopimelate epimerase [EC:5.1.1.7]
+V1033269	K07027	zpr:ZPR_4521  transhypothetical protein; K07027
+V1033328	K06180	dvvi:GSVIVP00015501001  GSVIVT00015501001; assembled CDS; K06180 ribosomal large subunit pseudouridine synthase D [EC:5.4.99.12]
+V1033427	K02795	ypz:YPZ3_1961  manY; PTS system, mannose-specific IIC component; K02795 PTS system, mannose-specific IIC component
+V1033444	K13993	dsrd:4380  ;  
+V1033450	K00058	dvvi:GSVIVP00036649001  GSVIVT00036649001; assembled CDS; K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]
+V1033565	K03086	dtps:33682  e_gw1.4.236.1; .; K03086 RNA polymerase primary sigma factor
+V1033587	K03584	zpr:ZPR_0161  DNA repair protein RecO; K03584 DNA repair protein RecO (recombination protein O)
+V1033602	K06889	dvvi:GSVIVP00016548001  GSVIVT00016548001; assembled CDS
+V1033614	K01887	dvvi:GSVIVP00016648001  GSVIVT00016648001; assembled CDS; K01887 arginyl-tRNA synthetase [EC:6.1.1.19]
+V1033685	K07450	tte:TTE0741  site-specific integrase-resolvase; K07450 putative resolvase
+V1033757	K09698	vpr:Vpar_1017  glutamyl-tRNA synthetase; K09698 nondiscriminating glutamyl-tRNA synthetase [EC:6.1.1.24]
+V1033781	K01362	dvvi:GSVIVP00028325001  GSVIVT00028325001; assembled CDS
+V1034224	K02835	dvvi:GSVIVP00028248001  GSVIVT00028248001; assembled CDS; K02835 peptide chain release factor RF-1
+V1034230	K00016	dvvi:GSVIVP00009618001  GSVIVT00009618001; assembled CDS; K00016 L-lactate dehydrogenase [EC:1.1.1.27]
+V1047141	K14059	ypz:YPZ3_1743  transposase; K14059 integrase
+V1047152	K01953	dvvi:GSVIVP00024074001  GSVIVT00024074001; assembled CDS; K01953 asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+V1047159	K04072	dani:AN5234  Uncharacterized ORF;  
+V1047182	K06994	xce:Xcel_3218  MmpL domain-containing protein; K06994 putative drug exporter of the RND superfamily
+V1047195	K03316	dvvi:GSVIVP00023595001  GSVIVT00023595001; assembled CDS; K03316 monovalent cation:H+ antiporter, CPA1 family
+V1047196	K07030	xce:Xcel_2280  Dak phosphatase; K07030
+V1101540	K01515	dtps:262610  thaps1_ua_kg.chr_5000249; .; K01515 ADP-ribose pyrophosphatase [EC:3.6.1.13]
+V1143250	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1143301	K07033	dvvi:GSVIVP00005318001  GSVIVT00005318001; assembled CDS
+V1143368	K07707	sub:SUB1670  fasA; response regulator protein; K07707 two-component system, AgrA family, response regulator AgrA
+V1163626	K02469	dvvi:GSVIVP00033901001  GSVIVT00033901001; assembled CDS; K02469 DNA gyrase subunit A [EC:5.99.1.3]
+V1163801	K08161	dlja:11656  chr1.LjT05B18.110.nd; /partial;  
+V1204488	K02768	ypz:YPZ3_1186  fruB; hypothetical protein; K02768 PTS system, fructose-specific IIA component [EC:2.7.1.69]; K11183 phosphocarrier protein FPr
+V1204779	K02031	dapi:ACYPI45144-PA  GLEAN_25144; .;  
+V1552805	K06217	zpr:ZPR_1836  phosphate starvation-inducible protein; K06217 phosphate starvation-inducible protein PhoH and related proteins
+V1684083	K02246	sub:SUB0121  competence protein; K02246 competence protein ComGD
+V1684190	K03655	dvvi:GSVIVP00030485001  GSVIVT00030485001; assembled CDS
+V1755545	K03595	dvvi:GSVIVP00024895001  GSVIVT00024895001; assembled CDS; K03595 GTP-binding protein Era
+V1796921	K00777	dsrd:17904  ;  
+V1806626	K05964	yep:YE105_C1632  putative apo-citrate lyase phosphoribosyl-dephospho-CoA transferase; K05964 holo-ACP synthase [EC:2.7.7.61]
+V1806627	K01819	sub:SUB1457  lacA1; galactose-6-phosphate isomerase subunit LacA (EC:5.3.1.26); K01819 galactose-6-phosphate isomerase [EC:5.3.1.26]
+V1819375	K00926	vsp:VS_II1517  carbamate kinase; K00926 carbamate kinase [EC:2.7.2.2]
+V1828832	K07636	zpr:ZPR_3238  two-component system sensor histidine kinase; K07636 two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+V1882180	K09686	zmo:ZMO0799  ABC-2 type transporter; K09686 antibiotic transport system permease protein
+V1882215	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1882343	K02355	dvvi:GSVIVP00019173001  GSVIVT00019173001; assembled CDS; K02355 elongation factor EF-G [EC:3.6.5.3]
+V1882978	K00924	dvvi:GSVIVP00038883001  GSVIVT00038883001; assembled CDS; K00924 
+V1883114	K05808	dmtr:Medtr3g122720.1  Sigma 54 modulation protein/ribosomal protein S30EA chr03_pseudomolecule_IMGAG_V3 30596771-30598784 F EGN_Mt090430 20090702;  
+V1883170	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1885078	K03311	ypz:YPZ3_2818  brnQ; branched-chain amino acid transport system II carrier protein; K03311 branched-chain amino acid:cation transporter, LIVCS family
+V1032322	K01776	zpr:ZPR_0615  glutamate racemase; K01776 glutamate racemase [EC:5.1.1.3]
+V1032396	K00995	dvvi:GSVIVP00029490001  GSVIVT00029490001; assembled CDS; K00995 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]
+V1032428	K03437	dtps:39062  estExt_gwp_gw1.C_chr_10272; .; K03437 RNA methyltransferase, TrmH family
+V1032596	K03492	str:Sterm_3118  GntR family transcriptional regulator; K03492 GntR family transcriptional regulator
+V1032662	K02030	ypz:YPZ3_3525  putative periplasmic solute-binding protein; K02030 polar amino acid transport system substrate-binding protein
+V1032666	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1032673	K01809	dvvi:GSVIVP00038234001  GSVIVT00038234001; assembled CDS; K01809 mannose-6-phosphate isomerase [EC:5.3.1.8]
+V1032691	K07150	yep:YE105_C1986  putative inner membrane protein; K07150
+V1032694	K07341	zmn:Za10_1828  death-on-curing family protein; K07341 death on curing protein
+V1032749	K07461	zpr:ZPR_4424  excinuclease ABC C subunit domain protein; K07461 putative endonuclease
+V1032773	K02028	ypz:YPZ3_2860  putative amino acid ABC transporter, ATP-binding protein; K02028 polar amino acid transport system ATP-binding protein [EC:3.6.3.21]
+V1032793	K02798	dapi:ACYPI50775-PA  GLEAN_30775; .;  
+V1032815	K02878	dvvi:GSVIVP00035271001  GSVIVT00035271001; assembled CDS
+V1032912	K00859	dvvi:GSVIVP00027960001  GSVIVT00027960001; assembled CDS; K00859 dephospho-CoA kinase [EC:2.7.1.24]
+V1032923	K01101	dvvi:GSVIVP00007983001  GSVIVT00007983001; assembled CDS; K01101 4-nitrophenyl phosphatase [EC:3.1.3.41]
+V1032986	K00680	dvvi:GSVIVP00023724001  GSVIVT00023724001; assembled CDS; K00680 
+V1032989	K01259	dvvi:GSVIVP00038542001  GSVIVT00038542001; assembled CDS; K01259 proline iminopeptidase [EC:3.4.11.5]
+V1032998	K04096	zpr:ZPR_0078  smf family protein; K04096 DNA processing protein
+V1033123	K00857	dvvi:GSVIVP00029148001  GSVIVT00029148001; assembled CDS; K00857 thymidine kinase [EC:2.7.1.21]
+V1033126	K02044	ypz:YPZ3_1090  putative substrate-binding periplasmic transport protein; K02044 phosphonate transport system substrate-binding protein
+V1033128	K02939	dvvi:GSVIVP00022142001  GSVIVT00022142001; assembled CDS; K02939 large subunit ribosomal protein L9
+V1033129	K08483	ypz:YPZ3_2637  ptsI; PTS sytem, enzyme I component; K08483 phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]
+V1033142	K00762	dtps:37071  e_gw1.13.155.1; .; K00762 orotate phosphoribosyltransferase [EC:2.4.2.10]
+V1033185	K03442	zpr:ZPR_2251  small-conductance mechanosensitive ion channel protein; K03442 small conductance mechanosensitive channel
+V1033195	K00863	dtps:35684  e_gw1.7.79.1; .; K00863 dihydroxyacetone kinase [EC:2.7.1.29]
+V1033230	K03483	ttm:Tthe_2097  PTS modulated transcriptional regulator, MtlR family (EC:2.7.1.69); K03483 mannitol operon transcriptional antiterminator
+V1033254	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1033278	K01515	dtps:262610  thaps1_ua_kg.chr_5000249; .; K01515 ADP-ribose pyrophosphatase [EC:3.6.1.13]
+V1033334	K00986	xcc:XCC3626  RNA-directed DNA polymerase; K00986 RNA-directed DNA polymerase [EC:2.7.7.49]
+V1033438	K02034	zmo:ZMO0982  binding-protein-dependent transport systems inner membrane component; K02034 peptide/nickel transport system permease protein
+V1033459	K00215	dvvi:GSVIVP00034769001  GSVIVT00034769001; assembled CDS; K00215 dihydrodipicolinate reductase [EC:1.3.1.26]
+V1033460	K01714	dvvi:GSVIVP00026365001  GSVIVT00026365001; assembled CDS; K01714 dihydrodipicolinate synthase [EC:4.2.1.52]
+V1033471	K03436	tte:TTE2588  glpR2; sugar metabolism transcriptional regulator; K03436 DeoR family transcriptional regulator, fructose operon transcriptional repressor
+V1033500	K01624	dtps:35048  e_gw1.6.315.1; .; K01624 fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+V1033515	K02040	zmo:ZMO1047  phosphate ABC transporter periplasmic phosphate-binding protein; K02040 phosphate transport system substrate-binding protein
+V1033535	K00954	zpr:ZPR_0818  phosphopantetheine adenylyltransferase; K00954 pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]
+V1033567	K02039	zmo:ZMO1163  phosphate uptake regulator PhoU; K02039 phosphate transport system protein
+V1033606	K00777	dsrd:17904  ;  
+V1033675	K06221	dtni:4273  ;  
+V1033691	K02824	ddpu:241514  SNAP_00009572; .;  
+V1034200	K02003	dpop:271985  gw1.14874.4.1; .; K02003 
+V1034240	K02750	yep:YE105_C1066  PTS system, alpha-glucoside-specific IIBC component; K02749 PTS system, arbutin-like IIB component [EC:2.7.1.69]; K02750 PTS system, arbutin-like IIC component
+V1034259	K02358	dvvi:GSVIVP00023656001  GSVIVT00023656001; assembled CDS; K02358 elongation factor EF-Tu [EC:3.6.5.3]
+V1034284	K00784	dvvi:GSVIVP00034348001  GSVIVT00034348001; assembled CDS; K00784 ribonuclease Z [EC:3.1.26.11]
+V1047065	K01269	dvvi:GSVIVP00032225001  GSVIVT00032225001; assembled CDS; K01269 aminopeptidase [EC:3.4.11.-]
+V1047074	K01788	ypz:YPZ3_2663  hypothetical protein; K01788 N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]
+V1047177	K00691	sru:SRU_0074  malP; maltodextrin phosphorylase (EC:2.4.1.8); K00691 maltose phosphorylase [EC:2.4.1.8]
+V1047242	K01992	zpr:ZPR_3118  ABC-type transporter permease protein; K01992 ABC-2 type transport system permease protein
+V1047269	K01096	dapi:ACYPI23269-PA  GLEAN_03269; .;  
+V1047283	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1101414	K01442	yep:YE105_C3212  Choloylglycine hydrolase; K01442 choloylglycine hydrolase [EC:3.5.1.24]
+V1101444	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1143329	K00001	dvvi:GSVIVP00034834001  GSVIVT00034834001; assembled CDS; K00001 alcohol dehydrogenase [EC:1.1.1.1]
+V1149288	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1163025	K00662	xne:XNC1_3140  Aminoglycoside 3'-N-acetyltransferase (EC:2.3.1.81); K00662 aminoglycoside N3'-acetyltransferase [EC:2.3.1.81]
+V1163852	K03486	sub:SUB1764  GntR family regulatory protein; K03486 GntR family transcriptional regulator, trehalose operon transcriptional repressor
+V1199410	K07284	xce:Xcel_1522  sortase family protein; K07284 sortase A
+V1204334	K07305	dtps:33576  e_gw1.4.666.1; .; K00391 
+V1204586	K03531	dvvi:GSVIVP00027244001  GSVIVT00027244001; assembled CDS; K03531 cell division protein FtsZ
+V1204708	K02761	ypz:YPZ3_2363  celB; PTS system, cellobiose-specific IIC component; K02761 PTS system, cellobiose-specific IIC component
+V1204783	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1212521	K03647	ypz:YPZ3_2339  nrdI; NrdI protein; K03647 protein involved in ribonucleotide reduction
+V1213966	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1300553	K03885	dvvi:GSVIVP00029180001  GSVIVT00029180001; assembled CDS; K03885 NADH dehydrogenase [EC:1.6.99.3]
+V1552698	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1684153	K02886	dvvi:GSVIVP00013198001  GSVIVT00013198001; assembled CDS; K02886 large subunit ribosomal protein L2
+V1796837	K02072	dapi:ACYPI22656-PA  GLEAN_02656; .;  
+V1806646	K03293	dsrd:5976  ;  
+V1819365	K01419	dtps:1095  fgenesh1_pg.C_chr_1000229; .; K01419 ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.-]
+V1828852	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1872748	K01990	dtni:18699  ;  
+V1879922	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1882173	K07124	dtni:18200  ;  
+V1882982	K03817	zpr:ZPR_0714  acetyltransferase related protein; K03817 ribosomal-protein-serine acetyltransferase [EC:2.3.1.-]
+V1883116	K06023	xop:PXO_02224  HPr kinase/phosphorylase; K06023 HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]
+V1884646	K01193	dvvi:GSVIVP00034185001  GSVIVT00034185001; assembled CDS; K01193 beta-fructofuranosidase [EC:3.2.1.26]
+V1884783	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1886281	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1886305	K03043	dvvi:GSVIVP00013217001  GSVIVT00013217001; assembled CDS; K03043 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+V1887156	K00626	dvvi:GSVIVP00029076001  GSVIVT00029076001; assembled CDS; K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+V1890869	K06994	xce:Xcel_3218  MmpL domain-containing protein; K06994 putative drug exporter of the RND superfamily
+V1891117	K03484	yep:YE105_C0562  sucrose operon repressor; K03484 LacI family transcriptional regulator, sucrose operon repressor
+V1891128	K02031	dapi:ACYPI45144-PA  GLEAN_25144; .;  
+V1891158	K02004	zpr:ZPR_4640  ABC transporter permease; K02004
+V1032234	K07171	zpr:ZPR_0705  PemK family protein; K07171
+V1032313	K03210	zpr:ZPR_0858  YajC family protein; K03210 preprotein translocase subunit YajC
+V1032319	K03671	dvvi:GSVIVP00036859001  GSVIVT00036859001; assembled CDS; K03671 thioredoxin 1
+V1032320	K03282	dpch:7568  fgenesh1_pg.C_scaffold_13000356; .;  
+V1032330	K03151	ypz:YPZ3_2793  thiamine biosynthesis protein; K03151 thiamine biosynthesis protein ThiI
+V1032333	K02986	dvvi:GSVIVP00008898001  GSVIVT00008898001; assembled CDS; K02986 small subunit ribosomal protein S4
+V1032341	K02114	dpop:747580  estExt_Genewise1_v1.C_7600023; .; K02114 F-type H+-transporting ATPase subunit epsilon [EC:3.6.3.14]
+V1032355	K08728	reh:H16_A0680  nucleoside 2-deoxyribosyltransferase (EC:2.4.2.6); K08728 nucleoside deoxyribosyltransferase [EC:2.4.2.6]
+V1032362	K02025	ypz:YPZ3_3066  sugar transport system, permease protein; K02025 multiple sugar transport system permease protein
+V1032432	K02028	ypz:YPZ3_2860  putative amino acid ABC transporter, ATP-binding protein; K02028 polar amino acid transport system ATP-binding protein [EC:3.6.3.21]
+V1032433	K10039	wsu:WS0279  binding component of ABC transporter; K10039 putative glutamine transport system substrate-binding protein
+V1032471	K07775	toc:Toce_1455  two component transcriptional regulator, winged helix family; K07775 two-component system, OmpR family, response regulator ResD
+V1032488	K07024	dota:Ot09g01780  .;  
+V1032559	K07024	dota:Ot09g01780  .;  
+V1032572	K02071	dbmo:BGIBMGA010555  .;  
+V1032583	K02029	ypz:YPZ3_3524  ABC transporter permease; K02029 polar amino acid transport system permease protein
+V1032591	K02030	ypz:YPZ3_3525  putative periplasmic solute-binding protein; K02030 polar amino acid transport system substrate-binding protein
+V1032603	K02777	dapi:ACYPI008091-PA  LOC100167282; PREDICTED: similar to 4A11 antigen; sperm tail membrane antigen, partial;  
+V1032706	K00869	dvvi:GSVIVP00022848001  GSVIVT00022848001; assembled CDS; K00869 mevalonate kinase [EC:2.7.1.36]
+V1032709	K07757	sty:STY0881  hypothetical protein; K07757 sugar-phosphatase [EC:3.1.3.23]
+V1032748	K00655	dvvi:GSVIVP00027332001  GSVIVT00027332001; assembled CDS; K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]
+V1032765	K00841	sub:SUB0021  aromatic amino acid aminotransferase; K00841 aminotransferase [EC:2.6.1.-]
+V1032770	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1032778	K12410	dtni:23154  ;  
+V1032801	K03536	zpr:ZPR_0010  ribonuclease P protein component; K03536 ribonuclease P protein component [EC:3.1.26.5]
+V1032813	K02890	dpop:285141  gw1.3415.10.1; .; K02890 large subunit ribosomal protein L22
+V1033024	K03565	zpr:ZPR_4495  transcriptional regulatory protein; K03565 regulatory protein
+V1033095	K02879	dvvi:GSVIVP00035173001  GSVIVT00035173001; assembled CDS; K02879 large subunit ribosomal protein L17
+V1033118	K01091	dpop:796157  fgenesh4_pg.C_scaffold_21659000001; .; K01091 phosphoglycolate phosphatase [EC:3.1.3.18]
+V1033133	K03438	dtps:1680  fgenesh1_pg.C_chr_1000814; .; K03438 S-adenosyl-methyltransferase [EC:2.1.1.-]
+V1033135	K02074	yep:YE105_C1150  ABC transport system ATP-binding protein; K02074 zinc/manganese transport system ATP-binding protein
+V1033137	K03571	ypz:YPZ3_3151  mreD; rod shape-determining protein MreD; K03571 rod shape-determining protein MreD
+V1033140	K03281	dlja:26777  LjSGA_143406.1.1; /partial;  
+V1033154	K00661	dsrd:12147  ;  
+V1033177	K02483	zmo:ZMO0257  winged helix family two component transcriptional regulator; K02483 two-component system, OmpR family, response regulator
+V1033245	K01249	dota:Ot05g02230  Predicted inosine-uridine preferring nucleoside hydrolase (ISS);  
+V1033329	K03101	zpr:ZPR_4061  lipoprotein signal peptidase; K03101 signal peptidase II [EC:3.4.23.36]
+V1033330	K01938	dvvi:GSVIVP00024726001  GSVIVT00024726001; assembled CDS; K00288 methylenetetrahydrofolate dehydrogenase (NADP+) [EC:1.5.1.5]; K01491 methenyltetrahydrofolate cyclohydrolase [EC:3.5.4.9]; K01938 formate--tetrahydrofolate ligase [EC:6.3.4.3]
+V1033352	K08591	zmo:ZMO1195  hypothetical protein; K08591 glycerol-3-phosphate acyltransferase PlsY [EC:2.3.1.15]
+V1033491	K00554	zpr:ZPR_3602  tRNA (guanine-N(1)-)-methyltransferase; K00554 tRNA (guanine-N1-)-methyltransferase [EC:2.1.1.31]
+V1033492	K02860	dtps:262862  thaps1_ua_kg.chr_6000186; .; K02860 16S rRNA processing protein RimM
+V1033533	K02503	dtni:28994  ;  
+V1033542	K07042	dvvi:GSVIVP00032126001  GSVIVT00032126001; assembled CDS
+V1033581	K00904	dtni:29469  ;  
+V1033625	K12234	xce:Xcel_1131  F420-dependent oxidoreductase; K12234 coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]
+V1033646	K03043	dvvi:GSVIVP00013217001  GSVIVT00013217001; assembled CDS; K03043 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+V1033754	K02519	dvvi:GSVIVP00025807001  GSVIVT00025807001; assembled CDS; K02519 translation initiation factor IF-2
+V1034190	K03095	sub:SUB0575  hypothetical protein; K03095 SprT-like protein
+V1034267	K10112	dlja:26906  LjSGA_145734.1.1; /partial;  
+V1034326	K02008	dpop:418672  gw1.VIII.100.1; .
+V1034328	K06915	zpr:ZPR_2243  hypothetical protein; K06915
+V1047112	K03631	zpr:ZPR_3243  DNA repair protein RecN; K03631 DNA repair protein RecN (Recombination protein N)
+V1047166	K01154	zpr:ZPR_4673  restriction modification system DNA specificity subunit; K01154 type I restriction enzyme, S subunit [EC:3.1.21.3]
+V1047180	K07171	zpr:ZPR_0705  PemK family protein; K07171
+V1047215	K01256	dtni:9713  ;  
+V1047279	K03484	yep:YE105_C0562  sucrose operon repressor; K03484 LacI family transcriptional regulator, sucrose operon repressor
+V1101412	K07258	ddpu:315307  NCBI_GNO_1400012; .;  
+V1101441	K03446	dani:AN9382  Uncharacterized ORF;  
+V1163634	K10109	ypz:YPZ3_3275  malF; maltose transport system permease protein MalF; K10109 maltose/maltodextrin transport system permease protein
+V1203291	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1204821	K01516	dvvi:GSVIVP00034786001  GSVIVT00034786001; assembled CDS; K01511 nucleoside-diphosphatase [EC:3.6.1.6]
+V1208361	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1216924	K00526	dvvi:GSVIVP00019890001  GSVIVT00019890001; assembled CDS; K10808 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+V1366244	K00997	dpkn:PK4_1630w  holo-(acyl-carrier protein) synthase, putative; K00997 holo-[acyl-carrier protein] synthase [EC:2.7.8.7]
+V1552723	K01785	dvvi:GSVIVP00020913001  GSVIVT00020913001; assembled CDS; K01785 aldose 1-epimerase [EC:5.1.3.3]
+V1552744	K01286	ypa:YPA_1037  serine-type D-Ala-D-Ala carboxypeptidase (EC:3.4.16.4); K01286 D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+V1552797	K07484	ypz:YPZ3_0337  hypothetical protein; K07484 transposase
+V1684087	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1755531	K07487	spy:SPy_2013  IS1562 transposase; K07487 transposase
+V1796868	K02015	zpr:ZPR_2058  ABC-type transporter permease protein; K02015 iron complex transport system permease protein
+V1806575	K00793	dvvi:GSVIVP00018574001  GSVIVT00018574001; assembled CDS; K00793 riboflavin synthase alpha chain [EC:2.5.1.9]
+V1806596	K05540	zmo:ZMO1127  TIM-barrel protein, nifR3 family; K05540 tRNA-dihydrouridine synthase B [EC:1.-.-.-]
+V1819405	K08659	tde:TDE2584  dipeptidase; K08659 dipeptidase [EC:3.4.-.-]
+V1872682	K01126	dvvi:GSVIVP00016186001  GSVIVT00016186001; assembled CDS; K01126 glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+V1882175	K06180	dvvi:GSVIVP00015501001  GSVIVT00015501001; assembled CDS; K06180 ribosomal large subunit pseudouridine synthase D [EC:5.4.99.12]
+V1883158	K03551	ddpu:315314  NCBI_GNO_1400019; .;  
+V1884268	K01187	dvvi:GSVIVP00035203001  GSVIVT00035203001; assembled CDS; K01187 alpha-glucosidase [EC:3.2.1.20]
+V1884595	K01215	vfi:VF_A0731  treC; trehalose-6-P hydrolase (EC:3.2.1.70); K01215 glucan 1,6-alpha-glucosidase [EC:3.2.1.70]
+V1884627	K00692	zmo:ZMO0374  levansucrase (EC:2.4.1.10); K00692 levansucrase [EC:2.4.1.10]
+V1884636	K00384	dvvi:GSVIVP00006001001  GSVIVT00006001001; assembled CDS; K00384 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+V1884647	K02434	dvvi:GSVIVP00020369001  GSVIVT00020369001; assembled CDS; K02434 aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+V1884649	K06901	dvvi:GSVIVP00029413001  GSVIVT00029413001; assembled CDS; K06901 putative MFS transporter, AGZA family, xanthine/uracil permease
+V1885169	K00986	xcc:XCC3626  RNA-directed DNA polymerase; K00986 RNA-directed DNA polymerase [EC:2.7.7.49]
+V1886353	K00244	dani:AN10296  Uncharacterized ORF; S. cerevisiae ortholog YEL047C has fumarate reductase (NADH) activity, has role in cellular response to anoxia and localizes to ribosome, cytosol, plasma membrane enriched fraction, mitochondrion;  
+V1887311	K08987	zpr:ZPR_3581  hypothetical protein; K08987 putative membrane protein
+V1891198	K03572	dsmi:17031  ;  
+V1891259	K01597	dvvi:GSVIVP00001656001  GSVIVT00001656001; assembled CDS; K01597 diphosphomevalonate decarboxylase [EC:4.1.1.33]
+V1032323	K01516	dvvi:GSVIVP00034786001  GSVIVT00034786001; assembled CDS; K01511 nucleoside-diphosphatase [EC:3.6.1.6]
+V1032349	K00761	dvvi:GSVIVP00021387001  GSVIVT00021387001; assembled CDS; K00761 uracil phosphoribosyltransferase [EC:2.4.2.9]
+V1032389	K03216	dota:Ot09g00260  tRNA/rRNA methyltransferase (SpoU) family protein (ISS);  
+V1032401	K02242	wsu:WS0614  hypothetical protein; K02242 competence protein ComFC
+V1032411	K00680	dvvi:GSVIVP00023724001  GSVIVT00023724001; assembled CDS; K00680 
+V1032484	K01462	dvvi:GSVIVP00034594001  GSVIVT00034594001; assembled CDS; K01462 
+V1032553	K06925	dota:Ot09g03870  .;  
+V1032575	K00560	dvvi:GSVIVP00036344001  GSVIVT00036344001; assembled CDS; K00560 thymidylate synthase [EC:2.1.1.45]
+V1032587	K00876	dvvi:GSVIVP00020532001  GSVIVT00020532001; assembled CDS; K00876 uridine kinase [EC:2.7.1.48]
+V1032640	K09748	zpr:ZPR_0573  hypothetical protein; K09748 ribosome maturation factor RimP
+V1032653	K00783	dvvi:GSVIVP00032349001  GSVIVT00032349001; assembled CDS; K00783 hypothetical protein
+V1032668	K00100	dvvi:GSVIVP00030668001  GSVIVT00030668001; assembled CDS; K00100 
+V1032717	K01520	dvvi:GSVIVP00017250001  GSVIVT00017250001; assembled CDS; K01520 dUTP pyrophosphatase [EC:3.6.1.23]
+V1032777	K13531	tep:TepRe1_2060  methylated-DNA/protein-cysteine methyltransferase; K13531 methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]
+V1032821	K02994	dvvi:GSVIVP00013227001  GSVIVT00013227001; assembled CDS; K02994 small subunit ribosomal protein S8
+V1032830	K00945	dvvi:GSVIVP00036692001  GSVIVT00036692001; assembled CDS; K00945 cytidylate kinase [EC:2.7.4.14]
+V1032833	K06178	dota:Ot06g04920  pseudouridine synthase family protein (ISS);  
+V1032834	K06024	xop:PXO_00872  segregation and condensation protein B; K06024 segregation and condensation protein B
+V1032886	K00954	zpr:ZPR_0818  phosphopantetheine adenylyltransferase; K00954 pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]
+V1032965	K02769	ypz:YPZ3_1188  fruA; PTS system, fructose-specific IIBC component; K02769 PTS system, fructose-specific IIB component [EC:2.7.1.69]; K02770 PTS system, fructose-specific IIC component
+V1033101	K02825	zpr:ZPR_1905  phosphoribosyltransferase; K02825 pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]
+V1033111	K07173	ypz:YPZ3_2904  luxS; S-ribosylhomocysteinase; K07173 S-ribosylhomocysteine lyase [EC:4.4.1.21]
+V1033149	K03316	dvvi:GSVIVP00023595001  GSVIVT00023595001; assembled CDS; K03316 monovalent cation:H+ antiporter, CPA1 family
+V1033307	K03978	dvvi:GSVIVP00032477001  GSVIVT00032477001; assembled CDS; K03978 GTP-binding protein
+V1033445	K03624	zpr:ZPR_4453  transcription elongation factor GreA; K03624 transcription elongation factor GreA
+V1033469	K01493	dvvi:GSVIVP00017944001  GSVIVT00017944001; assembled CDS; K01493 dCMP deaminase [EC:3.5.4.12]
+V1033519	K02440	dtni:675  ;  
+V1033548	K01752	dtps:262207  thaps1_ua_kg.chr_4000217; .; K01752 L-serine dehydratase [EC:4.3.1.17]
+V1033584	K00001	dvvi:GSVIVP00034834001  GSVIVT00034834001; assembled CDS; K00001 alcohol dehydrogenase [EC:1.1.1.1]
+V1033589	K03664	zpr:ZPR_3093  SsrA-binding protein; K03664 SsrA-binding protein
+V1033623	K01529	dvvi:GSVIVP00035915001  GSVIVT00035915001; assembled CDS; K01529 
+V1033639	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1033714	K00986	xcc:XCC3626  RNA-directed DNA polymerase; K00986 RNA-directed DNA polymerase [EC:2.7.7.49]
+V1033720	K03100	dvvi:GSVIVP00016732001  GSVIVT00016732001; assembled CDS; K03100 signal peptidase I [EC:3.4.21.89]
+V1033725	K02493	dtni:27529  ;  
+V1033751	K03631	zpr:ZPR_3243  DNA repair protein RecN; K03631 DNA repair protein RecN (Recombination protein N)
+V1033818	K01356	zmo:ZMO0199  LexA repressor (EC:3.4.21.88); K01356 repressor LexA [EC:3.4.21.88]
+V1033848	K00759	dvvi:GSVIVP00032672001  GSVIVT00032672001; assembled CDS; K00759 adenine phosphoribosyltransferase [EC:2.4.2.7]
+V1034203	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1034242	K02044	ypz:YPZ3_1090  putative substrate-binding periplasmic transport protein; K02044 phosphonate transport system substrate-binding protein
+V1034301	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1046997	K03630	zpr:ZPR_3892  DNA repair protein RadC; K03630 DNA repair protein RadC
+V1047059	K03110	dvvi:GSVIVP00026227001  GSVIVT00026227001; assembled CDS; K03110 signal recognition particle receptor
+V1047160	K00974	dtps:263072  thaps1_ua_kg.chr_7000029; .; K00974 tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.21 2.7.7.25 3.1.3.- 3.1.4.-]
+V1047170	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1101467	K01157	syg:sync_0407  HNH endonuclease family protein (EC:3.1.21.-); K01157  [EC:3.1.21.-]
+V1101530	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1143431	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1150312	K02800	dapi:ACYPI50775-PA  GLEAN_30775; .;  
+V1150391	K00435	dtps:38800  e_gw1.23.70.1; .; K00435 peroxiredoxin [EC:1.11.1.-]
+V1162552	K07741	spz:M5005_Spy_1217  phage antirepressor protein; K07741 anti-repressor protein
+V1162914	K06901	dvvi:GSVIVP00029413001  GSVIVT00029413001; assembled CDS; K06901 putative MFS transporter, AGZA family, xanthine/uracil permease
+V1163713	K00980	trq:TRQ2_0301  glycerol-3-phosphate cytidylyltransferase (EC:2.7.7.39); K00980 glycerol-3-phosphate cytidylyltransferase [EC:2.7.7.39]
+V1163751	K02236	teq:TEQUI_0798  hypothetical protein; K02236 leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]
+V1163822	K03110	dvvi:GSVIVP00026227001  GSVIVT00026227001; assembled CDS; K03110 signal recognition particle receptor
+V1163933	K07742	dota:Ot05g03730  .;  
+V1202485	K02770	ypz:YPZ3_1188  fruA; PTS system, fructose-specific IIBC component; K02769 PTS system, fructose-specific IIB component [EC:2.7.1.69]; K02770 PTS system, fructose-specific IIC component
+V1202534	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1203933	K07090	zpr:ZPR_1792  hypothetical protein; K07090
+V1204734	K04072	dani:AN5234  Uncharacterized ORF;  
+V1204758	K03484	yep:YE105_C0562  sucrose operon repressor; K03484 LacI family transcriptional regulator, sucrose operon repressor
+V1237097	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1338905	K02077	yep:YE105_C1152  periplasmic solute binding protein; K02077 zinc/manganese transport system substrate-binding protein
+V1376985	K14570	dtni:19260  ;  
+V1446922	K00928	dvvi:GSVIVP00037944001  GSVIVT00037944001; assembled CDS; K00928 aspartate kinase [EC:2.7.2.4]
+V1552703	K01142	dvvi:GSVIVP00025329001  GSVIVT00025329001; assembled CDS; K01142 exodeoxyribonuclease III [EC:3.1.11.2]
+V1552731	K10117	ttm:Tthe_0754  extracellular solute-binding protein family 1; K10117 multiple sugar transport system substrate-binding protein
+V1552732	K10119	ttm:Tthe_0756  sugar ABC transporter permease; K10119 multiple sugar transport system permease protein
+V1552798	K03086	dtps:33682  e_gw1.4.236.1; .; K03086 RNA polymerase primary sigma factor
+V1614144	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1684082	K02248	sub:SUB0123  membrane protein; K02248 competence protein ComGF
+V1684120	K07533	ttm:Tthe_0202  PpiC-type peptidyl-prolyl cis-trans isomerase; K07533 foldase protein PrsA [EC:5.2.1.8]
+V1755520	K06901	dvvi:GSVIVP00029413001  GSVIVT00029413001; assembled CDS; K06901 putative MFS transporter, AGZA family, xanthine/uracil permease
+V1755548	K01533	dvvi:GSVIVP00030125001  GSVIVT00030125001; assembled CDS; K01533 Cu2+-exporting ATPase [EC:3.6.3.4]
+V1796914	K07450	tte:TTE0741  site-specific integrase-resolvase; K07450 putative resolvase
+V1806598	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1806645	K01625	dmtr:Medtr7g009060.1  KDPG and KHG aldolase chr07_pseudomolecule_IMGAG_V3 1507798-1512775 H EGN_Mt090430 20090702;  
+V1808014	K03446	dani:AN9382  Uncharacterized ORF;  
+V1819374	K01992	zpr:ZPR_3118  ABC-type transporter permease protein; K01992 ABC-2 type transport system permease protein
+V1828836	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1828850	K00876	dvvi:GSVIVP00020532001  GSVIVT00020532001; assembled CDS; K00876 uridine kinase [EC:2.7.1.48]
+V1828851	K03048	uur:UU597  rpoE; DNA-directed RNA polymerase subunit delta; K03048 DNA-directed RNA polymerase subunit delta
+V1879976	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1880085	K03768	dvvi:GSVIVP00006984001  GSVIVT00006984001; assembled CDS; K03768 peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]
+V1880096	K01154	zpr:ZPR_4673  restriction modification system DNA specificity subunit; K01154 type I restriction enzyme, S subunit [EC:3.1.21.3]
+V1880900	K01775	dtps:262099  thaps1_ua_kg.chr_4000109; .; K01775 alanine racemase [EC:5.1.1.1]
+V1882381	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1883152	K03700	uur:UU297  hypothetical protein; K03700 recombination protein U
+V1883269	K05822	trq:TRQ2_1413  tetrahydrodipicolinate succinyltransferase domain-containing protein; K05822 tetrahydrodipicolinate N-acetyltransferase [EC:2.3.1.89]
+V1883298	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1883308	K01785	dvvi:GSVIVP00020913001  GSVIVT00020913001; assembled CDS; K01785 aldose 1-epimerase [EC:5.1.3.3]
+V1883336	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1884267	K01104	dvvi:GSVIVP00022056001  GSVIVT00022056001; assembled CDS; K01078 acid phosphatase [EC:3.1.3.2]; K01104 protein-tyrosine phosphatase [EC:3.1.3.48]
+V1884517	K13685	vpr:Vpar_1542  glycosyl transferase family 4; K13685 UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl 1-P transferase [EC:2.7.8.-]
+V1884600	K03293	dsrd:5976  ;  
+V1884610	K02075	yen:YE3110  putative ABC-transporter membrane protein; K02075 zinc/manganese transport system permease protein
+V1884623	K02028	ypz:YPZ3_2860  putative amino acid ABC transporter, ATP-binding protein; K02028 polar amino acid transport system ATP-binding protein [EC:3.6.3.21]
+V1884681	K01488	dvvi:GSVIVP00006894001  GSVIVT00006894001; assembled CDS; K01488 adenosine deaminase [EC:3.5.4.4]
+V1886276	K02244	sub:SUB0119  competence protein; K02244 competence protein ComGB
+V1886312	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1886369	K06901	dvvi:GSVIVP00029413001  GSVIVT00029413001; assembled CDS; K06901 putative MFS transporter, AGZA family, xanthine/uracil permease
+V1886984	K02039	zmo:ZMO1163  phosphate uptake regulator PhoU; K02039 phosphate transport system protein
+V1890891	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1891105	K00852	dvvi:GSVIVP00027934001  GSVIVT00027934001; assembled CDS; K00852 ribokinase [EC:2.7.1.15]
+V1032316	K07447	dvvi:GSVIVP00019198001  GSVIVT00019198001; assembled CDS; K07447 putative holliday junction resolvase [EC:3.1.-.-]
+V1032346	K02109	dpop:285105  gw1.3408.1.1; .; K02109 F-type H+-transporting ATPase subunit b [EC:3.6.3.14]
+V1032377	K01175	dvvi:GSVIVP00036555001  GSVIVT00036555001; assembled CDS; K01175 
+V1032420	K09710	dtni:34107  ;  
+V1032459	K00100	dvvi:GSVIVP00030668001  GSVIVT00030668001; assembled CDS; K00100 
+V1032528	K03789	dlja:5489  chr2.CM0249.210.nd; /partial;  
+V1032560	K01104	dvvi:GSVIVP00022056001  GSVIVT00022056001; assembled CDS; K01078 acid phosphatase [EC:3.1.3.2]; K01104 protein-tyrosine phosphatase [EC:3.1.3.48]
+V1032574	K00287	dvvi:GSVIVP00036343001  GSVIVT00036343001; assembled CDS; K00287 dihydrofolate reductase [EC:1.5.1.3]
+V1032592	K01951	dvvi:GSVIVP00000429001  GSVIVT00000429001; assembled CDS; K01951 GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+V1032594	K01807	dvvi:GSVIVP00031147001  GSVIVT00031147001; assembled CDS; K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6]
+V1032678	K13052	sub:SUB0010  septum formation initiator protein; K13052 cell division protein DivIC
+V1032704	K01873	dvvi:GSVIVP00032988001  GSVIVT00032988001; assembled CDS
+V1032807	K02906	dvvi:GSVIVP00023012001  GSVIVT00023012001; assembled CDS; K02906 large subunit ribosomal protein L3
+V1032956	K03492	str:Sterm_3118  GntR family transcriptional regulator; K03492 GntR family transcriptional regulator
+V1033027	K03976	wvi:Weevi_1900  YbaK/EbsC protein; K03976 putative transcription regulator
+V1033035	K02887	dvvi:GSVIVP00035602001  GSVIVT00035602001; assembled CDS; K02887 large subunit ribosomal protein L20
+V1033068	K11145	dpop:298909  gw1.97.72.1; .; K11145 ribonuclease III family protein
+V1033090	K02996	dvvi:GSVIVP00037349001  GSVIVT00037349001; assembled CDS; K02996 small subunit ribosomal protein S9
+V1033091	K02871	dvvi:GSVIVP00027910001  GSVIVT00027910001; assembled CDS; K02871 large subunit ribosomal protein L13
+V1033092	K06173	dvvi:GSVIVP00035388001  GSVIVT00035388001; assembled CDS; K06173 tRNA pseudouridine synthase A [EC:5.4.99.12]
+V1033114	K00942	dvvi:GSVIVP00025564001  GSVIVT00025564001; assembled CDS; K00942 guanylate kinase [EC:2.7.4.8]
+V1033141	K00100	dvvi:GSVIVP00030668001  GSVIVT00030668001; assembled CDS; K00100 
+V1033252	K05985	vpr:Vpar_0625  primase/topoisomerase like protein; K05985 ribonuclease M5 [EC:3.1.26.8]
+V1033302	K03076	dosa:Os08t0254500-01  Os08g0254500; Similar to Preprotein translocase secY subunit, chloroplast precursor (CpSecY).;  
+V1033305	K00611	dvvi:GSVIVP00014587001  GSVIVT00014587001; assembled CDS; K00611 ornithine carbamoyltransferase [EC:2.1.3.3]
+V1033333	K00794	dvvi:GSVIVP00034771001  GSVIVT00034771001; assembled CDS; K00794 riboflavin synthase beta chain [EC:2.5.1.-]
+V1033375	K03545	zpr:ZPR_0628  trigger factor; K03545 trigger factor
+V1033379	K01420	zpr:ZPR_1983  CRP family transcriptional regulator; K01420 CRP/FNR family transcriptional regulator, anaerobic regulatory protein
+V1033415	K00847	dvvi:GSVIVP00031957001  GSVIVT00031957001; assembled CDS; K00847 fructokinase [EC:2.7.1.4]
+V1033416	K00942	dvvi:GSVIVP00025564001  GSVIVT00025564001; assembled CDS; K00942 guanylate kinase [EC:2.7.4.8]
+V1033430	K07474	ypy:YPK_3746  putative phage terminase, small subunit; K07474 phage terminase small subunit
+V1033490	K02884	dosa:Os02t0652600-01  Os02g0652600; Ribosomal protein L19 family protein.;  
+V1033733	K01358	dvvi:GSVIVP00028120001  GSVIVT00028120001; assembled CDS; K01358 ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+V1033794	K09773	dvvi:GSVIVP00006921001  GSVIVT00006921001; assembled CDS; K09773 hypothetical protein
+V1033849	K02622	zpr:ZPR_2726  DNA topoisomerase IV subunit B; K02622 topoisomerase IV subunit B [EC:5.99.1.-]
+V1033885	K01924	zpr:ZPR_3807  UDP-N-acetylmuramate--L-alanine ligase; K01924 UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]
+V1034183	K00969	zpr:ZPR_0333  nicotinic acid mononucleotide adenylyltransferase; K00969 nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]
+V1034269	K01823	dvvi:GSVIVP00025071001  GSVIVT00025071001; assembled CDS; K01823 isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]
+V1047290	K01361	tpd:Teth39_0143  hypothetical protein; K01361 lactocepin [EC:3.4.21.96]
+V1047336	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1101586	K02039	zmo:ZMO1163  phosphate uptake regulator PhoU; K02039 phosphate transport system protein
+V1143432	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1162950	K00384	dvvi:GSVIVP00006001001  GSVIVT00006001001; assembled CDS; K00384 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+V1162956	K03549	dvvi:GSVIVP00029418001  GSVIVT00029418001; assembled CDS; K03549 KUP system potassium uptake protein
+V1163104	K01607	dani:AN1252  Uncharacterized ORF;  
+V1199358	K07024	dota:Ot09g01780  .;  
+V1203422	K01185	ddpu:300287  PASA_GEN_1000108; .;  
+V1204412	K00951	dtni:34759  ;  
+V1204640	K01187	dvvi:GSVIVP00035203001  GSVIVT00035203001; assembled CDS; K01187 alpha-glucosidase [EC:3.2.1.20]
+V1204852	K00760	dvvi:GSVIVP00005398001  GSVIVT00005398001; assembled CDS; K00760 hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+V1206519	K02825	zpr:ZPR_1905  phosphoribosyltransferase; K02825 pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]
+V1237257	K03496	dapi:ACYPI46968-PA  GLEAN_26968; .;  
+V1239556	K07485	tvo:TVN0688  hypothetical protein; K07485 transposase
+V1338872	K03647	ypz:YPZ3_2339  nrdI; NrdI protein; K03647 protein involved in ribonucleotide reduction
+V1338904	K08591	zmo:ZMO1195  hypothetical protein; K08591 glycerol-3-phosphate acyltransferase PlsY [EC:2.3.1.15]
+V1339026	K03484	yep:YE105_C0562  sucrose operon repressor; K03484 LacI family transcriptional regulator, sucrose operon repressor
+V1339051	K01077	dtps:261067  thaps1_ua_kg.chr_1000327; .; K01077 alkaline phosphatase [EC:3.1.3.1]
+V1376640	K14570	dtni:19260  ;  
+V1377294	K03135	dvvi:GSVIVP00000980001  GSVIVT00000980001; assembled CDS; K03135 transcription initiation factor TFIID subunit D9
+V1388957	K00805	xce:Xcel_0483  polyprenyl synthetase; K00805 heptaprenyl diphosphate synthase [EC:2.5.1.30]
+V1446913	K01785	dvvi:GSVIVP00020913001  GSVIVT00020913001; assembled CDS; K01785 aldose 1-epimerase [EC:5.1.3.3]
+V1452376	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1755583	K00158	sus:Acid_7324  pyruvate oxidase (EC:1.2.3.3); K00158 pyruvate oxidase [EC:1.2.3.3]
+V1806615	K06889	dvvi:GSVIVP00016548001  GSVIVT00016548001; assembled CDS
+V1807923	K00100	dvvi:GSVIVP00030668001  GSVIVT00030668001; assembled CDS; K00100 
+V1872734	K02867	dvvi:GSVIVP00000483001  GSVIVT00000483001; assembled CDS; K02867 large subunit ribosomal protein L11
+V1882253	K04077	dvvi:GSVIVP00034341001  GSVIVT00034341001; assembled CDS
+V1883153	K01893	dvvi:GSVIVP00013655001  GSVIVT00013655001; assembled CDS; K01893 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+V1883182	K01533	dvvi:GSVIVP00030125001  GSVIVT00030125001; assembled CDS; K01533 Cu2+-exporting ATPase [EC:3.6.3.4]
+V1883273	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1883299	K00986	xcc:XCC3626  RNA-directed DNA polymerase; K00986 RNA-directed DNA polymerase [EC:2.7.7.49]
+V1883390	K01485	dsrd:23199  ;  
+V1884516	K07482	spn:SP_0915  IS1239 transposase; K07482 transposase, IS30 family
+V1884535	K06158	dvvi:GSVIVP00006684001  GSVIVT00006684001; assembled CDS; K06158 ATP-binding cassette, sub-family F, member 3
+V1884536	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1884577	K03043	dvvi:GSVIVP00013217001  GSVIVT00013217001; assembled CDS; K03043 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+V1884578	K03043	dvvi:GSVIVP00013217001  GSVIVT00013217001; assembled CDS; K03043 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+V1884628	K07024	dota:Ot09g01780  .;  
+V1884644	K01223	ddpu:72676  e_gw1.12282.2.1; .;  
+V1885082	K00537	dlja:3556  chr4.CM0173.200.nd; /partial;  
+V1885167	K02760	ypz:YPZ3_2362  celA; PTS system, cellobiose-specific IIB component; K02760 PTS system, cellobiose-specific IIB component [EC:2.7.1.69]
+V1886277	K13685	vpr:Vpar_1542  glycosyl transferase family 4; K13685 UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl 1-P transferase [EC:2.7.8.-]
+V1886288	K07658	zpr:ZPR_0499  two-component system response regulator; K07658 two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP
+V1886371	K01775	dtps:262099  thaps1_ua_kg.chr_4000109; .; K01775 alanine racemase [EC:5.1.1.1]
+V1887241	K01597	dvvi:GSVIVP00001656001  GSVIVT00001656001; assembled CDS; K01597 diphosphomevalonate decarboxylase [EC:4.1.1.33]
+V1887290	K02520	dvvi:GSVIVP00017183001  GSVIVT00017183001; assembled CDS; K02520 translation initiation factor IF-3
+V1887313	K02990	dvvi:GSVIVP00005623001  GSVIVT00005623001; assembled CDS; K02990 small subunit ribosomal protein S6
+V1890888	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1891132	K03700	uur:UU297  hypothetical protein; K03700 recombination protein U
+V1891181	K02483	zmo:ZMO0257  winged helix family two component transcriptional regulator; K02483 two-component system, OmpR family, response regulator
+V1891247	K00600	dvvi:GSVIVP00032161001  GSVIVT00032161001; assembled CDS; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1]
+V1032345	K02113	dvvi:GSVIVP00001774001  GSVIVT00001774001; assembled CDS; K02113 F-type H+-transporting ATPase subunit delta [EC:3.6.3.14]
+V1032551	K03648	dvvi:GSVIVP00021219001  GSVIVT00021219001; assembled CDS; K03648 uracil-DNA glycosylase [EC:3.2.2.-]
+V1032554	K02342	dapi:ACYPI28763-PA  GLEAN_08763; .;  
+V1032568	K13256	ypz:YPZ3_3277  phosphate-starvation-inducible protein PsiE; K13256 protein PsiE
+V1032624	K01104	dvvi:GSVIVP00022056001  GSVIVT00022056001; assembled CDS; K01078 acid phosphatase [EC:3.1.3.2]; K01104 protein-tyrosine phosphatase [EC:3.1.3.48]
+V1032812	K02965	dvvi:GSVIVP00035003001  GSVIVT00035003001; assembled CDS; K02965 small subunit ribosomal protein S19
+V1032817	K02961	dvvi:GSVIVP00034384001  GSVIVT00034384001; assembled CDS; K02961 small subunit ribosomal protein S17
+V1032818	K02874	dvvi:GSVIVP00028331001  GSVIVT00028331001; assembled CDS
+V1032835	K02859	ppe:PEPE_1087  riboflavin biosynthesis acetyltransferase RibT; K02859 riboflavin biosynthesis RibT protein
+V1032840	K00537	dlja:3556  chr4.CM0173.200.nd; /partial;  
+V1032911	K07738	zmo:ZMO1202  nrdR; transcriptional regulator NrdR; K07738 transcriptional repressor NrdR
+V1033051	K01646	yep:YE105_C1629  citrate lyase subunit gamma; K01646 citrate lyase subunit gamma [EC:4.1.3.6]
+V1033179	K00951	dtni:34759  ;  
+V1033207	K09687	dtni:6649  ;  
+V1033292	K01533	dvvi:GSVIVP00030125001  GSVIVT00030125001; assembled CDS; K01533 Cu2+-exporting ATPase [EC:3.6.3.4]
+V1033353	K07741	spz:M5005_Spy_1217  phage antirepressor protein; K07741 anti-repressor protein
+V1033376	K04047	zpr:ZPR_2252  Dps family ferritin-like DNA-binding protein; K04047 starvation-inducible DNA-binding protein
+V1033390	K01990	dtni:18699  ;  
+V1033393	K04488	dvvi:GSVIVP00002729001  GSVIVT00002729001; assembled CDS; K04488 nitrogen fixation protein NifU and related proteins
+V1033449	K07024	dota:Ot09g01780  .;  
+V1033526	K03106	dvvi:GSVIVP00021597001  GSVIVT00021597001; assembled CDS; K03106 signal recognition particle subunit SRP54
+V1033541	K09117	dsrd:21130  ;  
+V1033611	K00760	dvvi:GSVIVP00005398001  GSVIVT00005398001; assembled CDS; K00760 hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+V1033699	K01537	dvvi:GSVIVP00028663001  GSVIVT00028663001; assembled CDS; K01537 Ca2+-transporting ATPase [EC:3.6.3.8]
+V1033731	K07124	dtni:18200  ;  
+V1033732	K09787	vpr:Vpar_0575  helix-turn-helix protein YlxM/p13 family protein; K09787 hypothetical protein
+V1033771	K00869	dvvi:GSVIVP00022848001  GSVIVT00022848001; assembled CDS; K00869 mevalonate kinase [EC:2.7.1.36]
+V1033782	K00873	dvvi:GSVIVP00033621001  GSVIVT00033621001; assembled CDS; K00873 pyruvate kinase [EC:2.7.1.40]
+V1034211	K03294	dtps:13922  gw1.1.181.1; .; K03294 basic amino acid/polyamine antiporter, APA family
+V1034262	K01689	dvvi:GSVIVP00038473001  GSVIVT00038473001; assembled CDS; K01689 enolase [EC:4.2.1.11]
+V1034332	K01591	dvvi:GSVIVP00031018001  GSVIVT00031018001; assembled CDS; K00762 orotate phosphoribosyltransferase [EC:2.4.2.10]; K01591 orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+V1034352	K02236	teq:TEQUI_0798  hypothetical protein; K02236 leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]
+V1034420	K03292	xop:PXO_02748  cation symporter; K03292 glycoside/pentoside/hexuronide:cation symporter, GPH family
+V1046975	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1047214	K00945	dvvi:GSVIVP00036692001  GSVIVT00036692001; assembled CDS; K00945 cytidylate kinase [EC:2.7.4.14]
+V1101404	K08161	dlja:11656  chr1.LjT05B18.110.nd; /partial;  
+V1101407	K03655	dvvi:GSVIVP00030485001  GSVIVT00030485001; assembled CDS
+V1101410	K00054	zpr:ZPR_0646  3-hydroxy-3-methylglutaryl-coenzyme A reductase; K00054 hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]
+V1101420	K06994	xce:Xcel_3218  MmpL domain-containing protein; K06994 putative drug exporter of the RND superfamily
+V1101428	K00001	dvvi:GSVIVP00034834001  GSVIVT00034834001; assembled CDS; K00001 alcohol dehydrogenase [EC:1.1.1.1]
+V1143252	K07304	dvvi:GSVIVP00015923001  GSVIVT00015923001; assembled CDS; K07304 peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+V1144619	K07386	dola:12028  ENSORLG00000009595; .;  
+V1149291	K09686	zmo:ZMO0799  ABC-2 type transporter; K09686 antibiotic transport system permease protein
+V1150380	K09960	ypy:YPK_1225  hypothetical protein; K09960 hypothetical protein
+V1162579	K07749	dtni:25319  ;  
+V1162634	K11065	zpr:ZPR_2857  thiol peroxidase; K11065 thiol peroxidase, atypical 2-Cys peroxiredoxin [EC:1.11.1.15]
+V1163005	K02023	ypz:YPZ3_3064  putative sugar ABC transporter, ATP-binding protein; K02023 multiple sugar transport system ATP-binding protein
+V1163597	K03446	dani:AN9382  Uncharacterized ORF;  
+V1163606	K02355	dvvi:GSVIVP00019173001  GSVIVT00019173001; assembled CDS; K02355 elongation factor EF-G [EC:3.6.5.3]
+V1163666	K00680	dvvi:GSVIVP00023724001  GSVIVT00023724001; assembled CDS; K00680 
+V1163714	K03740	sub:SUB1146  dltD; D-alanyl-lipoteichoic acid biosynthesis protein; K03740 D-alanine transfer protein
+V1163810	K07737	zpr:ZPR_4306  BlaI-like antibiotic resistance-related regulatory protein; K07737 putative transcriptional regulator
+V1163970	K03281	dlja:26777  LjSGA_143406.1.1; /partial;  
+V1199405	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1202123	K00571	dtps:34058  e_gw1.5.404.1; .
+V1202750	K01595	dvvi:GSVIVP00030262001  GSVIVT00030262001; assembled CDS; K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31]
+V1203091	K01223	ddpu:72676  e_gw1.12282.2.1; .;  
+V1203284	K03589	zpr:ZPR_3806  FtsQ-like cell division protein; K03589 cell division protein FtsQ
+V1204335	K07006	dlja:10288  chr6.LjT18B08.120.nd; .;  
+V1204495	K07706	tte:TTE0562  baeS2; sensory transduction histidine kinase; K07706 two-component system, AgrA family, sensor histidine kinase AgrC [EC:2.7.13.-]
+V1204660	K01938	dvvi:GSVIVP00024726001  GSVIVT00024726001; assembled CDS; K00288 methylenetetrahydrofolate dehydrogenase (NADP+) [EC:1.5.1.5]; K01491 methenyltetrahydrofolate cyclohydrolase [EC:3.5.4.9]; K01938 formate--tetrahydrofolate ligase [EC:6.3.4.3]
+V1204760	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1204772	K08161	dlja:11656  chr1.LjT05B18.110.nd; /partial;  
+V1237114	K02800	dapi:ACYPI50775-PA  GLEAN_30775; .;  
+V1237175	K00560	dvvi:GSVIVP00036344001  GSVIVT00036344001; assembled CDS; K00560 thymidylate synthase [EC:2.1.1.45]
+V1300693	K00100	dvvi:GSVIVP00030668001  GSVIVT00030668001; assembled CDS; K00100 
+V1338862	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1338879	K07015	dvvi:GSVIVP00018919001  GSVIVT00018919001; assembled CDS; K07015 
+V1388944	K01552	dvvi:GSVIVP00003662001  GSVIVT00003662001; assembled CDS; K01552 
+V1388945	K03569	zpr:ZPR_0661  rod shape-determining protein MreB; K03569 rod shape-determining protein MreB and related proteins
+V1458760	K02068	ypz:YPZ3_1206  putative ABC transport ATP-binding subunit; K02068 putative ABC transport system ATP-binding protein
+V1552770	K00867	dmtr:Medtr1g147060.1  Bacterial pantothenate kinase; Major facilitator superfamily MFS_1 chr01_pseudomolecule_IMGAG_V3 32678048-32676622 H EGN_Mt090430 20090702;  
+V1552808	K07304	dvvi:GSVIVP00015923001  GSVIVT00015923001; assembled CDS; K07304 peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+V1610069	K02933	dvvi:GSVIVP00026031001  GSVIVT00026031001; assembled CDS; K02933 large subunit ribosomal protein L6
+V1684079	K03925	zpr:ZPR_3816  MraZ protein; K03925 MraZ protein
+V1684105	K09951	zpr:ZPR_4425  CRISPR-associated Cas2 family protein; K09951 CRISPR-associated protein Cas2
+V1684114	K10218	ypz:YPZ3_0075  hypothetical protein; K10218 4-hydroxy-4-methyl-2-oxoglutarate aldolase [EC:4.1.3.17]
+V1755526	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1755587	K02952	dvvi:GSVIVP00015322001  GSVIVT00015322001; assembled CDS; K02952 small subunit ribosomal protein S13
+V1796841	K00852	dvvi:GSVIVP00027934001  GSVIVT00027934001; assembled CDS; K00852 ribokinase [EC:2.7.1.15]
+V1796882	K03624	zpr:ZPR_4453  transcription elongation factor GreA; K03624 transcription elongation factor GreA
+V1806625	K06890	dvvi:GSVIVP00023775001  GSVIVT00023775001; assembled CDS; K06890 
+V1808078	K07461	zpr:ZPR_4424  excinuclease ABC C subunit domain protein; K07461 putative endonuclease
+V1808174	K01869	dvvi:GSVIVP00035298001  GSVIVT00035298001; assembled CDS; K01869 leucyl-tRNA synthetase [EC:6.1.1.4]
+V1808271	K00904	dtni:29469  ;  
+V1819358	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1828855	K00963	dvvi:GSVIVP00034877001  GSVIVT00034877001; assembled CDS; K00963 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+V1872767	K02029	ypz:YPZ3_3524  ABC transporter permease; K02029 polar amino acid transport system permease protein
+V1880026	K01914	dtps:24816  estExt_fgenesh1_pg.C_chr_140126; .; K01914 aspartate--ammonia ligase [EC:6.3.1.1]
+V1880902	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1882316	K02863	dtps:36454  e_gw1.10.201.1; .; K02863 large subunit ribosomal protein L1
+V1882361	K02963	dvvi:GSVIVP00035601001  GSVIVT00035601001; assembled CDS; K02963 small subunit ribosomal protein S18
+V1882867	K07487	spy:SPy_2013  IS1562 transposase; K07487 transposase
+V1882886	K01537	dvvi:GSVIVP00028663001  GSVIVT00028663001; assembled CDS; K01537 Ca2+-transporting ATPase [EC:3.6.3.8]
+V1883330	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1884398	K02030	ypz:YPZ3_3525  putative periplasmic solute-binding protein; K02030 polar amino acid transport system substrate-binding protein
+V1884416	K01737	dtni:13192  ;  
+V1884481	K01533	dvvi:GSVIVP00030125001  GSVIVT00030125001; assembled CDS; K01533 Cu2+-exporting ATPase [EC:3.6.3.4]
+V1884518	K02056	ypz:YPZ3_3448  putative sugar transport system ATP-binding protein; K02056 simple sugar transport system ATP-binding protein [EC:3.6.3.17]
+V1884526	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1884566	K01624	dtps:35048  e_gw1.6.315.1; .; K01624 fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+V1884575	K02986	dvvi:GSVIVP00008898001  GSVIVT00008898001; assembled CDS; K02986 small subunit ribosomal protein S4
+V1884596	K03111	dpop:674016  grail3.17963000101; .; K03111 single-strand DNA-binding protein
+V1884604	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1884606	K03328	ypz:YPZ3_3412  wzxE; putative lipopolysaccharide biosynthesis protein; K03328 polysaccharide transporter, PST family
+V1884642	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1884819	K07487	spy:SPy_2013  IS1562 transposase; K07487 transposase
+V1884890	K01026	sax:USA300HOU_0244  3-oxoacid CoA-transferase (EC:2.8.3.5); K01026 propionate CoA-transferase [EC:2.8.3.1]
+V1886191	K03702	dota:Ot14g01080  excinuclease ABC subunit B (ISS);  
+V1886195	K03763	vpr:Vpar_0958  DNA polymerase III subunit alpha; K03763 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+V1886210	K03569	zpr:ZPR_0661  rod shape-determining protein MreB; K03569 rod shape-determining protein MreB and related proteins
+V1886292	K06890	dvvi:GSVIVP00023775001  GSVIVT00023775001; assembled CDS; K06890 
+V1886977	K07052	dvvi:GSVIVP00036976001  GSVIVT00036976001; assembled CDS; K07052 
+V1890844	K02992	dvvi:GSVIVP00026426001  GSVIVT00026426001; assembled CDS
+V1890905	K00986	xcc:XCC3626  RNA-directed DNA polymerase; K00986 RNA-directed DNA polymerase [EC:2.7.7.49]
+V1891098	K03701	ddpu:319808  NCBI_GNO_3100105; .;  
+V1891114	K02008	dpop:418672  gw1.VIII.100.1; .
+V1891144	K07487	spy:SPy_2013  IS1562 transposase; K07487 transposase
+V1891149	K00680	dvvi:GSVIVP00023724001  GSVIVT00023724001; assembled CDS; K00680 
+V1891170	K00949	dvvi:GSVIVP00027976001  GSVIVT00027976001; assembled CDS; K00949 thiamine pyrophosphokinase [EC:2.7.6.2]
+V1891177	K02240	sub:SUB1377  comFA; late competence protein; K02240 competence protein ComFA
+V1891248	K02836	dvvi:GSVIVP00025035001  GSVIVT00025035001; assembled CDS; K02836 peptide chain release factor RF-2
+V1891298	K01262	dvvi:GSVIVP00024992001  GSVIVT00024992001; assembled CDS; K01262 X-Pro aminopeptidase [EC:3.4.11.9]
+V1891370	K03778	dtps:33104  e_gw1.3.420.1; .; K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]
+V1000526	K03657	dtps:262303  thaps1_ua_kg.chr_4000313; .; K03657 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.1.-]
+V1032204	K03624	zpr:ZPR_4453  transcription elongation factor GreA; K03624 transcription elongation factor GreA
+V1032373	K14188	sub:SUB1147  dltC; D-alanine--poly(phosphoribitol) ligase subunit 2; K14188 D-alanine--poly(phosphoribitol) ligase subunit 2 [EC:6.1.1.13]
+V1032419	K00969	zpr:ZPR_0333  nicotinic acid mononucleotide adenylyltransferase; K00969 nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]
+V1032430	K02029	ypz:YPZ3_3524  ABC transporter permease; K02029 polar amino acid transport system permease protein
+V1032637	K02834	dvvi:GSVIVP00035981001  GSVIVT00035981001; assembled CDS; K02834 ribosome-binding factor A
+V1032659	K02356	dvvi:GSVIVP00037495001  GSVIVT00037495001; assembled CDS; K02356 elongation factor EF-P
+V1032661	K02348	zpr:ZPR_0012  GCN5-related N-acetyltransferase; K02348 ElaA protein
+V1032712	K07170	dsrd:13748  ;  
+V1032822	K02988	dvvi:GSVIVP00003076001  GSVIVT00003076001; assembled CDS; K02988 small subunit ribosomal protein S5
+V1032979	K02888	dvvi:GSVIVP00026834001  GSVIVT00026834001; assembled CDS; K02888 large subunit ribosomal protein L21
+V1033158	K02221	dvvi:GSVIVP00032279001  GSVIVT00032279001; assembled CDS; K02221 YggT family protein
+V1033214	K03602	zmo:ZMO0856  exodeoxyribonuclease VII small subunit; K03602 exodeoxyribonuclease VII small subunit [EC:3.1.11.6]
+V1033339	K02371	dtps:10115  fgenesh1_pg.C_chr_15000105; .; K02371 enoyl-[acyl carrier protein] reductase II [EC:1.3.1.-]
+V1033366	K01156	xcc:XCC1067  type III restriction-modification enzyme, helicase subunit; K01156 type III restriction enzyme [EC:3.1.21.5]
+V1033408	K00985	dtni:31181  ;  
+V1033417	K03060	zmo:ZMO1720  DNA-directed RNA polymerase subunit omega; K03060 DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]
+V1033483	K08659	tde:TDE2584  dipeptidase; K08659 dipeptidase [EC:3.4.-.-]
+V1033514	K02863	dtps:36454  e_gw1.10.201.1; .; K02863 large subunit ribosomal protein L1
+V1033560	K03076	dosa:Os08t0254500-01  Os08g0254500; Similar to Preprotein translocase secY subunit, chloroplast precursor (CpSecY).;  
+V1033686	K00687	stl:stu0613  pbp2B; penicillin-binding protein 2B; K00687 penicillin-binding protein 2B [EC:2.3.2.-]
+V1033734	K00537	dlja:3556  chr4.CM0173.200.nd; /partial;  
+V1033739	K07979	xop:PXO_01221  GntR family transcriptional regulator; K07979 GntR family transcriptional regulator
+V1033795	K14060	yep:YE105_P0068  resolvase TnpR; K14060 putative DNA-invertase from lambdoid prophage Rac
+V1033814	K01809	dvvi:GSVIVP00038234001  GSVIVT00038234001; assembled CDS; K01809 mannose-6-phosphate isomerase [EC:5.3.1.8]
+V1033861	K01531	dvvi:GSVIVP00011999001  GSVIVT00011999001; assembled CDS; K01531 Mg2+-importing ATPase [EC:3.6.3.2]
+V1034228	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1034257	K01783	dvvi:GSVIVP00020537001  GSVIVT00020537001; assembled CDS; K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+V1034319	K02886	dvvi:GSVIVP00013198001  GSVIVT00013198001; assembled CDS; K02886 large subunit ribosomal protein L2
+V1034382	K02822	ypy:YPK_1547  phosphotransferase system lactose/cellobiose-specific IIB subunit; K02822 PTS system, ascorbate-specific IIB component [EC:2.7.1.69]
+V1036154	K02469	dvvi:GSVIVP00033901001  GSVIVT00033901001; assembled CDS; K02469 DNA gyrase subunit A [EC:5.99.1.3]
+V1036193	K01552	dvvi:GSVIVP00003662001  GSVIVT00003662001; assembled CDS; K01552 
+V1036268	K01929	zpr:ZPR_3928  UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase; K01929 UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase [EC:6.3.2.10]
+V1036284	K03701	ddpu:319808  NCBI_GNO_3100105; .;  
+V1036842	K07259	dlja:27066  LjSGA_148122.1.1; /partial;  
+V1037283	K00754	dvvi:GSVIVP00038116001  GSVIVT00038116001; assembled CDS
+V1038263	K11533	dani:AN7855  Uncharacterized ORF;  
+V1047004	K10773	dvvi:GSVIVP00001931001  GSVIVT00001931001; assembled CDS; K10773 endonuclease III [EC:4.2.99.18]
+V1047013	K08368	ypz:YPZ3_2109  putative transporter protein; K08368 MFS transporter, putative metabolite transport protein
+V1047143	K00244	dani:AN10296  Uncharacterized ORF; S. cerevisiae ortholog YEL047C has fumarate reductase (NADH) activity, has role in cellular response to anoxia and localizes to ribosome, cytosol, plasma membrane enriched fraction, mitochondrion;  
+V1047186	K06173	dvvi:GSVIVP00035388001  GSVIVT00035388001; assembled CDS; K06173 tRNA pseudouridine synthase A [EC:5.4.99.12]
+V1047298	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1101376	K03892	dapi:ACYPI24472-PA  GLEAN_04472; .;  
+V1143186	K02042	ypz:YPZ3_1092  ABC transport membrane permease; K02042 phosphonate transport system permease protein
+V1149023	K06919	ypz:YPZ3_0839  putative primase; K06919 putative DNA primase/helicase
+V1150389	K13789	dmtr:Medtr5g100210.1  Polyprenyl synthetase chr05_pseudomolecule_IMGAG_V3 40103398-40100868 E EGN_Mt090430 20090702;  
+V1162940	K07979	xop:PXO_01221  GntR family transcriptional regulator; K07979 GntR family transcriptional regulator
+V1162992	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1163000	K07030	xce:Xcel_2280  Dak phosphatase; K07030
+V1163037	K01872	dvvi:GSVIVP00013953001  GSVIVT00013953001; assembled CDS; K01872 alanyl-tRNA synthetase [EC:6.1.1.7]
+V1163106	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1163142	K01807	dvvi:GSVIVP00031147001  GSVIVT00031147001; assembled CDS; K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6]
+V1163177	K12700	sub:SUB0724  inosine-uridine preferring nucleoside hydrolase; K12700 non-specific riboncleoside hydrolase [EC:3.2.-.-]
+V1163654	K01874	dvvi:GSVIVP00018514001  GSVIVT00018514001; assembled CDS; K01874 methionyl-tRNA synthetase [EC:6.1.1.10]
+V1163708	K07024	dota:Ot09g01780  .;  
+V1163740	K01784	dvvi:GSVIVP00029850001  GSVIVT00029850001; assembled CDS; K01784 UDP-glucose 4-epimerase [EC:5.1.3.2]
+V1163894	K01531	dvvi:GSVIVP00011999001  GSVIVT00011999001; assembled CDS; K01531 Mg2+-importing ATPase [EC:3.6.3.2]
+V1164155	K07444	zpr:ZPR_1851  RNA methylase family protein; K07444 putative N6-adenine-specific DNA methylase [EC:2.1.1.-]
+V1164166	K10039	wsu:WS0279  binding component of ABC transporter; K10039 putative glutamine transport system substrate-binding protein
+V1164312	K01258	zpr:ZPR_0860  peptidase T; K01258 tripeptide aminopeptidase [EC:3.4.11.4]
+V1199398	K07507	zpr:ZPR_4070  hypothetical protein; K07507 putative Mg2+ transporter-C (MgtC) family protein
+V1199409	K02044	ypz:YPZ3_1090  putative substrate-binding periplasmic transport protein; K02044 phosphonate transport system substrate-binding protein
+V1202585	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1202802	K03701	ddpu:319808  NCBI_GNO_3100105; .;  
+V1202803	K00904	dtni:29469  ;  
+V1202852	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1203302	K03281	dlja:26777  LjSGA_143406.1.1; /partial;  
+V1204510	K02793	zmo:ZMO1326  PTS system fructose subfamily transprotein subunit IIA; K02793 PTS system, mannose-specific IIA component [EC:2.7.1.69]
+V1204605	K03631	zpr:ZPR_3243  DNA repair protein RecN; K03631 DNA repair protein RecN (Recombination protein N)
+V1204692	K07024	dota:Ot09g01780  .;  
+V1204706	K01251	dvvi:GSVIVP00031656001  GSVIVT00031656001; assembled CDS; K01251 adenosylhomocysteinase [EC:3.3.1.1]
+V1204781	K08368	ypz:YPZ3_2109  putative transporter protein; K08368 MFS transporter, putative metabolite transport protein
+V1204785	K00540	dvvi:GSVIVP00021380001  GSVIVT00021380001; assembled CDS; K00540 
+V1204829	K01026	sax:USA300HOU_0244  3-oxoacid CoA-transferase (EC:2.8.3.5); K01026 propionate CoA-transferase [EC:2.8.3.1]
+V1204833	K10119	ttm:Tthe_0756  sugar ABC transporter permease; K10119 multiple sugar transport system permease protein
+V1205544	K06148	dlja:23759  LjSGA_074216.1; /partial;  
+V1211458	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1232179	K01361	tpd:Teth39_0143  hypothetical protein; K01361 lactocepin [EC:3.4.21.96]
+V1237096	K01376	dvvi:GSVIVP00036897001  GSVIVT00036897001; assembled CDS; K01376 
+V1324544	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1336073	K03436	tte:TTE2588  glpR2; sugar metabolism transcriptional regulator; K03436 DeoR family transcriptional regulator, fructose operon transcriptional repressor
+V1339040	K03768	dvvi:GSVIVP00006984001  GSVIVT00006984001; assembled CDS; K03768 peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]
+V1339074	K01733	dvvi:GSVIVP00032716001  GSVIVT00032716001; assembled CDS; K01733 threonine synthase [EC:4.2.3.1]
+V1362785	K10117	ttm:Tthe_0754  extracellular solute-binding protein family 1; K10117 multiple sugar transport system substrate-binding protein
+V1374569	K02470	dvvi:GSVIVP00000640001  GSVIVT00000640001; assembled CDS; K02470 DNA gyrase subunit B [EC:5.99.1.3]
+V1388960	K05832	vvy:VV2130  ABC-type uncharacterized transport system, permease component; K05832 putative ABC transport system permease protein
+V1432582	K02038	zmo:ZMO1049  phosphate ABC transporter inner membrane subunit PstA; K02038 phosphate transport system permease protein
+V1445267	K11533	dani:AN7855  Uncharacterized ORF;  
+V1453879	K03650	dvvi:GSVIVP00015270001  GSVIVT00015270001; assembled CDS; K03650 tRNA modification GTPase
+V1507971	K07284	xce:Xcel_1522  sortase family protein; K07284 sortase A
+V1513840	K01238	dvvi:GSVIVP00003795001  GSVIVT00003795001; assembled CDS; K01188 beta-glucosidase [EC:3.2.1.21]
+V1538066	K03883	dvvi:GSVIVP00035622001  GSVIVT00035622001; assembled CDS; K03883 NADH dehydrogenase I subunit 5 [EC:1.6.5.3]
+V1552710	K04078	dvvi:GSVIVP00030504001  GSVIVT00030504001; assembled CDS; K04078 chaperonin GroES
+V1552713	K03431	zmo:ZMO1002  glmM; phosphoglucosamine mutase (EC:5.4.2.10); K03431 phosphoglucosamine mutase [EC:5.4.2.10]
+V1552829	K03281	dlja:26777  LjSGA_143406.1.1; /partial;  
+V1590276	K03135	dvvi:GSVIVP00000980001  GSVIVT00000980001; assembled CDS; K03135 transcription initiation factor TFIID subunit D9
+V1598242	K00680	dvvi:GSVIVP00023724001  GSVIVT00023724001; assembled CDS; K00680 
+V1607305	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1608682	K07741	spz:M5005_Spy_1217  phage antirepressor protein; K07741 anti-repressor protein
+V1684076	K01462	dvvi:GSVIVP00034594001  GSVIVT00034594001; assembled CDS; K01462 
+V1684081	K08998	dtps:31562  e_gw1.1.864.1; .; K08998 hypothetical protein
+V1684116	K03075	dota:Ot12g02280  .;  
+V1704981	K02025	ypz:YPZ3_3066  sugar transport system, permease protein; K02025 multiple sugar transport system permease protein
+V1755570	K03303	xne:XNC1_1643  putative L-lactate permease; K03303 lactate transporter, LctP family
+V1755581	K00680	dvvi:GSVIVP00023724001  GSVIVT00023724001; assembled CDS; K00680 
+V1806609	K07473	zmn:Za10_1913  addiction module antitoxin, RelB/DinJ family; K07473 DNA-damage-inducible protein J
+V1808042	K06158	dvvi:GSVIVP00006684001  GSVIVT00006684001; assembled CDS; K06158 ATP-binding cassette, sub-family F, member 3
+V1808053	K03316	dvvi:GSVIVP00023595001  GSVIVT00023595001; assembled CDS; K03316 monovalent cation:H+ antiporter, CPA1 family
+V1808213	K08602	xau:Xaut_2070  PepF/M3 family oligoendopeptidase; K08602 oligoendopeptidase F [EC:3.4.24.-]
+V1808267	K13867	dtni:33009  ;  
+V1819411	K00841	sub:SUB0021  aromatic amino acid aminotransferase; K00841 aminotransferase [EC:2.6.1.-]
+V1879979	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1880092	K09687	dtni:6649  ;  
+V1880862	K01809	dvvi:GSVIVP00038234001  GSVIVT00038234001; assembled CDS; K01809 mannose-6-phosphate isomerase [EC:5.3.1.8]
+V1880912	K01621	dpch:126443  e_gwh2.7.87.1; .;  
+V1880920	K01463	dvvi:GSVIVP00028906001  GSVIVT00028906001; assembled CDS; K01463 
+V1882174	K02520	dvvi:GSVIVP00017183001  GSVIVT00017183001; assembled CDS; K02520 translation initiation factor IF-3
+V1882328	K01834	dvvi:GSVIVP00033622001  GSVIVT00033622001; assembled CDS; K01834 phosphoglycerate mutase [EC:5.4.2.1]
+V1882856	K03469	dtps:2595  fgenesh1_pg.C_chr_2000550; .; K03469 ribonuclease HI [EC:3.1.26.4]
+V1882897	K00949	dvvi:GSVIVP00027976001  GSVIVT00027976001; assembled CDS; K00949 thiamine pyrophosphokinase [EC:2.7.6.2]
+V1882928	K07496	xne:XNC1_2503  transposase; K07496 putative transposase
+V1883165	K01552	dvvi:GSVIVP00003662001  GSVIVT00003662001; assembled CDS; K01552 
+V1883166	K01552	dvvi:GSVIVP00003662001  GSVIVT00003662001; assembled CDS; K01552 
+V1883249	K03816	vpr:Vpar_0363  xanthine phosphoribosyltransferase; K03816 xanthine phosphoribosyltransferase [EC:2.4.2.22]
+V1883381	K01258	zpr:ZPR_0860  peptidase T; K01258 tripeptide aminopeptidase [EC:3.4.11.4]
+V1884407	K06901	dvvi:GSVIVP00029413001  GSVIVT00029413001; assembled CDS; K06901 putative MFS transporter, AGZA family, xanthine/uracil permease
+V1884480	K07027	zpr:ZPR_4521  transhypothetical protein; K07027
+V1884560	K02878	dvvi:GSVIVP00035271001  GSVIVT00035271001; assembled CDS
+V1884605	K07273	dpch:136630  e_gww2.7.585.1; .;  
+V1884625	K07706	tte:TTE0562  baeS2; sensory transduction histidine kinase; K07706 two-component system, AgrA family, sensor histidine kinase AgrC [EC:2.7.13.-]
+V1884674	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1884803	K06889	dvvi:GSVIVP00016548001  GSVIVT00016548001; assembled CDS
+V1885047	K00104	dvvi:GSVIVP00028321001  GSVIVT00028321001; assembled CDS; K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15]
+V1885085	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1886028	K07484	ypz:YPZ3_0337  hypothetical protein; K07484 transposase
+V1886034	K01223	ddpu:72676  e_gw1.12282.2.1; .;  
+V1886047	K01807	dvvi:GSVIVP00031147001  GSVIVT00031147001; assembled CDS; K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6]
+V1886090	K01879	dvvi:GSVIVP00019077001  GSVIVT00019077001; assembled CDS
+V1886121	K01714	dvvi:GSVIVP00026365001  GSVIVT00026365001; assembled CDS; K01714 dihydrodipicolinate synthase [EC:4.2.1.52]
+V1886180	K04042	zmo:ZMO0498  glmU; bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase; K04042 bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]
+V1886250	K00936	dvvi:GSVIVP00028044001  GSVIVT00028044001; assembled CDS; K00936 
+V1886265	K01153	zpr:ZPR_4672  HsdR; K01153 type I restriction enzyme, R subunit [EC:3.1.21.3]
+V1886275	K02244	sub:SUB0119  competence protein; K02244 competence protein ComGB
+V1886310	K01951	dvvi:GSVIVP00000429001  GSVIVT00000429001; assembled CDS; K01951 GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+V1887199	K01409	dvvi:GSVIVP00001958001  GSVIVT00001958001; assembled CDS; K01409 O-sialoglycoprotein endopeptidase [EC:3.4.24.57]
+V1887212	K03100	dvvi:GSVIVP00016732001  GSVIVT00016732001; assembled CDS; K03100 signal peptidase I [EC:3.4.21.89]
+V1890948	K07493	ypp:YPDSF_4123  transposase; K07493 putative transposase
+V1891192	K02886	dvvi:GSVIVP00013198001  GSVIVT00013198001; assembled CDS; K02886 large subunit ribosomal protein L2
+V1891205	K05832	vvy:VV2130  ABC-type uncharacterized transport system, permease component; K05832 putative ABC transport system permease protein
+V1891244	K02238	dlja:26844  LjSGA_144731.1; /partial;  
+V1891250	K02035	dlja:26036  LjSGA_122921.1; /partial;  
+V1891251	K03106	dvvi:GSVIVP00021597001  GSVIVT00021597001; assembled CDS; K03106 signal recognition particle subunit SRP54
+V1891253	K05910	spz:M5005_Spy_1378  NADH peroxidase (EC:1.11.1.1); K05910 NADH peroxidase [EC:1.11.1.1]
+V1891260	K00869	dvvi:GSVIVP00022848001  GSVIVT00022848001; assembled CDS; K00869 mevalonate kinase [EC:2.7.1.36]

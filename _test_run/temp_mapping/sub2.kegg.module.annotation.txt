@@ -1,0 +1,456 @@
+Gene	KEGG_module_number	Annotation
+V1891377	M00153	Cytochrome d ubiquinol oxidase
+V1032606	M00258	Putative ABC transport system
+V1032381	M00374	Dicarboxylate-hydroxybutyrate cycle
+V1047007	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1047286	M00260	DNA polymerase III complex, bacteria
+V1885079	M00239	Peptides/nickel transport system
+V1033097	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1047198	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1032664	M00236	Putative polar amino acid transport system
+V1684155	M00183	RNA polymerase, bacteria
+V1033078	M00260	DNA polymerase III complex, bacteria
+V1033276	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1032641	M00260	DNA polymerase III complex, bacteria
+V1237103	M00271	PTS system, beta-glucoside-specific II component
+V1033466	M00239	Peptides/nickel transport system
+V1204502	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1891261	M00183	RNA polymerase, bacteria
+V1032407	M00362	Nucleotide sugar biosynthesis, prokaryotes
+V1047039	M00333	Type IV secretion system
+V1032434	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033324	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1199359	M00275	PTS system, cellobiose-specific II component
+V1872766	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1032804	M00006	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P
+V1033069	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033562	M00246	Nickel transport system
+V1684154	M00183	RNA polymerase, bacteria
+V1884555	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033413	M00049	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+V1883309	M00096	C5 isoprenoid biosynthesis, non-mevalonate pathway
+V1032351	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1032402	M00335	Sec (secretion) system
+V1032882	M00260	DNA polymerase III complex, bacteria
+V1033055	M00221	Putative simple sugar transport system
+V1033346	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1034247	M00134	Polyamine biosynthesis, arginine => ornithine => putrescine
+V1149114	M00299	Spermidine/putrescine transport system
+V1163762	M00008	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate
+V1828770	M00374	Dicarboxylate-hydroxybutyrate cycle
+V1101416	M00239	Peptides/nickel transport system
+V1032601	M00268	PTS system, alpha-glucoside-specific II component
+V1032698	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1032715	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033085	M00258	Putative ABC transport system
+V1033086	M00239	Peptides/nickel transport system
+V1033262	M00016	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+V1047181	M00207	Putative multiple sugar transport system
+V1047206	M00271	PTS system, beta-glucoside-specific II component
+V1684156	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1884499	M00246	Nickel transport system
+V1884554	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1032415	M00050	Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+V1032563	M00170	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type
+V1032581	M00207	Putative multiple sugar transport system
+V1032703	M00239	Peptides/nickel transport system
+V1033096	M00183	RNA polymerase, bacteria
+V1684159	M00239	Peptides/nickel transport system
+V1032217	M00223	Phosphonate transport system
+V1032493	M00247	Putative ABC transport system
+V1033134	M00244	Putative zinc/manganese transport system
+V1034300	M00275	PTS system, cellobiose-specific II component
+V1047272	M00275	PTS system, cellobiose-specific II component
+V1204306	M00222	Phosphate transport system
+V1684165	M00236	Putative polar amino acid transport system
+V1806608	M00221	Putative simple sugar transport system
+V1032307	M00269	PTS system, sucrose-specific II component
+V1032344	M00164	ATP synthase
+V1032410	M00052	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP
+V1032517	M00260	DNA polymerase III complex, bacteria
+V1032631	M00197	Putative fructooligosaccharide transport system
+V1032955	M00275	PTS system, cellobiose-specific II component
+V1033033	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033414	M00049	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+V1033549	M00346	Formaldehyde assimilation, serine pathway
+V1033558	M00166	Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P
+V1047238	M00033	Ectoine biosynthesis, aspartate => ectoine
+V1796838	M00376	3-Hydroxypropionate bi-cycle
+V1883274	M00377	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+V1032342	M00164	ATP synthase
+V1032494	M00247	Putative ABC transport system
+V1032564	M00035	Methionine degradation
+V1033032	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033275	M00362	Nucleotide sugar biosynthesis, prokaryotes
+V1033362	M00275	PTS system, cellobiose-specific II component
+V1033494	M00258	Putative ABC transport system
+V1046996	M00126	Tetrahydrofolate biosynthesis, GTP => THF
+V1047061	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1047240	M00283	PTS system, ascorbate-specific II component
+V1206514	M00005	PRPP biosynthesis, ribose 5P => PRPP
+V1338896	M00273	PTS system, fructose-specific II component
+V1552781	M00260	DNA polymerase III complex, bacteria
+V1883097	M00114	Ascorbate biosynthesis, plants, glucose-6P => ascorbate
+V1884712	M00048	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP
+V1886264	M00167	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P
+V1032231	M00236	Putative polar amino acid transport system
+V1032315	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1032356	M00027	GABA (gamma-Aminobutyrate) shunt
+V1032380	M00258	Putative ABC transport system
+V1032571	M00376	3-Hydroxypropionate bi-cycle
+V1032635	M00125	Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD
+V1032731	M00346	Formaldehyde assimilation, serine pathway
+V1032826	M00049	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+V1033163	M00362	Nucleotide sugar biosynthesis, prokaryotes
+V1033169	M00375	Hydroxypropionate-hydroxybutylate cycle
+V1033467	M00248	Antibiotic transport system
+V1033632	M00116	Menaquinone biosynthesis, chorismate => menaquinone
+V1034282	M00269	PTS system, sucrose-specific II component
+V1101418	M00193	Putative spermidine/putrescine transport system
+V1338860	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1446946	M00239	Peptides/nickel transport system
+V1891109	M00376	3-Hydroxypropionate bi-cycle
+V1032203	M00238	D-Methionine transport system
+V1033054	M00221	Putative simple sugar transport system
+V1033208	M00254	ABC-2 type transport system
+V1033352	M00089	Triacylglycerol biosynthesis
+V1033374	M00018	Threonine biosynthesis, aspartate => homoserine => threonine
+V1033499	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033557	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1033786	M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+V1034272	M00254	ABC-2 type transport system
+V1101426	M00248	Antibiotic transport system
+V1206511	M00254	ABC-2 type transport system
+V1684176	M00275	PTS system, cellobiose-specific II component
+V1806641	M00239	Peptides/nickel transport system
+V1828756	M00239	Peptides/nickel transport system
+V1032343	M00164	ATP synthase
+V1032495	M00247	Putative ABC transport system
+V1032616	M00222	Phosphate transport system
+V1032626	M00377	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+V1032632	M00197	Putative fructooligosaccharide transport system
+V1032660	M00120	Coenzyme A biosynthesis, pantothenate => CoA
+V1032701	M00239	Peptides/nickel transport system
+V1033098	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1033110	M00017	Methionine biosynthesis, apartate => homoserine => methionine
+V1033168	M00362	Nucleotide sugar biosynthesis, prokaryotes
+V1033186	M00254	ABC-2 type transport system
+V1033200	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033213	M00366	C10-C20 isoprenoid biosynthesis, plants
+V1033295	M00260	DNA polymerase III complex, bacteria
+V1033332	M00125	Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD
+V1033426	M00276	PTS system, mannose-specific II component
+V1033667	M00368	Ethylene biosynthesis, methionine => ethylene
+V1033700	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1046999	M00034	Methionine salvage pathway
+V1047243	M00193	Putative spermidine/putrescine transport system
+V1047268	M00338	Cysteine biosynthesis, homocysteine + serine => cysteine
+V1101399	M00050	Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+V1203697	M00377	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+V1338897	M00258	Putative ABC transport system
+V1796871	M00193	Putative spermidine/putrescine transport system
+V1883115	M00335	Sec (secretion) system
+V1884415	M00207	Putative multiple sugar transport system
+V1032361	M00207	Putative multiple sugar transport system
+V1032607	M00258	Putative ABC transport system
+V1032630	M00197	Putative fructooligosaccharide transport system
+V1032633	M00197	Putative fructooligosaccharide transport system
+V1032663	M00236	Putative polar amino acid transport system
+V1032825	M00335	Sec (secretion) system
+V1032991	M00211	Putative ABC transport system
+V1033094	M00246	Nickel transport system
+V1033099	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1033174	M00240	Iron complex transport system
+V1033440	M00239	Peptides/nickel transport system
+V1033463	M00338	Cysteine biosynthesis, homocysteine + serine => cysteine
+V1033481	M00197	Putative fructooligosaccharide transport system
+V1033515	M00222	Phosphate transport system
+V1033638	M00116	Menaquinone biosynthesis, chorismate => menaquinone
+V1033679	M00018	Threonine biosynthesis, aspartate => homoserine => threonine
+V1883278	M00248	Antibiotic transport system
+V1884654	M00239	Peptides/nickel transport system
+V1891128	M00239	Peptides/nickel transport system
+V1032293	M00115	NAD biosynthesis, aspartate => NAD
+V1032614	M00222	Phosphate transport system
+V1032700	M00239	Peptides/nickel transport system
+V1032707	M00095	C5 isoprenoid biosynthesis, mevalonate pathway
+V1032738	M00117	Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone
+V1033327	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1033428	M00276	PTS system, mannose-specific II component
+V1033438	M00239	Peptides/nickel transport system
+V1033500	M00345	Formaldehyde assimilation, ribulose monophosphate pathway
+V1033614	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1034327	M00197	Putative fructooligosaccharide transport system
+V1047058	M00335	Sec (secretion) system
+V1199360	M00258	Putative ABC transport system
+V1796916	M00377	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+V1886305	M00183	RNA polymerase, bacteria
+V1891156	M00258	Putative ABC transport system
+V1891194	M00246	Nickel transport system
+V1032232	M00005	PRPP biosynthesis, ribose 5P => PRPP
+V1032426	M00335	Sec (secretion) system
+V1032431	M00228	Putative glutamine transport system
+V1032521	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1032556	M00299	Spermidine/putrescine transport system
+V1032662	M00236	Putative polar amino acid transport system
+V1032814	M00179	Ribosome, archaea
+V1033100	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1033135	M00244	Putative zinc/manganese transport system
+V1033264	M00016	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+V1033439	M00239	Peptides/nickel transport system
+V1033559	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1034199	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1034207	M00089	Triacylglycerol biosynthesis
+V1034276	M00016	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+V1034346	M00127	Thiamine biosynthesis, AIR => thiamine-P/thiamine-2P
+V1047169	M00260	DNA polymerase III complex, bacteria
+V1047241	M00248	Antibiotic transport system
+V1101502	M00376	3-Hydroxypropionate bi-cycle
+V1143334	M00193	Putative spermidine/putrescine transport system
+V1199406	M00120	Coenzyme A biosynthesis, pantothenate => CoA
+V1204704	M00273	PTS system, fructose-specific II component
+V1237151	M00362	Nucleotide sugar biosynthesis, prokaryotes
+V1338863	M00002	Glycolysis, core module involving three-carbon compounds
+V1684153	M00179	Ribosome, archaea
+V1796864	M00207	Putative multiple sugar transport system
+V1796878	M00223	Phosphonate transport system
+V1819374	M00254	ABC-2 type transport system
+V1882180	M00248	Antibiotic transport system
+V1882979	M00222	Phosphate transport system
+V1884645	M00346	Formaldehyde assimilation, serine pathway
+V1884653	M00274	PTS system, mannitol-specific II component
+V1032218	M00223	Phosphonate transport system
+V1032222	M00279	PTS system, galactitol-specific II component
+V1032552	M00377	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+V1032586	M00228	Putative glutamine transport system
+V1032591	M00236	Putative polar amino acid transport system
+V1032684	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1032708	M00367	C10-C20 isoprenoid biosynthesis, non-plant eukaryotes
+V1032736	M00116	Menaquinone biosynthesis, chorismate => menaquinone
+V1032741	M00153	Cytochrome d ubiquinol oxidase
+V1032821	M00179	Ribosome, archaea
+V1032912	M00120	Coenzyme A biosynthesis, pantothenate => CoA
+V1033079	M00345	Formaldehyde assimilation, ribulose monophosphate pathway
+V1033126	M00223	Phosphonate transport system
+V1033136	M00244	Putative zinc/manganese transport system
+V1033263	M00033	Ectoine biosynthesis, aspartate => ectoine
+V1033330	M00377	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+V1033331	M00125	Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD
+V1033390	M00254	ABC-2 type transport system
+V1033459	M00016	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+V1033569	M00222	Phosphate transport system
+V1034198	M00197	Putative fructooligosaccharide transport system
+V1034200	M00258	Putative ABC transport system
+V1034267	M00197	Putative fructooligosaccharide transport system
+V1034332	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1047239	M00018	Threonine biosynthesis, aspartate => homoserine => threonine
+V1047242	M00254	ABC-2 type transport system
+V1149284	M00239	Peptides/nickel transport system
+V1237098	M00299	Spermidine/putrescine transport system
+V1806575	M00125	Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD
+V1872685	M00246	Nickel transport system
+V1883390	M00046	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate
+V1886373	M00273	PTS system, fructose-specific II component
+V1887057	M00239	Peptides/nickel transport system
+V1032216	M00223	Phosphonate transport system
+V1032362	M00207	Putative multiple sugar transport system
+V1032585	M00228	Putative glutamine transport system
+V1032615	M00222	Phosphate transport system
+V1032666	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1032702	M00239	Peptides/nickel transport system
+V1032742	M00153	Cytochrome d ubiquinol oxidase
+V1032820	M00179	Ribosome, archaea
+V1032824	M00179	Ribosome, archaea
+V1032953	M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+V1033195	M00344	Formaldehyde assimilation, xylulose monophosphate pathway
+V1033427	M00276	PTS system, mannose-specific II component
+V1033531	M00008	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate
+V1033568	M00222	Phosphate transport system
+V1033588	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033635	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1034213	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1034326	M00246	Nickel transport system
+V1101427	M00248	Antibiotic transport system
+V1203404	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1755587	M00179	Ribosome, archaea
+V1872734	M00179	Ribosome, archaea
+V1884587	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1884616	M00197	Putative fructooligosaccharide transport system
+V1032348	M00164	ATP synthase
+V1032394	M00083	Fatty acid biosynthesis, elongation
+V1032432	M00236	Putative polar amino acid transport system
+V1032575	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1032584	M00228	Putative glutamine transport system
+V1032617	M00222	Phosphate transport system
+V1032620	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1032673	M00114	Ascorbate biosynthesis, plants, glucose-6P => ascorbate
+V1032706	M00095	C5 isoprenoid biosynthesis, mevalonate pathway
+V1032750	M00179	Ribosome, archaea
+V1032829	M00178	Ribosome, bacteria
+V1033084	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1033093	M00246	Nickel transport system
+V1033173	M00240	Iron complex transport system
+V1033482	M00197	Putative fructooligosaccharide transport system
+V1033625	M00378	F420 biosynthesis
+V1047060	M00239	Peptides/nickel transport system
+V1101375	M00335	Sec (secretion) system
+V1204488	M00273	PTS system, fructose-specific II component
+V1204779	M00239	Peptides/nickel transport system
+V1204783	M00239	Peptides/nickel transport system
+V1237114	M00274	PTS system, mannitol-specific II component
+V1339051	M00126	Tetrahydrofolate biosynthesis, GTP => THF
+V1755599	M00254	ABC-2 type transport system
+V1796868	M00240	Iron complex transport system
+V1796919	M00120	Coenzyme A biosynthesis, pantothenate => CoA
+V1883307	M00114	Ascorbate biosynthesis, plants, glucose-6P => ascorbate
+V1890913	M00238	D-Methionine transport system
+V1891259	M00095	C5 isoprenoid biosynthesis, mevalonate pathway
+V1032433	M00228	Putative glutamine transport system
+V1032513	M00179	Ribosome, archaea
+V1032514	M00178	Ribosome, bacteria
+V1032523	M00260	DNA polymerase III complex, bacteria
+V1032583	M00236	Putative polar amino acid transport system
+V1032592	M00050	Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+V1032594	M00167	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P
+V1032770	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1032815	M00178	Ribosome, bacteria
+V1032936	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1033037	M00115	NAD biosynthesis, aspartate => NAD
+V1033095	M00178	Ribosome, bacteria
+V1033142	M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP
+V1033254	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1033302	M00335	Sec (secretion) system
+V1033450	M00020	Serine biosynthesis, glycerate-3P => serine
+V1033460	M00016	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+V1033502	M00179	Ribosome, archaea
+V1047143	M00376	3-Hydroxypropionate bi-cycle
+V1047237	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1204708	M00275	PTS system, cellobiose-specific II component
+V1552701	M00335	Sec (secretion) system
+V1552731	M00197	Putative fructooligosaccharide transport system
+V1828855	M00362	Nucleotide sugar biosynthesis, prokaryotes
+V1872748	M00254	ABC-2 type transport system
+V1886353	M00376	3-Hydroxypropionate bi-cycle
+V1887313	M00178	Ribosome, bacteria
+V1891158	M00258	Putative ABC transport system
+V1032230	M00236	Putative polar amino acid transport system
+V1032345	M00164	ATP synthase
+V1032572	M00238	D-Methionine transport system
+V1032717	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1032748	M00089	Triacylglycerol biosynthesis
+V1032812	M00179	Ribosome, archaea
+V1032886	M00120	Coenzyme A biosynthesis, pantothenate => CoA
+V1032983	M00179	Ribosome, archaea
+V1032984	M00179	Ribosome, archaea
+V1033128	M00178	Ribosome, bacteria
+V1033514	M00179	Ribosome, archaea
+V1033560	M00335	Sec (secretion) system
+V1033814	M00114	Ascorbate biosynthesis, plants, glucose-6P => ascorbate
+V1034240	M00268	PTS system, alpha-glucoside-specific II component
+V1034269	M00367	C10-C20 isoprenoid biosynthesis, non-plant eukaryotes
+V1150312	M00274	PTS system, mannitol-specific II component
+V1163654	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1202485	M00273	PTS system, fructose-specific II component
+V1202534	M00239	Peptides/nickel transport system
+V1237155	M00239	Peptides/nickel transport system
+V1339074	M00018	Threonine biosynthesis, aspartate => homoserine => threonine
+V1806645	M00308	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P
+V1882372	M00178	Ribosome, bacteria
+V1884610	M00244	Putative zinc/manganese transport system
+V1884674	M00239	Peptides/nickel transport system
+V1886180	M00362	Nucleotide sugar biosynthesis, prokaryotes
+V1887241	M00095	C5 isoprenoid biosynthesis, mevalonate pathway
+V1891247	M00346	Formaldehyde assimilation, serine pathway
+V1032603	M00303	PTS system, N-acetylmuramic acid-specific II component
+V1032642	M00093	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE
+V1032720	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1032773	M00236	Putative polar amino acid transport system
+V1032808	M00178	Ribosome, bacteria
+V1032813	M00179	Ribosome, archaea
+V1033091	M00179	Ribosome, archaea
+V1033114	M00050	Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+V1033207	M00248	Antibiotic transport system
+V1033305	M00029	Urea cycle
+V1033339	M00083	Fatty acid biosynthesis, elongation
+V1033535	M00120	Coenzyme A biosynthesis, pantothenate => CoA
+V1034203	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1047059	M00335	Sec (secretion) system
+V1047077	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1047144	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1047214	M00052	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP
+V1101373	M00239	Peptides/nickel transport system
+V1101414	M00106	Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate
+V1101444	M00003	Gluconeogenesis, oxaloacetate => fructose-6P
+V1163005	M00207	Putative multiple sugar transport system
+V1216924	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1338904	M00089	Triacylglycerol biosynthesis
+V1338905	M00244	Putative zinc/manganese transport system
+V1339489	M00193	Putative spermidine/putrescine transport system
+V1458760	M00211	Putative ABC transport system
+V1552732	M00197	Putative fructooligosaccharide transport system
+V1552800	M00178	Ribosome, bacteria
+V1796837	M00238	D-Methionine transport system
+V1806595	M00283	PTS system, ascorbate-specific II component
+V1872767	M00236	Putative polar amino acid transport system
+V1880092	M00248	Antibiotic transport system
+V1883050	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1883385	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1884563	M00166	Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P
+V1884577	M00183	RNA polymerase, bacteria
+V1885076	M00376	3-Hydroxypropionate bi-cycle
+V1886242	M00126	Tetrahydrofolate biosynthesis, GTP => THF
+V1891114	M00246	Nickel transport system
+V1891250	M00239	Peptides/nickel transport system
+V1032333	M00179	Ribosome, archaea
+V1032554	M00260	DNA polymerase III complex, bacteria
+V1032713	M00179	Ribosome, archaea
+V1032793	M00274	PTS system, mannitol-specific II component
+V1032807	M00179	Ribosome, archaea
+V1032817	M00179	Ribosome, archaea
+V1032819	M00179	Ribosome, archaea
+V1032822	M00179	Ribosome, archaea
+V1032830	M00052	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP
+V1032978	M00178	Ribosome, bacteria
+V1033090	M00179	Ribosome, archaea
+V1033416	M00050	Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+V1033539	M00114	Ascorbate biosynthesis, plants, glucose-6P => ascorbate
+V1033646	M00183	RNA polymerase, bacteria
+V1033757	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1033771	M00095	C5 isoprenoid biosynthesis, mevalonate pathway
+V1038263	M00083	Fatty acid biosynthesis, elongation
+V1047055	M00280	PTS system, glucitol/sorbitol-specific II component
+V1047172	M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP
+V1101372	M00239	Peptides/nickel transport system
+V1143195	M00164	ATP synthase
+V1150389	M00366	C10-C20 isoprenoid biosynthesis, plants
+V1163142	M00167	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P
+V1163352	M00239	Peptides/nickel transport system
+V1163634	M00197	Putative fructooligosaccharide transport system
+V1163740	M00362	Nucleotide sugar biosynthesis, prokaryotes
+V1163750	M00346	Formaldehyde assimilation, serine pathway
+V1199409	M00223	Phosphonate transport system
+V1200536	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1202747	M00258	Putative ABC transport system
+V1202852	M00239	Peptides/nickel transport system
+V1237105	M00164	ATP synthase
+V1237163	M00239	Peptides/nickel transport system
+V1388999	M00095	C5 isoprenoid biosynthesis, mevalonate pathway
+V1552770	M00120	Coenzyme A biosynthesis, pantothenate => CoA
+V1571558	M00142	NADH:ubiquinone oxidoreductase, mitochondria
+V1880862	M00114	Ascorbate biosynthesis, plants, glucose-6P => ascorbate
+V1882316	M00179	Ribosome, archaea
+V1882359	M00179	Ribosome, archaea
+V1883153	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1883174	M00239	Peptides/nickel transport system
+V1884398	M00236	Putative polar amino acid transport system
+V1884560	M00178	Ribosome, bacteria
+V1884575	M00179	Ribosome, archaea
+V1884578	M00183	RNA polymerase, bacteria
+V1884638	M00002	Glycolysis, core module involving three-carbon compounds
+V1885167	M00275	PTS system, cellobiose-specific II component
+V1886124	M00360	Aminoacyl-tRNA biosynthesis, prokaryotes
+V1886300	M00126	Tetrahydrofolate biosynthesis, GTP => THF
+V1886310	M00050	Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+V1887156	M00375	Hydroxypropionate-hydroxybutylate cycle
+V1891192	M00179	Ribosome, archaea
+V1891260	M00095	C5 isoprenoid biosynthesis, mevalonate pathway

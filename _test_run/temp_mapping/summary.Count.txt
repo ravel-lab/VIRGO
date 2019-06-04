@@ -1,0 +1,3 @@
+PC	Actinobacillus_pleuropneumoniae	BVAB3	Burkholderia_mallei	Coprobacillus_sp.	Enterococcus_faecium	Gardnerella_vaginalis	Lactobacillus_crispatus	Lactobacillus_gasseri	Lactobacillus_iners	Lactobacillus_jensenii	Lactobacillus_kefiranofaciens	Megasphaera_genomosp.	Neisseria_gonorrhoeae	Paracoccus_denitrificans	Thermobifida_cellulosilytica
+sub1	2	1	9	6	9	19	2476	1	4	4	1	1	1	1	3
+sub2	1	0	8	6	8	10	2345	1	5	2	1	0	1	1	2

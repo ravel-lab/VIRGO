@@ -1,0 +1,2497 @@
+gene	geneProduct
+V1684181	hypothetical protein
+V1064785	hypothetical protein
+V1872750	Transposase
+V1684119	Transposase
+V1885045	Transposase IS116/IS110/IS902 family protein
+V1684135	Transposase
+V1806640	phage tail tape measure protein%2C TP901 family%2C core region
+V1302572	hypothetical protein
+V1149298	Transposase
+V1872749	Transposase
+V1032538	outer membrane lipoprotein
+V1684088	Transposase
+V1544460	hypothetical protein
+V1162988	Transposase%2C IS30 family
+V1032205	IS2 repressor TnpA
+V1199427	Transposase DDE domain protein
+V1032679	Transcription-repair-coupling factor
+V1002229	Transposase DDE domain protein
+V1033443	putative DNA helicase
+V1032233	putative transposase OrfB
+V1032606	acidobacterial duplicated orphan permease
+V1806613	ATP-dependent RNA helicase SrmB
+V1684188	putative transposase OrfB
+V1032310	DNA mismatch repair protein MutS
+V1684136	Lactococcin-G-processing and transport ATP-binding protein LagD
+V1032903	Chromosome partition protein Smc
+V1033202	hypothetical protein
+V1047211	N-formylmethionyl-tRNA deformylase
+V1032665	Helicase IV
+V1034189	Mannosylglycerate hydrolase
+V1796904	Aminopeptidase N
+V1016072	DNA replication initiation protein gpA
+V1808158	Transposase%2C IS30 family
+V1032357	Putative membrane protein YdgH
+V1375181	hypothetical protein
+V1032803	Glucose-inhibited division protein A
+V1032966	Mannosylglycerate hydrolase
+V1047171	Transposase DDE domain protein
+V1032705	ATP-dependent helicase/deoxyribonuclease subunit B
+V1033097	Carbamoyl-phosphate synthase large chain
+V1150431	Type-1 restriction enzyme R protein
+V1819407	FOG: Transposase
+V1143254	hypothetical protein
+V1032767	Magnesium-transporting ATPase%2C P-type 1
+V1047198	Carbamoyl-phosphate synthase large chain
+V1032381	Phosphoenolpyruvate carboxylase
+V1032782	hypothetical protein
+V1033117	Xylulose-5-phosphate phosphoketolase
+V1033132	Penicillin-binding protein B
+V1143422	Transposase%2C IS30 family
+V1162583	outer membrane lipoprotein
+V1884884	Magnesium-transporting ATPase%2C P-type 1
+V1032664	Arginine transport system permease protein ArtQ
+V1150470	putative licABCH operon regulator
+V1032318	MutS2 protein
+V1033009	Alpha-xylosidase
+V1033012	hypothetical protein
+V1047007	Glycine--tRNA ligase beta subunit
+V1047039	type IV secretion system protein VirD4
+V1885079	Dipeptide-binding protein DppE precursor
+V1016074	capsid protein
+V1033042	Calcium-transporting ATPase
+V1033189	putative membrane protein
+V1047236	ATP-dependent Clp protease ATP-binding subunit ClpE
+V1204502	Anaerobic ribonucleoside-triphosphate reductase
+V1872766	Ribonucleoside-diphosphate reductase subunit alpha 2
+V1032215	Transposase DDE domain protein
+V1032324	Calcium-transporting ATPase
+V1032412	Dipeptidase A
+V1032470	putative ABC transporter ATP-binding protein
+V1032489	Tetracycline resistance protein TetM from transposon TnFO1
+V1032914	DNA polymerase I
+V1032982	hypothetical protein
+V1033078	DNA polymerase III subunit alpha
+V1033347	Phosphoglycerol transferase%2C alkaline phosphatase superfamily
+V1047000	Nuclease-related domain protein
+V1047286	hypothetical protein
+V1143175	outer membrane lipoprotein
+V1388962	DNA topoisomerase 4 subunit A
+V1033276	Isoleucine--tRNA ligase
+V1035706	hypothetical protein
+V1143197	Putative O-antigen transporter
+V1034201	Lactococcin-G-processing and transport ATP-binding protein LagD
+V1047038	hypothetical protein
+V1101503	Magnesium-transporting ATPase%2C P-type 1
+V1237103	Aryl-phospho-beta-D-glucosidase BglH
+V1032206	Neutral endopeptidase
+V1032638	Translation initiation factor IF-2
+V1032880	DNA gyrase subunit A
+V1033165	Plasmid pRiA4b ORF-3-like protein
+V1033466	Stage 0 sporulation protein KA
+V1047005	ATP-dependent helicase/nuclease subunit A
+V1047070	Penicillin-binding protein 2B
+V1552755	Lipoteichoic acid synthase 1
+V1032299	DNA ligase
+V1032589	Lipid A export ATP-binding/permease protein MsbA
+V1032802	tRNA modification GTPase MnmE
+V1032845	Xaa-Pro dipeptidyl-peptidase
+V1032990	Lipid A export ATP-binding/permease protein MsbA
+V1033055	Arabinose import ATP-binding protein AraG
+V1033346	Valine--tRNA ligase
+V1101485	Alpha-hemolysin translocation ATP-binding protein HlyB
+V1237091	putative transposase OrfB
+V1684154	DNA-directed RNA polymerase subunit beta'
+V1684155	DNA-directed RNA polymerase subunit beta
+V1684172	Lipid A export ATP-binding/permease protein MsbA
+V1880844	Heterocyst differentiation ATP-binding protein HepA
+V1016073	minor spike protein
+V1032434	Phenylalanine--tRNA ligase beta subunit
+V1032628	Intracellular maltogenic amylase
+V1032856	site-specific tyrosine recombinase XerC
+V1033256	Exodeoxyribonuclease V alpha chain
+V1034247	Ornithine decarboxylase%2C inducible
+V1143339	hypothetical protein
+V1150387	Signal transduction histidine-protein kinase ArlS
+V1162595	putative cation-transporting ATPase F
+V1755572	Sensor protein kinase WalK
+V1799986	L1 transposable element
+V1032391	Stage III sporulation protein E
+V1032740	ATP-binding/permease protein CydD
+V1032792	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+V1032804	6-phosphogluconate dehydrogenase%2C NADP(+)-dependent%2C decarboxylating
+V1033170	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+V1033361	putative DEAD-box ATP-dependent RNA helicase
+V1033398	Levansucrase precursor
+V1033562	Putative HMP/thiamine import ATP-binding protein YkoD
+V1034270	Transposase DDE domain protein
+V1047201	Lactose-proton symporter
+V1032746	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+V1032888	ComEC family competence protein
+V1032939	K(+)/H(+) antiporter
+V1033086	Dipeptide-binding protein DppE precursor
+V1033192	hypothetical protein
+V1033243	putative ABC transporter ATP-binding protein YjjK
+V1033247	putative ABC transporter ATP-binding protein YheS
+V1033290	Copper-exporting P-type ATPase A
+V1033563	Adenine deaminase
+V1033578	putative bacteriocin transport accessory protein
+V1047017	putative diguanylate cyclase AdrA
+V1047181	Multiple sugar-binding protein precursor
+V1047254	hypothetical protein
+V1204306	Phosphate transport system permease protein PstC
+V1684170	Chromosomal replication initiator protein DnaA
+V1755585	DNA gyrase subunit B
+V1796834	ATP-dependent DNA helicase PcrA
+V1883309	1-deoxy-D-xylulose-5-phosphate synthase
+V1886306	ATP-dependent Clp protease ATP-binding subunit ClpC
+V1032201	Multicopper oxidase mco
+V1032351	Serine--tRNA ligase
+V1032486	Glutamate/gamma-aminobutyrate antiporter
+V1032609	D-serine/D-alanine/glycine transporter
+V1032652	Serine protease Do-like HtrA
+V1033069	Cysteine--tRNA ligase
+V1033161	Beta-galactosidase large subunit
+V1033273	Beta-galactosidase LacZ
+V1034244	Ribonuclease J 1
+V1047157	Putative multidrug export ATP-binding/permease protein
+V1047206	EIIBCA-Bgl
+V1101378	hypothetical protein
+V1101416	Dipeptide-binding protein DppE precursor
+V1101425	bacteriocin biosynthesis docking scaffold%2C SagD family
+V1162581	hypothetical protein
+V1204490	Mannitol operon transcriptional activator
+V1237086	H+ Antiporter protein
+V1608693	Aspartate-semialdehyde dehydrogenase
+V1828770	Phosphoenolpyruvate synthase
+V1872764	hypothetical protein
+V1032212	Asparagine synthetase [glutamine-hydrolyzing] 1
+V1032402	preprotein translocase subunit SecA
+V1032452	hypothetical protein
+V1032747	Neutral endopeptidase
+V1032771	Endoglucanase precursor
+V1032882	DNA polymerase III subunit beta
+V1033152	hypothetical protein
+V1033340	ATP-dependent DNA helicase RecG
+V1033595	Penicillin-binding protein 1A
+V1034256	DNA topoisomerase 4 subunit B
+V1047213	Lipoteichoic acid synthase 1
+V1101466	Restriction enzyme BgcI subunit alpha
+V1143193	Elongation factor 4
+V1163624	ATP-dependent Clp protease ATP-binding subunit ClpE
+V1163762	Glucose-6-phosphate 1-dehydrogenase
+V1202272	Transposase DDE domain protein
+V1204768	DNA mismatch repair protein MutL
+V1755579	Ribonuclease R
+V1884508	Phage terminase-like protein%2C large subunit
+V1032291	D-inositol 3-phosphate glycosyltransferase
+V1032476	putative FAD-linked oxidoreductase
+V1032779	Penicillin-binding protein F
+V1032997	DNA topoisomerase 1
+V1033033	Aspartate--tRNA ligase
+V1033187	ABC-2 family transporter protein
+V1033324	Leucine--tRNA ligase
+V1033369	Putative peptidoglycan binding domain protein
+V1033494	Bacitracin export permease protein BceB
+V1033695	putative hydrophobic domain protein
+V1034221	Phosphoglucomutase
+V1322982	Lipid A export ATP-binding/permease protein MsbA
+V1598290	Serine-rich repeat protein GspB
+V1614088	hypothetical protein
+V1806665	Transposase IS116/IS110/IS902 family protein
+V1032224	N-acetylglucosamine-6-phosphate deacetylase
+V1032296	Putative O-antigen transporter
+V1032407	Bifunctional protein GlmU
+V1032588	putative ABC transporter ATP-binding protein
+V1033003	Phosphoenolpyruvate-protein phosphotransferase
+V1033265	sporulation integral membrane protein YtvI
+V1033413	Adenylosuccinate synthetase
+V1033484	Na(+)/glucose symporter
+V1033596	hypothetical protein
+V1034291	Type I restriction enzyme EcoKI M protein
+V1047008	putative cell division protein YtgP
+V1149114	Spermidine/putrescine import ATP-binding protein PotA
+V1199359	PTS system lichenan-specific EIIC component
+V1684175	D-alanyl-lipoteichoic acid biosynthesis protein DltB
+V1806592	Nisin biosynthesis protein NisC
+V1828763	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+V1828795	L-lactate permease
+V1828860	MucBP domain protein
+V1884892	hypothetical protein
+V1032374	D-alanine--poly(phosphoribitol) ligase subunit 1
+V1032473	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+V1032577	Lipid A export ATP-binding/permease protein MsbA
+V1032699	Aminopeptidase E
+V1032841	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+V1032971	Integrase
+V1033262	Diaminopimelate decarboxylase
+V1033268	D-inositol 3-phosphate glycosyltransferase
+V1033406	putative ABC transporter ATP-binding protein YheS
+V1033645	H+ Antiporter protein
+V1034281	Inner membrane transporter YjeM
+V1047061	Threonine--tRNA ligase
+V1047075	gram-positive signal peptide%2C YSIRK family
+V1101430	Bacterial Ig-like domain (group 3)
+V1143382	High-copy suppressor of rspA
+V1163652	ATP-dependent zinc metalloprotease FtsH
+V1204519	Excinuclease ABC subunit B
+V1552781	DNA polymerase III PolC-type
+V1684147	putative sensor histidine kinase TcrY
+V1819363	choice-of-anchor A domain protein
+V1884240	potassium transport protein Kup
+V1885137	Aminopeptidase C
+V1032307	EIIBCA-Bgl
+V1032315	Alanine--tRNA ligase
+V1032344	ATP synthase subunit alpha
+V1032491	zinc transporter
+V1032745	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+V1033036	Putative ribosome biogenesis GTPase RsgA
+V1033085	FtsX-like permease family protein
+V1033321	Surface layer protein
+V1033325	putative cell division protein YtgP
+V1034187	Primosomal protein N'
+V1034218	Dipeptidase
+V1034223	putative ABC transporter ATP-binding protein YheS
+V1034239	Oleate hydratase
+V1047113	Serine/threonine-protein kinase PrkC
+V1047208	Elongation factor G
+V1143204	Putative glycosyltransferase EpsE
+V1143661	Ribonuclease Y
+V1204503	hypothetical protein
+V1684077	Cell division protein FtsA
+V1684150	Tyrosine recombinase XerD-like protein
+V1684156	Lysine--tRNA ligase
+V1796843	Xylulose-5-phosphate phosphoketolase
+V1819373	Aldehyde-alcohol dehydrogenase
+V1828822	Oleate hydratase
+V1032292	Nicotinate phosphoribosyltransferase pncB2
+V1032301	Glutamyl-tRNA(Gln) amidotransferase subunit A
+V1032410	CTP synthase
+V1032529	putative ABC transporter ATP-binding protein YjjK
+V1032563	phosphoenolpyruvate carboxykinase
+V1032581	Multiple sugar-binding protein precursor
+V1032631	Cyclodextrin-binding protein precursor
+V1032632	Maltose transport system permease protein MalF
+V1032728	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+V1032922	Trifunctional nucleotide phosphoesterase protein YfkN precursor
+V1033180	Sucrose phosphorylase
+V1033275	galactose-1-phosphate uridylyltransferase
+V1033629	Heat shock protein 70
+V1034229	Alpha-galactosidase
+V1034275	Serine/threonine exchanger SteT
+V1034282	PTS system EIIBC component
+V1034296	Pyruvate oxidase
+V1047240	Ascorbate-specific PTS system EIIC component
+V1143205	Putative glycosyltransferase EpsD
+V1143244	putative membrane protein
+V1162587	Abortive infection bacteriophage resistance protein
+V1237119	transposase%2C IS605 OrfB family
+V1336005	hypothetical protein
+V1828818	Formyl-coenzyme A transferase
+V1882246	putative ion channel protein
+V1882400	hypothetical protein
+V1884418	Bacterial Ig-like domain (group 3)
+V1884712	Phosphoribosylamine--glycine ligase
+V1890912	Dipeptidase A
+V1032207	multidrug resistance protein MdtH
+V1032343	F-ATPase gamma subunit
+V1032565	ATP-dependent helicase
+V1032567	Ammonia transporter
+V1032692	Membrane-bound protein LytR
+V1032730	L-aspartate transporter
+V1032883	Cell division protein FtsW
+V1032919	Xaa-Pro dipeptidase
+V1033030	Bifunctional (p)ppGpp synthase/hydrolase RelA
+V1033113	hypothetical protein
+V1033259	hypothetical protein
+V1033272	hypothetical protein
+V1033455	General stress protein A
+V1033716	Inner membrane transporter YcaM
+V1047009	hypothetical protein
+V1143192	2-acyl-glycerophospho-ethanolamine acyltransferase
+V1143201	Mannosyltransferase OCH1
+V1143256	phage major capsid protein%2C HK97 family
+V1203328	Tyrosine recombinase XerC
+V1806647	DNA primase
+V1806654	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+V1828804	cytoplasmic glycerophosphodiester phosphodiesterase
+V1032231	Arginine transport system permease protein ArtQ
+V1032309	Stress protein H5
+V1032375	hypothetical protein
+V1032393	Putative zinc protease AlbF
+V1032517	DNA polymerase III subunit gamma/tau
+V1032595	potassium transport protein Kup
+V1032601	PTS system maltose-specific EIICB component
+V1032611	hypothetical protein
+V1032667	putative membrane protein
+V1032674	Signal transduction histidine-protein kinase BaeS
+V1032676	tRNA(Ile)-lysidine synthase
+V1032703	Stage 0 sporulation protein KE
+V1032731	Serine hydroxymethyltransferase
+V1032739	putative ABC transporter ATP-binding protein
+V1032849	hypothetical protein
+V1032910	Replication initiation and membrane attachment protein
+V1032916	Peptidoglycan endopeptidase RipA precursor
+V1033130	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+V1033313	hypothetical protein
+V1033414	Adenylosuccinate lyase
+V1033432	phage-associated protein%2C family
+V1033486	Poly-beta-1%2C6-N-acetyl-D-glucosamine synthase
+V1033516	Guanine/hypoxanthine permease PbuG
+V1033520	D-alanyl-D-alanine carboxypeptidase DacA precursor
+V1033554	hypothetical protein
+V1033613	GTP-binding protein HflX
+V1033632	1%2C4-dihydroxy-2-naphthoate octaprenyltransferase
+V1033658	Cysteine-rich secretory protein family protein
+V1047002	hypothetical protein
+V1047165	hypothetical protein
+V1101200	tetratricopeptide repeat protein
+V1202646	hypothetical protein
+V1269254	hypothetical protein
+V1336052	ABC-type transport system involved in multi-copper enzyme maturation%2C permease component
+V1338860	Proline--tRNA ligase
+V1614186	Transposase
+V1796862	Helix-turn-helix domain protein
+V1806608	Galactoside transport system permease protein MglC
+V1806610	H(+)/Cl(-) exchange transporter ClcA
+V1819361	Integrase core domain protein
+V1884609	Endo-1%2C4-beta-xylanase/feruloyl esterase precursor
+V1887002	CRISPR-associated endonuclease Cas9/Csn1
+V1032203	28 kDa outer membrane protein
+V1032350	hypothetical protein
+V1032372	D-alanyl-lipoteichoic acid biosynthesis protein DltD
+V1032380	Macrolide export ATP-binding/permease protein MacB
+V1032418	hypothetical protein
+V1032472	Sensor histidine kinase YycG
+V1032625	Glucose-resistance amylase regulator
+V1032697	Fibronectin type III domain protein
+V1032707	mevalonate kinase
+V1032756	phage major capsid protein%2C HK97 family
+V1032881	DNA replication and repair protein RecF
+V1033020	Peptide chain release factor 3
+V1033045	6-phospho-alpha-glucosidase 1
+V1033164	hypothetical protein
+V1033257	O-acetyltransferase OatA
+V1033261	hypothetical protein
+V1033274	Galactokinase
+V1033549	Enolase
+V1033558	Phosphoglycerate kinase
+V1033659	Cysteine-rich secretory protein family protein
+V1033682	putative L-ascorbate-6-phosphate lactonase UlaG
+V1033697	hypothetical protein
+V1033745	Serine/threonine exchanger SteT
+V1034300	PTS system oligo-beta-mannoside-specific EIIC component
+V1046988	Chaperone protein DnaJ
+V1047216	putative ABC transporter ATP-binding protein
+V1198928	hypothetical protein
+V1338889	Tyrosine phosphorylated protein A
+V1684085	Inner membrane transporter YcaM
+V1684141	Abortive infection bacteriophage resistance protein
+V1684176	PTS system N%2CN'-diacetylchitobiose-specific EIIC component
+V1755599	ABC-2 family transporter protein
+V1796915	Pullulanase
+V1796917	Bacillibactin transport regulator
+V1796925	Xylulose kinase
+V1806658	putative HTH-type transcriptional regulator YbbH
+V1819379	hypothetical protein
+V1828831	hypothetical protein
+V1882399	SagB-type dehydrogenase domain protein
+V1884806	Alpha-xylosidase
+V1032211	D-aspartate ligase
+V1032213	Calcineurin-like phosphoesterase superfamily domain protein
+V1032221	Tyrosine-protein phosphatase precursor
+V1032229	Cysteine-rich secretory protein family protein
+V1032297	Mannosyltransferase OCH1
+V1032314	DEAD-box ATP-dependent RNA helicase CshB
+V1032329	Divergent AAA domain protein
+V1032388	pheromone autoinducer 2 transporter
+V1032392	Peptidase M16 inactive domain protein
+V1032400	Primosomal protein N'
+V1032409	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+V1032474	Aspartate racemase
+V1032485	hypothetical protein
+V1032610	putative ATPase (AAA+ superfamily)
+V1032621	putative ATPase (AAA+ superfamily)
+V1032626	Acetate kinase
+V1032672	Cystathionine beta-lyase PatB
+V1032715	Glutamate--tRNA ligase
+V1032729	Glucan 1%2C6-alpha-glucosidase
+V1032776	Inner membrane protein alx
+V1032930	putative secreted protein
+V1032933	Helix-turn-helix domain protein
+V1032937	hypothetical protein
+V1032992	Putative sporulation transcription regulator WhiA
+V1033025	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+V1033056	Purine nucleoside receptor A
+V1033096	DNA-directed RNA polymerase subunit alpha
+V1033102	Trehalose-6-phosphate hydrolase
+V1033119	L-ribulose-5-phosphate 3-epimerase UlaE
+V1033127	Replicative DNA helicase
+V1033134	Saliva-binding protein
+V1033168	UTP--glucose-1-phosphate uridylyltransferase
+V1033196	hypothetical protein
+V1033205	hypothetical protein
+V1033341	DAK2 domain fusion protein YloV
+V1033351	Serine/threonine exchanger SteT
+V1033404	hypothetical protein
+V1033517	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+V1033612	Magnesium and cobalt efflux protein CorC
+V1033634	hypothetical protein
+V1033693	N-acetylmuramic acid 6-phosphate etherase
+V1034178	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+V1047035	type-IV secretion system protein TraC
+V1047238	Aspartokinase 3
+V1101418	Spermidine/putrescine transport system permease protein PotB
+V1143165	Sodium/proton antiporter
+V1143203	Capsular polysaccharide synthesis protein
+V1264422	hypothetical protein
+V1359871	hypothetical protein
+V1389196	hypothetical protein
+V1446896	putative transposase
+V1446946	Oligopeptide-binding protein AppA precursor
+V1446956	C protein alpha-antigen precursor
+V1613033	hypothetical protein
+V1796881	Aminopeptidase E
+V1796918	Putative N-acetyl-LL-diaminopimelate aminotransferase
+V1872704	hypothetical protein
+V1882904	transcriptional regulator%2C y4mF family
+V1882964	Cardiolipin synthase
+V1883175	Adenine deaminase
+V1886924	Zinc-transporting ATPase
+V1032226	YibE/F-like protein
+V1032371	Putative penicillin-binding protein PbpX
+V1032376	K(+)/H(+) antiporter
+V1032447	Terminase-like family protein
+V1032466	putative chromosome-partitioning protein ParB
+V1032542	hypothetical protein
+V1032562	hypothetical protein
+V1032619	Alkaline phosphatase synthesis sensor protein PhoR
+V1032716	Lon protease 2
+V1032733	Lactate 2-monooxygenase
+V1032993	LPPG:FO 2-phospho-L-lactate transferase
+V1033053	Glucosamine-6-phosphate deaminase
+V1033067	Putative TrmH family tRNA/rRNA methyltransferase
+V1033110	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+V1033208	ABC-2 family transporter protein
+V1033271	putative membrane protein
+V1033314	UDP-N-acetylmuramate--L-alanine ligase
+V1033499	Arginine--tRNA ligase
+V1033523	bacteriocin biosynthesis cyclodehydratase%2C SagC family
+V1033752	Putative glutamine amidotransferasec
+V1034265	Alkanal monooxygenase alpha chain
+V1046974	Single-stranded-DNA-specific exonuclease RecJ
+V1046999	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+V1047142	Excinuclease ABC subunit C
+V1047158	D-serine/D-alanine/glycine transporter
+V1047197	hypothetical protein
+V1101394	Multidrug-efflux transporter 3
+V1143166	hypothetical protein
+V1143199	Chondroitin polymerase
+V1163728	glmZ(sRNA)-inactivating NTPase
+V1204307	Type IV secretory pathway%2C VirB4 components
+V1204456	nicotinamide mononucleotide transporter PnuC
+V1204804	Oxalyl-CoA decarboxylase
+V1237151	UDP-N-acetylglucosamine 2-epimerase
+V1684093	Zinc metalloprotease RasP
+V1684104	hypothetical protein
+V1684162	Transposase DDE domain protein
+V1796838	Fumarate hydratase class II
+V1806574	Divalent metal cation transporter MntH
+V1806578	Cell division protein FtsZ
+V1806580	UDP-N-acetylmuramate--L-alanine ligase
+V1806590	hypothetical protein
+V1806607	putative transport protein YifK
+V1880123	hypothetical protein
+V1883319	hypothetical protein
+V1883383	putative ABC transporter ATP-binding protein
+V1032208	Hemerythrin HHE cation binding domain protein
+V1032331	Cysteine desulfurase
+V1032332	Septation ring formation regulator EzrA
+V1032337	Rod shape-determining protein RodA
+V1032358	hypothetical protein
+V1032417	Accessory gene regulator protein A
+V1032492	Putative HAD-hydrolase YfnB
+V1032493	ABC-type uncharacterized transport system%2C periplasmic component
+V1032571	Fumarate reductase flavoprotein subunit precursor
+V1032582	hypothetical protein
+V1032635	Riboflavin biosynthesis protein RibF
+V1032639	hypothetical protein
+V1032681	L-lactate dehydrogenase
+V1032710	Ribosomal RNA small subunit methyltransferase F
+V1032763	Surface layer protein
+V1032794	Mannitol-1-phosphate 5-dehydrogenase
+V1032838	Surface layer protein
+V1032851	Helix-turn-helix
+V1033010	putative ATPase (AAA+ superfamily)
+V1033049	Putative malate transporter YflS
+V1033099	Dihydroorotase
+V1033169	Acetyl-CoA acetyltransferase
+V1033176	Signal transduction histidine-protein kinase BaeS
+V1033362	PTS system oligo-beta-mannoside-specific EIIC component
+V1033464	Glutamine synthetase
+V1033580	Putative hydrolase
+V1033591	Glucose-resistance amylase regulator
+V1033622	hypothetical protein
+V1033627	hypothetical protein
+V1033638	1%2C4-dihydroxy-2-naphthoate octaprenyltransferase
+V1033718	putative HTH-type transcriptional regulator YbbH
+V1033786	MurPQ operon repressor
+V1034215	Staphylococcal virulence regulator protein A
+V1034232	C protein alpha-antigen precursor
+V1034271	Multidrug-efflux transporter 3
+V1034293	recombination factor protein RarA
+V1046996	Folylpolyglutamate synthase
+V1047033	hypothetical protein
+V1047209	N-acetyldiaminopimelate deacetylase
+V1101399	Inosine-5'-monophosphate dehydrogenase
+V1101424	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+V1101426	ABC-2 type transporter
+V1143191	SagB-type dehydrogenase domain protein
+V1149113	hypothetical protein
+V1162585	Phage terminase-like protein%2C large subunit
+V1204705	hypothetical protein
+V1206511	putative ABC-type exoprotein transport system%2C permease component
+V1336063	hypothetical protein
+V1446897	hypothetical protein
+V1684075	Putative penicillin-binding protein PbpX
+V1796888	enterobactin exporter EntS
+V1819389	pyridoxamine kinase
+V1828756	Oligopeptide-binding protein AppA precursor
+V1872726	ComE operon protein 1
+V1872733	Redox-sensing transcriptional repressor rex
+V1883274	Acetate kinase
+V1883275	L-ribulose-5-phosphate 4-epimerase
+V1885173	2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase precursor
+V1886264	Ribose-5-phosphate isomerase A
+V1032302	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+V1032356	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+V1032359	magnesium and cobalt transport protein CorA
+V1032521	Thymidylate kinase
+V1032555	UDP-N-acetylenolpyruvoylglucosamine reductase
+V1032558	Phosphoglucosamine mutase
+V1032627	Oligo-1%2C6-glucosidase
+V1032688	putative ABC transporter ATP-binding protein YheS
+V1032693	Oligoendopeptidase F%2C plasmid
+V1032698	Tyrosine--tRNA ligase 1
+V1032700	Dipeptide-binding protein DppE precursor
+V1032825	preprotein translocase subunit SecY
+V1032920	Catabolite control protein A
+V1032968	Zinc-transporting ATPase
+V1033050	[Citrate [pro-3S]-lyase] ligase
+V1033186	Energy-coupling factor transporter ATP-binding protein EcfA3
+V1033267	GDP-mannose-dependent alpha-(1-2)-phosphatidylinositol mannosyltransferase
+V1033440	Stage 0 sporulation protein KE
+V1033462	tRNA dimethylallyltransferase
+V1033485	Xylose isomerase-like TIM barrel
+V1033518	hypothetical protein
+V1033538	CRISPR-associated endonuclease Cas1
+V1033559	Triosephosphate isomerase
+V1033643	Surface layer protein
+V1033650	hypothetical protein
+V1033667	S-adenosylmethionine synthase
+V1033672	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1033723	Lactose operon repressor
+V1034206	FeS cluster assembly protein SufB
+V1034236	Phage-related protein
+V1047204	hypothetical protein
+V1047239	Homoserine dehydrogenase
+V1047268	Cystathionine beta-lyase family protein involved in aluminum resistance
+V1047272	PTS system lichenan-specific EIIC component
+V1047293	Transposase DDE domain protein
+V1064214	external scaffolding protein
+V1101199	transposase%2C IS605 OrfB family
+V1101502	Urocanate reductase precursor
+V1143200	hypothetical protein
+V1162625	Transposase IS116/IS110/IS902 family protein
+V1162660	Transposase DDE domain protein
+V1197697	hypothetical protein
+V1237088	hypothetical protein
+V1336048	putative amino acid permease YhdG
+V1338861	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+V1684159	Stage 0 sporulation protein KB
+V1684165	Inner membrane amino-acid ABC transporter permease protein YecS
+V1755602	Cyclopropane-fatty-acyl-phospholipid synthase
+V1806576	Endoglucanase precursor
+V1806605	Beta-phosphoglucomutase
+V1806641	Oligopeptide-binding protein AppA precursor
+V1806643	hypothetical protein
+V1808252	Glycerol kinase
+V1819364	DegV domain-containing protein
+V1880009	Putative glycosyltransferase CsbB
+V1884415	sn-glycerol-3-phosphate-binding periplasmic protein UgpB precursor
+V1884554	Tryptophan--tRNA ligase 2
+V1884715	MutS2 protein
+V1032217	Phosphate-import permease protein PhnE
+V1032295	Putative CDP-glycerol:glycerophosphate glycerophosphotransferase
+V1032339	Rod shape-determining protein MreB
+V1032360	putative metal-dependent RNase%2C consists of a metallo-beta-lactamase domain and an RNA-binding KH domain
+V1032361	Inner membrane ABC transporter permease protein YcjP
+V1032406	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+V1032435	outer membrane lipoprotein
+V1032444	hypothetical protein
+V1032446	phage-associated protein%2C family
+V1032495	Carnitine transport ATP-binding protein OpuCA
+V1032564	hypothetical protein
+V1032607	putative ABC transporter ATP-binding protein/MT1014
+V1032616	Phosphate transport system permease protein PstA
+V1032633	Maltose transport system permease protein MalG
+V1032636	tRNA pseudouridine synthase B
+V1032649	Transcriptional regulatory protein YycF
+V1032655	Inner membrane protein YbiR
+V1032657	hypothetical protein
+V1032660	Pantothenate kinase
+V1032675	hypothetical protein
+V1032701	Stage 0 sporulation protein KC
+V1032764	1%2C5-anhydro-D-fructose reductase
+V1032853	hypothetical protein
+V1032926	Ferredoxin--NADP reductase 2
+V1032931	Putative glycosyltransferase EpsH
+V1032934	hypothetical protein
+V1032955	PTS system oligo-beta-mannoside-specific EIIC component
+V1032996	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+V1033021	Magnesium and cobalt efflux protein CorC
+V1033028	Ribosomal protein L11 methyltransferase
+V1033079	6-phosphofructokinase
+V1033098	Carbamoyl-phosphate synthase small chain
+V1033125	DegV domain-containing protein
+V1033163	UDP-glucose 4-epimerase
+V1033294	hypothetical protein
+V1033295	DNA polymerase III PolC-type
+V1033322	Surface layer protein
+V1033327	Carbamoyl-phosphate synthase small chain
+V1033433	ERF superfamily protein
+V1033678	metal-binding protein
+V1033724	Replication-associated recombination protein A
+V1034192	hypothetical protein
+V1034305	Putative lipid kinase YtlR
+V1034325	NlpC/P60 family protein
+V1034338	Helix-turn-helix domain protein
+V1047057	hypothetical protein
+V1047058	hypothetical protein
+V1047060	Oligopeptide-binding protein AppA precursor
+V1047267	ATP-dependent DNA helicase RecQ
+V1143169	hypothetical protein
+V1143202	Putative glycosyltransferase EpsE
+V1143260	L-lactate permease
+V1163647	Di-/tripeptide transporter
+V1203354	Replication initiation factor
+V1204719	putative ABC transporter ATP-binding protein
+V1204806	Inner membrane transport protein YbaT
+V1237104	Type II traffic warden ATPase
+V1338876	NADH peroxidase
+V1338896	EIIBCA-Man
+V1459693	hypothetical protein
+V1481104	hypothetical protein
+V1574834	hypothetical protein
+V1684092	Ribosomal RNA small subunit methyltransferase B
+V1755601	hypothetical protein
+V1796864	Trehalose import ATP-binding protein SugC
+V1796879	hypothetical protein
+V1806577	6-phospho-beta-glucosidase BglA
+V1806611	D-lactate dehydrogenase
+V1806649	putative membrane protein
+V1807976	DNA polymerase IV
+V1880033	Lactate 2-monooxygenase
+V1885083	3'-5' exoribonuclease YhaM
+V1886365	t(6)A37 threonylcarbamoyladenosine biosynthesis protein RimN
+V1891194	Energy-coupling factor transporter ATP-binding protein EcfA1
+V1032293	NH(3)-dependent NAD(+) synthetase
+V1032300	Protein involved in sex pheromone biosynthesis
+V1032342	ATP synthase subunit beta
+V1032405	Prolipoprotein diacylglyceryl transferase
+V1032494	autoinducer 2 ABC transporter permease LsrC
+V1032515	Streptomyces lividans K+ channel
+V1032523	DNA polymerase III subunit gamma/tau
+V1032527	t(6)A37 threonylcarbamoyladenosine biosynthesis protein
+V1032557	DNA integrity scanning protein DisA
+V1032576	putative transport protein YifK
+V1032593	Serine/threonine exchanger SteT
+V1032650	YycH protein
+V1032683	transposase%2C IS605 OrfB family
+V1032684	Ribonucleoside-diphosphate reductase 2 subunit beta
+V1032737	Heptaprenyl diphosphate synthase component 2
+V1032750	Vegetative protein 209
+V1032917	hypothetical protein
+V1033032	Histidine--tRNA ligase
+V1033048	Aminopeptidase E
+V1033052	Citrate lyase subunit beta
+V1033075	Sporulation initiation inhibitor protein soj
+V1033082	hypothetical protein
+V1033089	hypothetical protein
+V1033094	Energy-coupling factor transporter ATP-binding protein EcfA2
+V1033138	Rod shape-determining protein MreC
+V1033157	Putative peptidoglycan binding domain protein
+V1033182	hypothetical protein
+V1033203	Modulator of FtsH protease HflK
+V1033213	Farnesyl diphosphate synthase
+V1033215	Exodeoxyribonuclease 7 large subunit
+V1033246	Non-specific ribonucleoside hydrolase RihC
+V1033249	hypothetical protein
+V1033253	tRNA-specific 2-thiouridylase MnmA
+V1033304	Arginine deiminase
+V1033320	hypothetical protein
+V1033331	Riboflavin biosynthesis protein RibD
+V1033348	G3P acyltransferase
+V1033374	Homoserine kinase
+V1033426	product=hypothetical protein
+V1033463	Cystathionine beta-lyase family protein involved in aluminum resistance
+V1033467	ABC-type transport system involved in multi-copper enzyme maturation%2C permease component
+V1033470	hypothetical protein
+V1033569	Phosphate import ATP-binding protein PstB 3
+V1033608	Glucose uptake protein GlcU
+V1033679	Threonine synthase
+V1033687	HTH-type transcriptional activator CmpR
+V1033722	putative peptidase
+V1034272	ABC-type transporter ATP-binding protein EcsA
+V1034327	Multiple sugar-binding protein precursor
+V1047243	Spermidine/putrescine import ATP-binding protein PotA
+V1101377	N-acetylglucosamine-6-phosphate deacetylase
+V1101405	Multidrug-efflux transporter 3
+V1143264	Abortive infection bacteriophage resistance protein
+V1150390	hypothetical protein
+V1199360	Macrolide export ATP-binding/permease protein MacB
+V1203280	hypothetical protein
+V1203697	Bifunctional protein FolD protein
+V1204587	Minicell-associated protein DivIVA
+V1204704	EIIABC-Fru
+V1204773	Multidrug resistance protein B
+V1205334	hypothetical protein
+V1237154	Cephalosporin-C deacetylase
+V1338888	Non-specific ribonucleoside hydrolase RihC
+V1338890	hypothetical protein
+V1366239	Single-stranded-DNA-specific exonuclease RecJ
+V1366241	Transposase
+V1389191	Ribosomal RNA large subunit methyltransferase L
+V1608729	Surface layer protein
+V1684142	Transposase
+V1684177	GMP reductase
+V1684201	CAAX amino terminal protease self- immunity
+V1755542	Tyrosine recombinase XerS
+V1796866	NEM-activable K(+)/H(+) antiporter
+V1806651	putative endopeptidase Spr precursor
+V1806656	Putative N-acetylmannosaminyltransferase
+V1828718	Firmicu-CTERM domain protein
+V1872752	hypothetical protein
+V1882979	Phosphate transport system permease protein PstA
+V1883276	Competence protein
+V1884653	EIICBA-Mtl
+V1884791	Peptidase T
+V1885058	Integrase
+V1891189	fimbrial isopeptide formation D2 domain protein
+V1032218	Glutamine transport ATP-binding protein GlnQ
+V1032225	YibE/F-like protein
+V1032335	Replication-associated recombination protein A
+V1032354	Helix-turn-helix domain protein
+V1032395	Zonula occludens toxin
+V1032413	Uric acid permease PucK
+V1032421	hypothetical protein
+V1032438	hypothetical protein
+V1032465	Nucleoid occlusion protein
+V1032468	Ribosome-binding ATPase YchF
+V1032469	hypothetical protein
+V1032490	Glyoxal reductase
+V1032550	putative phosphatase YwpJ
+V1032570	diadenosine tetraphosphatase
+V1032597	Flavin mononucleotide phosphatase YbjI
+V1032598	HTH-type transcriptional repressor GlcR
+V1032605	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1032630	Trehalose import ATP-binding protein SugC
+V1032634	Heat-inducible transcription repressor HrcA
+V1032687	Inner membrane protein YjjP
+V1032734	PD-(D/E)XK nuclease family transposase
+V1032736	1%2C4-dihydroxy-2-naphthoate octaprenyltransferase
+V1032741	Cytochrome d ubiquinol oxidase subunit 2
+V1032742	Cytochrome d ubiquinol oxidase subunit 1
+V1032752	Uridylate kinase
+V1032781	putative metallophosphoesterase YhaO
+V1032836	Tyrosine recombinase XerD
+V1032837	hypothetical protein
+V1032909	Primosomal protein DnaI
+V1032918	Proline iminopeptidase
+V1032928	Major cardiolipin synthase ClsA
+V1032954	Aryl-phospho-beta-D-glucosidase BglH
+V1032957	Aryl-phospho-beta-D-glucosidase BglH
+V1032999	Ribonuclease HII
+V1033146	CCA-adding enzyme
+V1033174	Staphylococcal iron-regulated protein F
+V1033200	Asparagine--tRNA ligase
+V1033248	Oxidoreductase YdhF
+V1033293	hypothetical protein
+V1033297	Helix-turn-helix domain protein
+V1033298	hypothetical protein
+V1033403	putative ATPase (AAA+ superfamily)
+V1033431	Terminase-like family protein
+V1033434	hypothetical protein
+V1033454	HTH-type transcriptional activator TipA
+V1033456	Acyltransferase
+V1033568	Phosphate import ATP-binding protein PstB 3
+V1033588	Glycine--tRNA ligase alpha subunit
+V1033594	Divergent AAA domain protein
+V1033692	Release factor glutamine methyltransferase
+V1033726	putative signal transduction protein containing sensor and EAL domains
+V1033776	Glucomannan utilization protein R
+V1034324	Beta-Ala-Xaa dipeptidase
+V1034346	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+V1047164	cyclic 3'%2C5'-adenosine monophosphate phosphodiesterase
+V1047203	putative glycerophosphoryl diester phosphodiesterase 1
+V1047241	SkfA peptide export ATP-binding protein SkfE
+V1047270	Cyn operon transcriptional activator
+V1101427	Glutamine transport ATP-binding protein GlnQ
+V1101429	3-ketosteroid-9-alpha-hydroxylase reductase subunit
+V1150407	type-IV secretion system protein TraC
+V1150703	Inner membrane metabolite transport protein YgcS
+V1162582	Phage-related protein
+V1162609	Folate ECF transporter S component FolT
+V1163617	Guanine/hypoxanthine permease PbuG
+V1163775	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+V1163789	Deoxyadenosine kinase
+V1204497	putative membrane protein
+V1204788	Excinuclease ABC subunit A
+V1210631	hypothetical protein
+V1237098	Spermidine/putrescine-binding periplasmic protein precursor
+V1297346	hypothetical protein
+V1300928	hypothetical protein
+V1301210	Transposase
+V1320212	hypothetical protein
+V1337289	HTH-type transcriptional repressor Bm3R1
+V1338863	Pyruvate kinase
+V1338864	Lactococcin-G-processing and transport ATP-binding protein LagD
+V1338894	Type I restriction enzyme EcoKI M protein
+V1366658	hypothetical protein
+V1389192	phage portal protein%2C HK97 family
+V1448274	C protein alpha-antigen precursor
+V1552950	hypothetical protein
+V1796870	N-acetyldiaminopimelate deacetylase
+V1796916	Acetate kinase
+V1799409	hypothetical protein
+V1806589	YbbR-like protein
+V1806642	Acetate CoA-transferase YdiF
+V1808244	Di-/tripeptide transporter
+V1828842	hypothetical protein
+V1828853	putative sugar transferase EpsL
+V1872736	Plasmid replication protein
+V1872763	FMN reductase (NADPH)
+V1880004	SNARE associated Golgi protein
+V1880007	Surface layer protein
+V1880919	esterase
+V1882981	cell division suppressor protein YneA
+V1891412	putative protein with an alpha/beta hydrolase fold protein
+V1032232	Ribose-phosphate pyrophosphokinase
+V1032298	Exo-glucosaminidase LytG precursor
+V1032426	Membrane protein YidC 1
+V1032431	L-cystine transport system permease protein TcyB
+V1032462	Thiamine biosynthesis lipoprotein ApbE precursor
+V1032519	Recombination protein RecR
+V1032525	Ribosomal RNA small subunit methyltransferase I
+V1032526	Acyl-ACP thioesterase
+V1032561	Transcription antiterminator LicT
+V1032585	ABC transporter glutamine-binding protein GlnH precursor
+V1032613	PAP2 (acid phosphatase) superfamily protein
+V1032620	Ribonucleoside-diphosphate reductase 2 subunit beta
+V1032663	Glutamine transport ATP-binding protein GlnQ
+V1032682	CBS domain protein
+V1032711	hypothetical protein
+V1032724	Chaperone protein YajL
+V1032735	NADH dehydrogenase-like protein
+V1032751	Elongation factor Ts
+V1032839	Carboxylesterase NlhH
+V1032902	hypothetical protein
+V1032924	integral membrane protein
+V1032972	Host cell surface-exposed lipoprotein
+V1033008	putative inorganic polyphosphate/ATP-NAD kinase
+V1033013	Accessory gene regulator protein A
+V1033043	L-asparaginase 1
+V1033167	ribonuclease BN/unknown domain fusion protein
+V1033244	hypothetical protein
+V1033258	Spo0B-associated GTP-binding protein
+V1033260	hypothetical protein
+V1033296	Competence-specific nuclease
+V1033391	putative ABC transporter ATP-binding protein
+V1033399	hypothetical protein
+V1033402	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+V1033424	CysJI operon transcriptional activator
+V1033428	EIIAB-Man
+V1033439	Glutathione transport system permease protein GsiC
+V1033473	hypothetical protein
+V1033496	Putative protein phosphatase 2C-type
+V1033531	6-phosphogluconolactonase
+V1033547	putative inner membrane transporter YicL
+V1033635	Putative phosphoserine phosphatase 2
+V1033644	hypothetical protein
+V1033669	Dipeptidase A
+V1033702	hypothetical protein
+V1033740	Central glycolytic genes regulator
+V1034181	Pur operon repressor
+V1034186	Recombination protein N
+V1034207	Phosphate acyltransferase
+V1034255	3-ketosteroid-delta-1-dehydrogenase
+V1034266	Cysteine desulfurase
+V1034279	hypothetical protein
+V1034322	Transposase
+V1034330	Peptidase T
+V1046990	Ditrans%2Cpolycis-undecaprenyl-diphosphate synthase ((2E%2C6E)-farnesyl-diphosphate specific)
+V1047001	2%2C5-diketo-D-gluconic acid reductase A
+V1047006	tRNA (adenine(22)-N(1))-methyltransferase
+V1047012	Copper-exporting P-type ATPase A
+V1047200	Lactose operon repressor
+V1047210	putative manganese-dependent inorganic pyrophosphatase
+V1047237	Putative phosphoserine phosphatase 2
+V1047266	putative HTH-type transcriptional regulator YbbH
+V1047291	hypothetical protein
+V1101263	putative ATP-binding protein involved in virulence
+V1101375	Signal recognition particle receptor FtsY
+V1101403	Putative aminopeptidase YsdC
+V1137487	hypothetical protein
+V1143334	Spermidine/putrescine-binding periplasmic protein precursor
+V1199406	Pantothenate kinase
+V1203288	phosphatidylglycerophosphatase B
+V1206528	cytoplasmic glycerophosphodiester phosphodiesterase
+V1213116	hypothetical protein
+V1237131	Transposase DDE domain protein
+V1338859	MucBP domain protein
+V1482386	hypothetical protein
+V1507610	hypothetical protein
+V1552773	hypothetical protein
+V1595753	hypothetical protein
+V1684090	Maltose O-acetyltransferase
+V1684091	major facilitator superfamily transporter
+V1755597	Ben and cat operon transcriptional regulator
+V1796869	hypothetical protein
+V1806591	hypothetical protein
+V1806648	hypothetical protein
+V1872768	Metal-tetracycline/H(+) antiporter
+V1884406	5-formyltetrahydrofolate cyclo-ligase family protein
+V1884439	Homocysteine S-methyltransferase
+V1891419	High-copy suppressor of rspA
+V1032222	PTS system galactitol-specific transporter subunit IIA
+V1032223	Nucleoside deoxyribosyltransferase
+V1032228	D-alanine--D-alanine ligase A
+V1032379	CAAX amino terminal protease self- immunity
+V1032394	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+V1032397	Recombinase A
+V1032398	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+V1032422	hypothetical protein
+V1032464	Ribosomal RNA small subunit methyltransferase G
+V1032547	hypothetical protein
+V1032552	Phosphate acetyltransferase
+V1032599	NTE family protein RssA
+V1032600	Sugar phosphatase YidA
+V1032608	Signal peptidase IB
+V1032656	LemA family protein
+V1032671	type IV pilin biogenesis protein
+V1032702	Stage 0 sporulation protein KD
+V1032708	Isopentenyl-diphosphate delta-isomerase
+V1032720	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+V1032772	5'-nucleotidase YfbR
+V1032820	50S ribosomal protein L5
+V1032929	Ribonuclease H
+V1032974	putative phage-encoded protein
+V1032987	Peptidase propeptide and YPEB domain protein
+V1032988	Peptidase propeptide and YPEB domain protein
+V1032995	Tyrosine recombinase XerC
+V1033041	type I restriction enzyme EcoKI subunit R
+V1033054	Autoinducer 2 import system permease protein LsrC
+V1033139	Rod shape-determining protein MreB
+V1033145	hypothetical protein
+V1033147	hemolysin
+V1033162	Beta-galactosidase small subunit
+V1033166	Methionine aminopeptidase 1
+V1033173	putative siderophore transport system ATP-binding protein YusV
+V1033306	Trigger factor
+V1033332	Riboflavin biosynthesis protein RibBA
+V1033373	hypothetical protein
+V1033392	putative cysteine desulfurase
+V1033447	hypothetical protein
+V1033451	putative amino acid permease YhdG
+V1033472	Tagatose-6-phosphate kinase
+V1033488	hypothetical protein
+V1033497	Methionyl-tRNA formyltransferase
+V1033511	cyclic 3'%2C5'-adenosine monophosphate phosphodiesterase
+V1033555	Aspartate--ammonia ligase
+V1033570	Putative ribosome biogenesis GTPase RsgA
+V1033585	Putative NADH-flavin reductase
+V1033626	Major Facilitator Superfamily protein
+V1033821	hypothetical protein
+V1034193	putative integral membrane protein
+V1034199	Dihydroorotate dehydrogenase B (NAD(+))%2C catalytic subunit
+V1034248	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1034251	hypothetical protein
+V1034286	Cat operon transcriptional regulator
+V1034318	putative ATPase
+V1034333	uracil-DNA glycosylase%2C family 4
+V1046980	phage head morphogenesis protein%2C SPP1 gp7 family
+V1046998	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+V1047068	Phenylalanine--tRNA ligase beta subunit
+V1047073	Beta-glucoside kinase
+V1047132	phage nucleotide-binding protein
+V1047163	HTH-type transcriptional regulator Mce2R
+V1047169	DNA polymerase III subunit delta
+V1047299	Guanine/hypoxanthine permease PbuG
+V1075808	pentapeptide MXKDX repeat protein
+V1101417	Ribosomal large subunit pseudouridine synthase D
+V1143172	hypothetical protein
+V1143174	LysM domain protein
+V1162586	site-specific tyrosine recombinase XerD
+V1162995	glycosyltransferase%2C family
+V1163705	Transposase IS116/IS110/IS902 family protein
+V1204487	fimbrial isopeptide formation D2 domain protein
+V1293042	hypothetical protein
+V1300373	hypothetical protein
+V1338897	Bacitracin export ATP-binding protein BceA
+V1338909	Sucrose-6-phosphate hydrolase
+V1437473	hypothetical protein
+V1450117	hypothetical protein
+V1467711	Retron-type reverse transcriptase
+V1493883	pentapeptide MXKDX repeat protein
+V1541158	major spike protein
+V1598693	hypothetical protein
+V1684078	Cell division protein DivIB
+V1684149	HTH-type transcriptional repressor GlcR
+V1684169	cAMP regulatory protein
+V1755580	L-2-hydroxyisocaproate dehydrogenase
+V1755591	hypothetical protein
+V1796922	ATP-dependent protease ATPase subunit ClpY
+V1806595	Ascorbate-specific phosphotransferase enzyme IIA component
+V1806599	Bacillibactin transport regulator
+V1806612	Gram positive anchor
+V1806636	ATP-dependent Clp protease proteolytic subunit 1
+V1806657	HTH-type transcriptional repressor YvoA
+V1807974	t(6)A37 threonylcarbamoyladenosine biosynthesis protein
+V1828716	Peptide chain release factor 2
+V1828717	Poly-beta-1%2C6-N-acetyl-D-glucosamine synthase
+V1872685	Energy-coupling factor transporter transmembrane protein EcfT
+V1872751	gram-positive signal peptide%2C YSIRK family
+V1882168	Transposase
+V1882182	hypothetical protein
+V1883278	Fluoroquinolones export ATP-binding proteinc/MT2762
+V1883305	hypothetical protein
+V1883370	Pullulanase
+V1883371	Glv operon regulatory protein
+V1884691	Surface layer protein
+V1890913	29 kDa protein
+V1032210	anaerobic ribonucleotide reductase-activating protein
+V1032216	Phosphate-import permease protein PhnE
+V1032303	Diacylglycerol kinase
+V1032304	Inner membrane protein YbhL
+V1032306	hypothetical protein
+V1032311	Holliday junction ATP-dependent DNA helicase RuvA
+V1032312	Holliday junction ATP-dependent DNA helicase RuvB
+V1032399	IMPACT family member YigZ
+V1032404	HPr kinase/phosphorylase
+V1032424	hypothetical protein
+V1032448	Terminase small subunit
+V1032513	50S ribosomal protein L10
+V1032545	Encapsulating protein for peroxidase
+V1032573	Competence-specific nuclease
+V1032614	Phosphate-binding protein PstS 1 precursor
+V1032615	Phosphate transport system permease protein PstC
+V1032617	Phosphate import ATP-binding protein PstB 3
+V1032618	Phosphate regulon transcriptional regulatory protein PhoB
+V1032651	Putative metallo-hydrolase YycJ
+V1032670	putative transcriptional regulatory protein
+V1032680	Peptidyl-tRNA hydrolase
+V1032685	hypothetical protein
+V1032722	Cadmium%2C cobalt and zinc/H(+)-K(+) antiporter
+V1032726	two-component response regulator
+V1032738	Demethylmenaquinone methyltransferase
+V1032754	phage portal protein%2C HK97 family
+V1032768	Glycerophosphoryl diester phosphodiesterase
+V1032783	hypothetical protein
+V1032791	potassium transport protein Kup
+V1032814	hypothetical protein
+V1032826	Adenylate kinase
+V1032846	Putative fructokinase
+V1032850	putative Mg(2+) transport ATPase
+V1032852	hypothetical protein
+V1032925	Inner membrane protein YghB
+V1032940	AtlE
+V1032941	Exo-glucosaminidase LytG precursor
+V1032985	transcriptional regulator SlyA
+V1032991	ABC-type uncharacterized transport system%2C permease component
+V1032994	acid-resistance membrane protein
+V1033000	Ribosome biogenesis GTPase A
+V1033044	Glv operon regulatory protein
+V1033081	Type I restriction enzyme EcoKI M protein
+V1033084	Phosphoserine phosphatase 1
+V1033124	FmtA-like protein
+V1033136	putative zinc transport system permease protein AdcB
+V1033212	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+V1033251	Ribosomal RNA small subunit methyltransferase A
+V1033263	Aspartokinase 3
+V1033303	Ben and cat operon transcriptional regulator
+V1033370	putative membrane protein
+V1033412	hypothetical protein
+V1033446	CAAX amino terminal protease self- immunity
+V1033468	Uracil transporter
+V1033481	Lactose transport system permease protein LacF
+V1033482	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+V1033532	tRNA (guanine-N(7)-)-methyltransferase
+V1033598	cobyric acid synthase
+V1033677	lipopolysaccharide 1%2C3-galactosyltransferase
+V1033707	N-acetylneuraminate lyase
+V1033758	Peptidase propeptide and YPEB domain protein
+V1033779	hypothetical protein
+V1034213	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+V1034264	Sugar phosphatase YidA
+V1034276	putative succinyl-diaminopimelate desuccinylase
+V1034287	LexA repressor
+V1034298	Phage major tail protein
+V1034359	hypothetical protein
+V1046989	HSP-70 cofactor
+V1047014	Nitroreductase family protein
+V1047016	Poly-beta-1%2C6-N-acetyl-D-glucosamine synthase
+V1047055	PTS system glucitol/sorbitol-specific transporter subunit IIA
+V1047056	GDSL-like Lipase/Acylhydrolase
+V1047098	tape measure domain protein
+V1047155	General stress protein A
+V1047274	hypothetical protein
+V1101204	outer membrane lipoprotein
+V1101484	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+V1101493	Multidrug resistance protein B
+V1101583	CAAX amino terminal protease self- immunity
+V1143272	HNH endonuclease
+V1143367	Lactococcin-G-processing and transport ATP-binding protein LagD
+V1149017	tape measure domain protein
+V1150388	N-acetyldiaminopimelate deacetylase
+V1150392	Alpha-xylosidase
+V1162576	Phage anti-repressor protein
+V1162584	type I restriction enzyme EcoKI subunit R
+V1163048	Acetylxylan esterase precursor
+V1163680	putative inner membrane transporter YicL
+V1163759	Purine nucleoside receptor A
+V1196958	hypothetical protein
+V1203404	Phenylalanine--tRNA ligase alpha subunit
+V1204522	hypothetical protein
+V1204643	hypothetical protein
+V1204733	L-serine dehydratase%2C beta chain
+V1206514	Ribose-phosphate pyrophosphokinase
+V1237155	Dipeptide-binding protein DppE precursor
+V1338913	Transposase%2C IS30 family
+V1366248	Cysteine-rich secretory protein family protein
+V1552800	30S ribosomal protein S1
+V1598280	hypothetical protein
+V1614077	hypothetical protein
+V1615683	hypothetical protein
+V1684102	hypothetical protein
+V1796839	Citrate lyase alpha chain
+V1796871	Inner membrane ABC transporter permease protein YdcV
+V1796880	putative hydrolase
+V1796890	hypothetical protein
+V1796919	DNA/pantothenate metabolism flavoprotein
+V1806601	Aldose 1-epimerase
+V1806619	DNA replication protein DnaC
+V1819410	Staphylococcal respiratory response protein A
+V1828755	Competence-specific nuclease
+V1828790	gram-positive signal peptide%2C YSIRK family
+V1828845	transcriptional regulator NanR
+V1882158	hypothetical protein
+V1883240	8-oxo-dGTP diphosphatase
+V1884657	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+V1885076	Fumarate reductase flavoprotein subunit precursor
+V1032214	DNA-3-methyladenine glycosylase 1
+V1032227	hypothetical protein
+V1032230	Arginine transport ATP-binding protein ArtM
+V1032348	F-ATPase subunit 6
+V1032414	HTH-type transcriptional regulator ImmR
+V1032423	Response regulator ArlR
+V1032460	NADPH azoreductase
+V1032461	Tyrosine-protein phosphatase precursor
+V1032516	Ribosomal RNA small subunit methyltransferase C
+V1032556	Inner membrane ABC transporter permease protein YdcV
+V1032584	putative glutamine ABC transporter permease protein GlnM
+V1032586	Glutamine transport ATP-binding protein GlnQ
+V1032642	Phosphatidate cytidylyltransferase
+V1032723	Putative HAD-hydrolase YfnB
+V1032753	Ribosome-releasing factor
+V1032755	ATP-dependent Clp protease proteolytic subunit
+V1032774	3-methyladenine DNA glycosylase
+V1032808	50S ribosomal protein L4
+V1032824	50S ribosomal protein L15
+V1032843	putative protein with an alpha/beta hydrolase fold protein
+V1032887	ATP-dependent protease LonB
+V1032913	Formamidopyrimidine-DNA glycosylase
+V1032938	Pyrrolidone-carboxylate peptidase
+V1032953	Beta-glucoside kinase
+V1032980	hypothetical protein
+V1033004	Adapter protein MecA
+V1033007	GTP pyrophosphokinase YjbM
+V1033023	hypothetical protein
+V1033037	Nicotinate-nucleotide adenylyltransferase
+V1033066	RNA polymerase factor sigma-70
+V1033083	acetoin dehydrogenase E2 subunit dihydrolipoyllysine-residue acetyltransferase
+V1033093	Energy-coupling factor transporter transmembrane protein EcfT
+V1033100	Aspartate carbamoyltransferase
+V1033120	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+V1033131	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+V1033155	Putative penicillin-binding protein PbpX
+V1033188	Glucosamine kinase GspK
+V1033199	DNA replication protein DnaD
+V1033201	hypothetical protein
+V1033217	Elongation factor P
+V1033231	hypothetical protein
+V1033236	Phage anti-repressor protein
+V1033255	putative PEP-CTERM system TPR-repeat lipoprotein
+V1033264	Diaminopimelate epimerase
+V1033269	hypothetical protein
+V1033328	Ribosomal large subunit pseudouridine synthase D
+V1033378	HTH domain protein
+V1033427	PTS system mannose-specific EIIC component
+V1033444	hypothetical protein
+V1033450	Putative 2-hydroxyacid dehydrogenase
+V1033564	Peptidase family M23
+V1033565	RNA polymerase sigma factor RpoD
+V1033587	Recombination protein O
+V1033602	hypothetical protein
+V1033614	Arginine--tRNA ligase
+V1033685	hypothetical protein
+V1033757	Glutamate--tRNA ligase
+V1033781	Rhomboid protease GluP
+V1034224	Peptide chain release factor 1
+V1034230	L-lactate dehydrogenase
+V1046979	hypothetical protein
+V1047034	hypothetical protein
+V1047076	hypothetical protein
+V1047133	NUMOD4 motif
+V1047141	Tyrosine recombinase XerC
+V1047152	Asparagine synthetase [glutamine-hydrolyzing] 1
+V1047159	Aldehyde-alcohol dehydrogenase
+V1047182	Putative membrane protein YdgH
+V1047195	NhaP-type Na+/H+ and K+/H+ antiporters
+V1047196	DegV domain-containing protein
+V1101540	hypothetical protein
+V1143198	Virginiamycin A acetyltransferase
+V1143250	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1143301	FeS cluster assembly protein SufB
+V1143338	hypothetical protein
+V1143368	Accessory gene regulator protein A
+V1143479	Lactococcin A secretion protein LcnD
+V1162548	hypothetical protein
+V1162983	multifunctional acyl-CoA thioesterase I and protease I and lysophospholipase L1
+V1163626	DNA gyrase subunit A
+V1163801	drug efflux system protein MdtG
+V1172988	pentapeptide MXKDX repeat protein
+V1204488	Putative PTS system EIIABC component
+V1204779	Stage 0 sporulation protein KD
+V1207715	hypothetical protein
+V1237193	hypothetical protein
+V1263450	hypothetical protein
+V1338900	transcriptional regulator%2C y4mF family
+V1384195	hypothetical protein
+V1396140	hypothetical protein
+V1398758	hypothetical protein
+V1458441	type VII secretion protein EssC
+V1684083	hypothetical protein
+V1684146	Matrixin
+V1684190	hypothetical protein
+V1755545	GTPase Era
+V1796840	hypothetical protein
+V1796921	AMP nucleosidase
+V1806626	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+V1806628	hypothetical protein
+V1819375	Ornithine carbamoyltransferase%2C catabolic
+V1828791	Pantothenic acid ECF transporter S component PanT
+V1828832	Alkaline phosphatase synthesis sensor protein PhoR
+V1882180	ABC-type transport system involved in multi-copper enzyme maturation%2C permease component
+V1882938	Endonuclease/Exonuclease/phosphatase family protein
+V1882978	Beta-glucoside kinase
+V1882980	Carboxylesterase NlhH
+V1883114	SigL modulation protein
+V1883170	transposase%2C IS605 OrfB family
+V1884403	hypothetical protein
+V1884679	hypothetical protein
+V1885078	hypothetical protein
+V1005138	hypothetical protein
+V1032209	1%2C2-phenylacetyl-CoA monooxygenase%2C subunit D
+V1032322	Glutamate racemase
+V1032396	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+V1032425	Prolyl-tRNA deacylase ProX
+V1032428	Putative TrmH family tRNA/rRNA methyltransferase
+V1032429	HTH-type transcriptional regulator YodB
+V1032580	Glucose-6-phosphate 1-dehydrogenase 
+V1032596	Glucomannan utilization protein R
+V1032662	Sulfate starvation-induced protein 7
+V1032666	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+V1032673	putative mannose-6-phosphate isomerase GmuF
+V1032691	putative membrane protein YdfK
+V1032694	Death on curing protein
+V1032718	hypothetical protein
+V1032719	polynucleotide kinase
+V1032749	GIY-YIG nuclease superfamily protein
+V1032769	Antibiotic biosynthesis monooxygenase
+V1032773	Arginine transport ATP-binding protein ArtM
+V1032793	Mannitol-specific phosphotransferase enzyme IIA component
+V1032815	50S ribosomal protein L16
+V1032831	autolysin
+V1032912	Dephospho-CoA kinase
+V1032923	putative hydrolase YutF
+V1032986	Protease synthase and sporulation negative regulatory protein PAI 1
+V1032989	Proline iminopeptidase
+V1032998	DNA protecting protein DprA
+V1033123	Thymidine kinase
+V1033126	Phosphate-import protein PhnD precursor
+V1033128	hypothetical protein
+V1033129	Phosphoenolpyruvate-protein phosphotransferase
+V1033142	Orotate phosphoribosyltransferase
+V1033159	photosystem II S4 domain protein
+V1033181	hypothetical protein
+V1033185	putative MscS family protein YkuT
+V1033195	Sor operon activator
+V1033230	Mannitol operon transcriptional activator
+V1033233	hypothetical protein
+V1033254	Putative phosphoserine phosphatase 2
+V1033266	GDSL-like Lipase/Acylhydrolase
+V1033278	ADP-ribose pyrophosphatase
+V1033289	hypothetical protein
+V1033334	Group II intron-encoded protein LtrA
+V1033386	hypothetical protein
+V1033400	hypothetical protein
+V1033438	Stage 0 sporulation protein KC
+V1033459	4-hydroxy-tetrahydrodipicolinate reductase
+V1033460	4-hydroxy-tetrahydrodipicolinate synthase
+V1033471	Glucitol operon repressor
+V1033500	Fructose-bisphosphate aldolase
+V1033515	Phosphate-binding protein PstS 1 precursor
+V1033535	Phosphopantetheine adenylyltransferase
+V1033567	hypothetical protein
+V1033592	Lactococcin A secretion protein LcnD
+V1033599	putative endopeptidase precursor
+V1033606	AMP nucleosidase
+V1033633	hypothetical protein
+V1033636	hypothetical protein
+V1033675	putative oxidoreductase/MSMEI_2347
+V1033676	1-acylglycerol-3-phosphate O-acyltransferases
+V1033753	Peptidase family M23
+V1033797	drug resistance MFS transporter%2C drug:H+ antiporter-2 (14 Spanner) (DHA2) family
+V1033805	HTH-type transcriptional regulator GltR
+V1034200	ABC transporter ATP-binding protein YtrE
+V1034216	hypothetical protein
+V1034240	PTS system maltose-specific EIICB component
+V1034259	Elongation factor Tu
+V1034284	Ribonuclease Z
+V1034321	hypothetical protein
+V1034342	YjcQ protein
+V1047003	CBS domain-containing protein YkuL
+V1047030	hypothetical protein
+V1047054	hypothetical protein
+V1047065	leukotriene A-4 hydrolase/aminopeptidase
+V1047074	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+V1047082	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+V1047177	Maltose phosphorylase
+V1047189	Capsular polysaccharide type 8 biosynthesis protein cap8A
+V1047242	ABC-2 family transporter protein
+V1047269	Putative undecaprenyl-diphosphatase YbjG
+V1047283	transposase%2C IS605 OrfB family
+V1101414	Choloylglycine hydrolase
+V1101444	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+V1101488	Transposase%2C IS30 family
+V1111412	pentapeptide MXKDX repeat protein
+V1143246	hypothetical protein
+V1143329	NADP-dependent isopropanol dehydrogenase
+V1148317	hypothetical protein
+V1149431	hypothetical protein
+V1150386	putative inner membrane transporter YicL
+V1150468	hypothetical protein
+V1163025	SPBc2 prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD
+V1163780	hypothetical protein
+V1163852	Trehalose operon transcriptional repressor
+V1199365	hypothetical protein
+V1199410	Sortase (surface protein transpeptidase)
+V1204334	Peptide methionine sulfoxide reductase MsrB
+V1204586	Cell division protein FtsZ
+V1204708	PTS system lichenan-specific EIIC component
+V1204783	Dipeptide-binding protein DppE precursor
+V1204801	Surface layer protein
+V1210013	hypothetical protein
+V1210641	hypothetical protein
+V1213966	Transposase
+V1237276	hypothetical protein
+V1300369	hypothetical protein
+V1366238	fimbrial isopeptide formation D2 domain protein
+V1381965	hypothetical protein
+V1384189	hypothetical protein
+V1388974	hypothetical protein
+V1446898	hypothetical protein
+V1484259	hypothetical protein
+V1500615	hypothetical protein
+V1684140	hypothetical protein
+V1684153	50S ribosomal protein L2
+V1796837	Methionine import system permease protein MetP
+V1806606	hypothetical protein
+V1806646	Amino-acid permease RocE
+V1808019	GtrA-like protein
+V1819365	ATP-dependent protease subunit HslV
+V1828846	Ketosteroid isomerase-related protein
+V1828852	Transposase
+V1872748	ABC transporter ATP-binding protein YtrB
+V1882173	putative oxidoreductase
+V1882982	Putative ribosomal N-acetyltransferase YdaF
+V1884687	hypothetical protein
+V1885073	hypothetical protein
+V1885126	hypothetical protein
+V1890869	Putative membrane protein YdgH
+V1890887	Lactococcin A secretion protein LcnD
+V1032234	toxin MazF
+V1032313	preprotein translocase subunit YajC
+V1032319	Thioredoxin
+V1032320	Large-conductance mechanosensitive channel
+V1032330	putative tRNA sulfurtransferase
+V1032333	30S ribosomal protein S4
+V1032336	Putative universal stress protein
+V1032341	F-ATPase epsilon subunit
+V1032355	Nucleoside deoxyribosyltransferase
+V1032362	Lactose transport system permease protein LacF
+V1032378	hypothetical protein
+V1032390	hypothetical protein
+V1032432	Glutamine transport ATP-binding protein GlnQ
+V1032433	ABC transporter glutamine-binding protein GlnH precursor
+V1032471	Staphylococcal respiratory response protein A
+V1032488	Flavin mononucleotide phosphatase YbjI
+V1032559	Sugar phosphatase YidA
+V1032566	hypothetical protein
+V1032583	putative glutamine ABC transporter permease protein GlnP
+V1032591	ABC transporter glutamine-binding protein GlnH precursor
+V1032602	hypothetical protein
+V1032603	EIICBA-Glc
+V1032689	hypothetical protein
+V1032706	mevalonate kinase
+V1032709	Flavin mononucleotide phosphatase YbjI
+V1032748	1-acyl-sn-glycerol-3-phosphate acyltransferase
+V1032765	Putative N-acetyl-LL-diaminopimelate aminotransferase
+V1032770	Putative phosphoserine phosphatase 2
+V1032778	NAD-dependent protein deacetylase
+V1032801	Ribonuclease P protein component
+V1032813	50S ribosomal protein L22
+V1032832	Riboflavin ECF transporter S component RibU
+V1032932	putative hydrolase
+V1033005	hypothetical protein
+V1033024	Regulatory protein RecX
+V1033095	hypothetical protein
+V1033115	putative endopeptidase p60 precursor
+V1033118	Phosphoglycolate phosphatase
+V1033133	Ribosomal RNA small subunit methyltransferase H
+V1033135	Zinc import ATP-binding protein ZnuC
+V1033137	rod shape-determining protein MreD
+V1033140	H(+)/Cl(-) exchange transporter ClcA
+V1033154	Galactoside O-acetyltransferase
+V1033177	Transcriptional regulatory protein TcrA
+V1033197	gram-positive signal peptide%2C YSIRK family
+V1033209	two-component response regulator
+V1033232	hypothetical protein
+V1033245	DNA alkylation repair enzyme
+V1033329	Lipoprotein signal peptidase
+V1033330	Formate--tetrahydrofolate ligase 1
+V1033349	Membrane-bound protein LytR
+V1033352	G3P acyltransferase
+V1033491	tRNA (guanine-N(1)-)-methyltransferase
+V1033492	Ribosome maturation factor RimM
+V1033533	HIT-like protein
+V1033542	Endoribonuclease YbeY
+V1033581	Deoxyguanosine kinase
+V1033603	exosortase family protein XrtG
+V1033624	polynucleotide kinase
+V1033625	Coenzyme F420:L-glutamate ligase
+V1033729	putative phage terminase%2C small subunit%2C P27 family
+V1033730	hypothetical protein
+V1033763	Flavodoxin
+V1033810	autoinducer-2 (AI-2) modifying protein LsrG
+V1033815	Virulence-regulating protein VirS
+V1034190	SprT-like family protein
+V1034235	hypothetical protein
+V1034250	FeS assembly SUF system protein
+V1034267	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+V1034299	Putative acetyltransferase YjbC
+V1034303	hypothetical protein
+V1034326	Putative HMP/thiamine permease protein YkoC
+V1047027	hypothetical protein
+V1047071	hypothetical protein
+V1047112	Recombination protein N
+V1047139	hypothetical protein
+V1047166	Type I restriction enzyme EcoKI specificity protein
+V1047180	mRNA interferase MazF
+V1047215	Aminopeptidase N
+V1047279	Ribose operon repressor
+V1047308	site-specific tyrosine recombinase XerC
+V1101380	putative membrane protein
+V1101412	D-alanyl-D-alanine carboxypeptidase DacA precursor
+V1101441	Multidrug-efflux transporter 3
+V1101468	Helix-destabilizing protein
+V1101482	DNA-binding transcriptional repressor RpiR
+V1101487	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1101541	putative membrane protein
+V1143167	hypothetical protein
+V1143171	hypothetical protein
+V1143184	hypothetical protein
+V1143253	hypothetical protein
+V1143799	hypothetical protein
+V1143925	hypothetical protein
+V1148961	Surface layer protein
+V1148965	hypothetical protein
+V1199387	hypothetical protein
+V1199407	hypothetical protein
+V1203291	putative amino acid permease YhdG
+V1204805	CAAX amino terminal protease self- immunity
+V1204821	dITP/XTP pyrophosphatase
+V1205032	hypothetical protein
+V1208361	Transposase
+V1216924	Ribonucleoside-diphosphate reductase 2 subunit beta
+V1237156	hypothetical protein
+V1263750	hypothetical protein
+V1297823	hypothetical protein
+V1300366	phage head morphogenesis protein%2C SPP1 gp7 family
+V1300551	pentapeptide MXKDX repeat protein
+V1336009	Surface layer protein
+V1339486	hypothetical protein
+V1359707	hypothetical protein
+V1366244	Holo-[acyl-carrier-protein] synthase
+V1414658	hypothetical protein
+V1416175	hypothetical protein
+V1417670	hypothetical protein
+V1458374	hypothetical protein
+V1513478	hypothetical protein
+V1552785	hypothetical protein
+V1552797	Transposase
+V1574794	hypothetical protein
+V1608705	Surface layer protein
+V1684087	RNA polymerase sigma factor%2C sigma-70 family
+V1684164	transcriptional regulator BetI
+V1755531	Transposase DDE domain protein
+V1796865	Pantothenic acid ECF transporter S component PanT
+V1796868	Staphylococcal iron-regulated protein G
+V1796920	multidrug resistance protein
+V1806575	Riboflavin synthase
+V1806596	putative tRNA-dihydrouridine synthase
+V1806603	HNH endonuclease
+V1806614	hypothetical protein
+V1819405	Dipeptidase A
+V1872682	cytoplasmic glycerophosphodiester phosphodiesterase
+V1882175	Ribosomal large subunit pseudouridine synthase D
+V1885169	Retron-type reverse transcriptase
+V1887311	putative membrane protein
+V1899820	single-stranded DNA-binding protein
+V1032219	Putative universal stress protein
+V1032323	Non-canonical purine NTP pyrophosphatase
+V1032327	GtrA-like protein
+V1032334	hypothetical protein
+V1032349	Uracil phosphoribosyltransferase
+V1032352	ribosomal-protein-S5-alanine N-acetyltransferase
+V1032353	TVP38/TMEM64 family inner membrane protein YdjZ
+V1032389	Putative tRNA (cytidine(34)-2'-O)-methyltransferase
+V1032401	comF family protein
+V1032411	hypothetical protein
+V1032484	Peptide deformylase
+V1032524	Initiation-control protein YabA
+V1032549	hypothetical protein
+V1032553	ADP-binding protein
+V1032575	Thymidylate synthase
+V1032587	Uridine kinase
+V1032640	hypothetical protein
+V1032653	Ribosomal RNA large subunit methyltransferase H
+V1032668	putative sugar epimerase YhfK
+V1032696	Enterocin A Immunity
+V1032717	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+V1032727	DNA-binding transcriptional repressor PuuR
+V1032777	Methylated-DNA--protein-cysteine methyltransferase%2C inducible
+V1032821	30S ribosomal protein S8
+V1032830	Cytidylate kinase
+V1032833	Ribosomal large subunit pseudouridine synthase B
+V1032834	Segregation and condensation protein B
+V1032854	hypothetical protein
+V1032886	Phosphopantetheine adenylyltransferase
+V1032965	EIIABC-Fru
+V1033101	Bifunctional protein pyrR
+V1033111	S-ribosylhomocysteine lyase
+V1033149	Na+/H+ antiporter
+V1033151	hypothetical protein
+V1033156	putative membrane protein
+V1033171	hypothetical protein
+V1033175	heme uptake protein IsdC
+V1033307	putative GTP-binding protein EngB
+V1033342	hypothetical protein
+V1033344	hypothetical protein
+V1033371	hypothetical protein
+V1033372	hypothetical protein
+V1033421	Holliday junction resolvase
+V1033445	Transcript cleavage factor GreA
+V1033469	tRNA-specific adenosine deaminase
+V1033519	Glyceroaquaporin
+V1033548	L-serine dehydratase%2C alpha chain
+V1033561	putative membrane protein
+V1033584	Glutathione-independent formaldehyde dehydrogenase
+V1033589	SsrA-binding protein
+V1033597	addiction module antitoxin%2C RelB/DinJ family
+V1033623	RNA pyrophosphohydrolase
+V1033639	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1033671	hypothetical protein
+V1033706	hypothetical protein
+V1033720	Signal peptidase IB
+V1033728	hypothetical protein
+V1033770	putative membrane protein
+V1033818	LexA repressor
+V1033848	Adenine phosphoribosyltransferase
+V1034203	Putative phosphoserine phosphatase 2
+V1034273	NEM-activable K(+)/H(+) antiporter
+V1034301	putative oxidoreductase/MSMEI_2347
+V1034337	putative protein encoded in hypervariable junctions of pilus gene clusters
+V1034340	hypothetical protein
+V1046978	hypothetical protein
+V1046997	DNA repair protein RadC
+V1047026	hypothetical protein
+V1047036	hypothetical protein
+V1047040	hypothetical protein
+V1047059	Signal recognition particle receptor FtsY
+V1047140	hypothetical protein
+V1047160	Putative mutator protein MutT4
+V1047194	hypothetical protein
+V1047231	hypothetical protein
+V1047302	hypothetical protein
+V1065009	hypothetical protein
+V1089597	hypothetical protein
+V1101467	Type I restriction modification DNA specificity domain protein
+V1101530	Transposase
+V1101548	acetoin dehydrogenase E2 subunit dihydrolipoyllysine-residue acetyltransferase
+V1143168	hypothetical protein
+V1143236	fimbrial isopeptide formation D2 domain protein
+V1143255	hypothetical protein
+V1143431	Lactococcin-G-processing and transport ATP-binding protein LagD
+V1143660	hypothetical protein
+V1150312	EIICBA-Mtl
+V1150391	AB hydrolase superfamily protein YdjP
+V1150481	Acyltransferase family protein
+V1162552	phage regulatory protein%2C Rha family
+V1162914	Guanine/hypoxanthine permease PbuG
+V1163641	YycH protein
+V1163687	hypothetical protein
+V1163713	Glycerol-3-phosphate cytidylyltransferase
+V1163751	Late competence protein ComC
+V1163822	Signal recognition particle receptor FtsY
+V1163933	hypothetical protein
+V1178519	hypothetical protein
+V1200427	Transposase DDE domain protein
+V1204551	hypothetical protein
+V1204595	putative acetyltransferase
+V1204734	Aldehyde-alcohol dehydrogenase
+V1204758	Ribose operon repressor
+V1237097	putative oxidoreductase/MSMEI_2347
+V1266308	hypothetical protein
+V1338905	Saliva-binding protein
+V1359106	hypothetical protein
+V1366240	Surface layer protein
+V1379565	hypothetical protein
+V1381709	hypothetical protein
+V1389017	hypothetical protein
+V1446922	Aspartokinase 3
+V1458345	hypothetical protein
+V1489783	hypothetical protein
+V1503161	Rib/alpha/Esp surface antigen repeat
+V1552703	Exodeoxyribonuclease
+V1552715	hypothetical protein
+V1552731	Multiple sugar-binding protein precursor
+V1552798	Sigma-A
+V1597224	hypothetical protein
+V1612584	hypothetical protein
+V1614144	Transposase%2C IS30 family
+V1684082	Competence protein ComGF
+V1684101	outer membrane lipoprotein
+V1684120	Foldase protein PrsA precursor
+V1684124	HTH-type transcriptional regulator ImmR
+V1755520	Guanine/hypoxanthine permease PbuG
+V1755548	Copper-exporting P-type ATPase A
+V1796850	phosphatidylglycerophosphatase B
+V1796851	hypothetical protein
+V1796914	hypothetical protein
+V1806573	flavodoxin
+V1806597	hypothetical protein
+V1806598	Transposase%2C IS30 family
+V1806630	hypothetical protein
+V1806631	hypothetical protein
+V1806645	KHG/KDPG aldolase
+V1806653	hypothetical protein
+V1808014	Multidrug-efflux transporter 3
+V1819370	hypothetical protein
+V1819374	ABC-type transport system involved in multi-copper enzyme maturation%2C permease component
+V1828836	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1828847	hypothetical protein
+V1828850	Uridine kinase
+V1828851	RNAP delta factor
+V1828861	hypothetical protein
+V1880011	hypothetical protein
+V1880118	fimbrial isopeptide formation D2 domain protein
+V1883152	Holliday junction resolvase RecU
+V1883265	hypothetical protein
+V1883269	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+V1883308	Aldose 1-epimerase
+V1884681	adenosine deaminase
+V1884873	MucBP domain protein
+V1886984	PhoU-like phosphate uptake regulator
+V1887283	hypothetical protein
+V1887289	ASCH domain protein
+V1891309	hypothetical protein
+V1032308	hypothetical protein
+V1032316	Putative Holliday junction resolvase
+V1032317	hypothetical protein
+V1032321	hypothetical protein
+V1032346	F-type ATPase subunit b
+V1032377	Toxin YoeB
+V1032420	Ribosomal silencing factor RsfS
+V1032436	hypothetical protein
+V1032445	LysM domain protein
+V1032459	FMN reductase
+V1032463	Colicin V production protein
+V1032528	ribosomal-protein-alanine N-acetyltransferase
+V1032560	Low molecular weight protein-tyrosine-phosphatase YfkJ
+V1032574	Dihydrofolate reductase
+V1032592	glutamine amidotransferase
+V1032594	Ribose-5-phosphate isomerase A
+V1032612	hypothetical protein
+V1032678	Septum formation initiator
+V1032695	hypothetical protein
+V1032704	Valine--tRNA ligase
+V1032732	hypothetical protein
+V1032775	hypothetical protein
+V1032805	hypothetical protein
+V1032884	hypothetical protein
+V1032927	hypothetical protein
+V1032956	Glucomannan utilization protein R
+V1033006	hypothetical protein
+V1033027	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+V1033035	50S ribosomal protein L20
+V1033068	Mini-ribonuclease 3
+V1033090	30S ribosomal protein S9
+V1033091	50S ribosomal protein L13
+V1033092	tRNA pseudouridine synthase A
+V1033114	Guanylate kinase
+V1033141	Putative NADH-flavin reductase
+V1033204	addiction module antitoxin%2C RelB/DinJ family
+V1033206	Copper export regulator
+V1033216	hypothetical protein
+V1033234	hypothetical protein
+V1033250	hypothetical protein
+V1033252	Ribonuclease M5
+V1033305	Ornithine carbamoyltransferase%2C catabolic
+V1033333	6%2C7-dimethyl-8-ribityllumazine synthase
+V1033375	Trigger factor
+V1033379	Anaerobic aromatic degradation regulator
+V1033389	hypothetical protein
+V1033411	hypothetical protein
+V1033415	Putative fructokinase
+V1033416	Guanylate kinase
+V1033422	phage transcriptional regulator%2C ArpU family
+V1033425	hypothetical protein
+V1033430	Terminase small subunit
+V1033490	50S ribosomal protein L19
+V1033536	DNA-binding transcriptional regulator CynR
+V1033537	CRISPR type II-A/NMEMI-associated protein Csn2
+V1033605	LysR substrate binding domain protein
+V1033607	hypothetical protein
+V1033642	OsmC-like protein
+V1033703	hypothetical protein
+V1033709	hypothetical protein
+V1033794	Putative pyruvate%2C phosphate dikinase regulatory protein
+V1034183	putative nicotinate-nucleotide adenylyltransferase
+V1034297	hypothetical protein
+V1047029	hypothetical protein
+V1047032	thioredoxin
+V1047290	hypothetical protein
+V1047336	Lactococcin-G-processing and transport ATP-binding protein LagD
+V1090907	hypothetical protein
+V1101415	hypothetical protein
+V1101501	fimbrial isopeptide formation D2 domain protein
+V1101586	hypothetical protein
+V1143170	hypothetical protein
+V1143196	hypothetical protein
+V1143235	hypothetical protein
+V1143280	hypothetical protein
+V1143363	hypothetical protein
+V1143432	Lactococcin-G-processing and transport ATP-binding protein LagD
+V1147284	hypothetical protein
+V1149022	hypothetical protein
+V1150461	hypothetical protein
+V1152763	hypothetical protein
+V1162577	hypothetical protein
+V1162936	hypothetical protein
+V1162950	Thioredoxin reductase
+V1162956	potassium transport protein Kup
+V1163104	4-carboxymuconolactone decarboxylase
+V1163691	gram-positive signal peptide%2C YSIRK family
+V1199003	hypothetical protein
+V1199358	Flavin mononucleotide phosphatase YbjI
+V1200795	hypothetical protein
+V1203422	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+V1204412	GTP pyrophosphokinase YwaC
+V1204481	hypothetical protein
+V1204640	Alpha-xylosidase
+V1204798	MucBP domain protein
+V1204799	hypothetical protein
+V1204852	Hypoxanthine-guanine phosphoribosyltransferase
+V1204942	hypothetical protein
+V1205802	hypothetical protein
+V1206519	Bifunctional protein pyrR
+V1211556	hypothetical protein
+V1237257	Sporulation initiation inhibitor protein soj
+V1239060	hypothetical protein
+V1239185	hypothetical protein
+V1252682	hypothetical protein
+V1258606	hypothetical protein
+V1260295	hypothetical protein
+V1295782	hypothetical protein
+V1299522	hypothetical protein
+V1329144	hypothetical protein
+V1337590	hypothetical protein
+V1338872	Putative NrdI-like protein
+V1338904	G3P acyltransferase
+V1339026	Catabolite control protein A
+V1339051	Inner membrane protein YqjA
+V1339078	hypothetical protein
+V1350517	hypothetical protein
+V1365675	pentapeptide MXKDX repeat protein
+V1382989	hypothetical protein
+V1388957	heptaprenyl diphosphate synthase component II
+V1389193	hypothetical protein
+V1398045	hypothetical protein
+V1446913	Aldose 1-epimerase
+V1493857	pentapeptide MXKDX repeat protein
+V1496925	hypothetical protein
+V1512599	pentapeptide MXKDX repeat protein
+V1598660	hypothetical protein
+V1605235	hypothetical protein
+V1605239	hypothetical protein
+V1610547	hypothetical protein
+V1610784	hypothetical protein
+V1613577	hypothetical protein
+V1615770	hypothetical protein
+V1684086	hypothetical protein
+V1684106	hypothetical protein
+V1684192	Transglycosylase associated protein
+V1755583	Pyruvate oxidase
+V1796842	Enterocin A Immunity
+V1796858	hypothetical protein
+V1806587	hypothetical protein
+V1806604	putative HTH-type transcriptional regulator
+V1806615	acetoin dehydrogenase E2 subunit dihydrolipoyllysine-residue acetyltransferase
+V1806620	hypothetical protein
+V1806635	HNH endonuclease
+V1806660	hypothetical protein
+V1807923	Glyoxal reductase
+V1819360	gram-positive signal peptide%2C YSIRK family
+V1828872	phage protein%2C HK97 gp10 family
+V1828878	hypothetical protein
+V1872734	50S ribosomal protein L11
+V1880918	flavodoxin
+V1882106	Putative PBSX repressor
+V1883258	hypothetical protein
+V1883273	Surface layer protein
+V1883390	tRNA-specific adenosine deaminase
+V1884675	hypothetical protein
+V1884893	hypothetical protein
+V1885054	hypothetical protein
+V1885057	LysM domain protein
+V1885082	Regulatory protein spx
+V1885167	Lichenan-specific phosphotransferase enzyme IIB component
+V1886286	Phage terminase-like protein%2C large subunit
+V1886371	Alanine racemase
+V1887290	Translation initiation factor IF-3
+V1887313	30S ribosomal protein S6
+V1002798	hypothetical protein
+V1025933	hypothetical protein
+V1031813	hypothetical protein
+V1032345	F-type ATPase subunit delta
+V1032408	hypothetical protein
+V1032440	hypothetical protein
+V1032442	hypothetical protein
+V1032450	phage transcriptional regulator%2C ArpU family
+V1032475	Enterocin A Immunity
+V1032512	accessory Sec system glycosyltransferase GtfB
+V1032540	hypothetical protein
+V1032541	hypothetical protein
+V1032546	hypothetical protein
+V1032551	Uracil-DNA glycosylase
+V1032554	DNA polymerase III PolC-type
+V1032568	Mig-7
+V1032590	hypothetical protein
+V1032624	Tyrosine-protein phosphatase precursor
+V1032658	Peptidase propeptide and YPEB domain protein
+V1032677	30S ribosomal protein S1
+V1032686	hypothetical protein
+V1032690	hypothetical protein
+V1032758	hypothetical protein
+V1032762	hypothetical protein
+V1032780	hypothetical protein
+V1032806	Helix-turn-helix domain protein
+V1032812	30S ribosomal protein S19
+V1032817	hypothetical protein
+V1032835	hypothetical protein
+V1032840	Modulator of the general stress response
+V1032844	putative protein with an alpha/beta hydrolase fold protein
+V1032911	Transcriptional repressor NrdR
+V1032969	Copper-ion-binding protein
+V1033022	hypothetical protein
+V1033051	Citrate lyase gamma chain
+V1033080	hypothetical protein
+V1033087	imidazolonepropionase
+V1033179	GTP pyrophosphokinase YwaC
+V1033207	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+V1033239	hypothetical protein
+V1033240	phage transcriptional regulator%2C ArpU family
+V1033241	hypothetical protein
+V1033242	hypothetical protein
+V1033292	hypothetical protein
+V1033312	Thioredoxin-like protein YtpP
+V1033319	hypothetical protein
+V1033345	putative HTH-type transcriptional regulator
+V1033353	Phage anti-repressor protein
+V1033354	hypothetical protein
+V1033355	hypothetical protein
+V1033376	DNA protection during starvation protein
+V1033383	Bacteriocin class II with double-glycine leader peptide
+V1033384	hypothetical protein
+V1033390	Lipopolysaccharide export system ATP-binding protein LptB
+V1033393	NifU-like protein
+V1033449	Sugar phosphatase YidA
+V1033452	RNA polymerase factor sigma-70
+V1033495	hypothetical protein
+V1033526	hypothetical protein
+V1033541	glutamyl-tRNA(Gln) amidotransferase subunit E
+V1033604	hypothetical protein
+V1033611	Hypoxanthine-guanine phosphoribosyltransferase
+V1033630	putative phage protein (possible DNA packaging)
+V1033648	hypothetical protein
+V1033651	hypothetical protein
+V1033657	FeS assembly SUF system protein
+V1033694	putative N-acetyltransferase YafP
+V1033731	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+V1033732	putative DNA-binding protein
+V1033742	Helix-turn-helix domain protein
+V1033788	hypothetical protein
+V1034208	molybdopterin biosynthesis protein MoeB
+V1034211	putative amino acid permease YhdG
+V1034285	hypothetical protein
+V1034332	Orotidine 5'-phosphate decarboxylase
+V1034345	hypothetical protein
+V1035670	hypothetical protein
+V1036251	putative hydrolase of the alpha/beta superfamily protein
+V1046975	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1046977	hypothetical protein
+V1046983	hypothetical protein
+V1047015	Putative HMP/thiamine permease protein YkoE
+V1047043	hypothetical protein
+V1047214	Cytidylate kinase
+V1061837	hypothetical protein
+V1064274	hypothetical protein
+V1065001	hypothetical protein
+V1100433	hypothetical protein
+V1101206	hypothetical protein
+V1101262	Growth regulator
+V1101398	hypothetical protein
+V1101404	Metal-tetracycline/H(+) antiporter
+V1101407	Divergent AAA domain protein
+V1101409	putative N-acetyltransferase YtmI
+V1101410	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+V1101420	Putative membrane protein YdgH
+V1101428	NADP-dependent isopropanol dehydrogenase
+V1101440	Membrane-bound protein LytR
+V1101461	Helix-turn-helix
+V1101469	hypothetical protein
+V1101486	hypothetical protein
+V1101561	hypothetical protein
+V1143173	hypothetical protein
+V1143194	hypothetical protein
+V1143238	hypothetical protein
+V1143249	phage holin%2C LL-H family
+V1143252	Peptide methionine sulfoxide reductase MsrA
+V1143273	phage transcriptional regulator%2C ArpU family
+V1144619	Neutral endopeptidase
+V1148960	hypothetical protein
+V1148966	hypothetical protein
+V1149262	hypothetical protein
+V1149291	ABC-type transport system involved in multi-copper enzyme maturation%2C permease component
+V1149314	hypothetical protein
+V1150380	hypothetical protein
+V1150464	hypothetical protein
+V1162551	hypothetical protein
+V1162554	hypothetical protein
+V1162579	Formyl-coenzyme A transferase
+V1162634	putative thiol peroxidase
+V1162941	Phosphoglycerol transferase%2C alkaline phosphatase superfamily
+V1163005	Trehalose import ATP-binding protein SugC
+V1163597	High-copy suppressor of rspA
+V1163606	Tetracycline resistance protein TetM from transposon TnFO1
+V1163666	putative acetyltransferase
+V1163714	D-alanyl-lipoteichoic acid biosynthesis protein DltD
+V1163810	CopAB ATPases metal-fist type repressor
+V1163970	H(+)/Cl(-) exchange transporter ClcA
+V1173340	hypothetical protein
+V1192403	hypothetical protein
+V1193800	hypothetical protein
+V1199364	hypothetical protein
+V1199373	hypothetical protein
+V1199405	Transposase
+V1203284	Cell division protein DivIB
+V1204335	PPOX class probable F420-dependent enzyme%2C family
+V1204495	hypothetical protein
+V1204660	Formate--tetrahydrofolate ligase 1
+V1204695	hypothetical protein
+V1204760	Stage 0 sporulation protein KA
+V1204772	drug efflux system protein MdtG
+V1205689	hypothetical protein
+V1211548	hypothetical protein
+V1211991	hypothetical protein
+V1214754	hypothetical protein
+V1215404	hypothetical protein
+V1236433	hypothetical protein
+V1237114	EIICBA-Mtl
+V1237175	Thymidylate synthase
+V1238333	hypothetical protein
+V1240081	pentapeptide MXKDX repeat protein
+V1256650	hypothetical protein
+V1297659	hypothetical protein
+V1300693	Glyoxal reductase
+V1308932	hypothetical protein
+V1332871	hypothetical protein
+V1336008	hypothetical protein
+V1336588	hypothetical protein
+V1336664	hypothetical protein
+V1338562	hypothetical protein
+V1338862	transposase%2C IS605 OrfB family
+V1338874	hypothetical protein
+V1338879	UMP phosphatase
+V1340126	hypothetical protein
+V1340343	hypothetical protein
+V1340761	hypothetical protein
+V1381615	hypothetical protein
+V1388944	cadmium-translocating P-type ATPase
+V1388949	hypothetical protein
+V1388984	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+V1389177	DegV domain-containing protein
+V1411616	hypothetical protein
+V1413372	hypothetical protein
+V1419786	hypothetical protein
+V1421787	hypothetical protein
+V1432706	hypothetical protein
+V1432816	hypothetical protein
+V1439669	hypothetical protein
+V1450137	hypothetical protein
+V1450201	hypothetical protein
+V1453333	hypothetical protein
+V1453344	hypothetical protein
+V1453450	hypothetical protein
+V1458760	putative ABC transporter ATP-binding protein YbbL
+V1461463	hypothetical protein
+V1469685	hypothetical protein
+V1476352	hypothetical protein
+V1484102	hypothetical protein
+V1493870	hypothetical protein
+V1501494	hypothetical protein
+V1518229	hypothetical protein
+V1552445	hypothetical protein
+V1553074	hypothetical protein
+V1555422	hypothetical protein
+V1574722	hypothetical protein
+V1590871	pentapeptide MXKDX repeat protein
+V1606708	hypothetical protein
+V1607271	hypothetical protein
+V1608886	hypothetical protein
+V1610066	fimbrial isopeptide formation D2 domain protein
+V1610069	50S ribosomal protein L6
+V1613038	hypothetical protein
+V1614271	pentapeptide MXKDX repeat protein
+V1684079	cell division protein MraZ
+V1684105	CRISPR-associated endoribonuclease Cas2
+V1684114	4-hydroxy-2-oxoglutarate aldolase
+V1755526	ATP-binding/permease protein CydD
+V1755533	hypothetical protein
+V1755535	hypothetical protein
+V1755537	DNA-binding transcriptional repressor FabR
+V1755587	hypothetical protein
+V1796841	Ribokinase
+V1806600	Surface layer protein
+V1806618	Helix-turn-helix domain protein
+V1806625	Inner membrane protein YbhL
+V1806629	hypothetical protein
+V1806633	hypothetical protein
+V1806637	hypothetical protein
+V1806638	hypothetical protein
+V1806802	hypothetical protein
+V1808011	hypothetical protein
+V1808078	GIY-YIG nuclease superfamily protein
+V1808174	Leucine--tRNA ligase
+V1808271	Deoxyguanosine kinase
+V1819358	Lyzozyme M1 (1%2C4-beta-N-acetylmuramidase)
+V1819404	hypothetical protein
+V1828769	hypothetical protein
+V1828855	UTP--glucose-1-phosphate uridylyltransferase
+V1872678	hypothetical protein
+V1872767	Glutamine transport system permease protein GlnP
+V1880870	Phage major tail protein
+V1882896	hypothetical protein
+V1882948	hypothetical protein
+V1883128	hypothetical protein
+V1884416	6-pyruvoyl tetrahydropterin synthase-related domain protein
+V1884507	Phage major tail protein
+V1884890	Acetate CoA-transferase YdiF
+V1886372	hypothetical protein
+V1886977	CAAX amino terminal protease self- immunity
+V1891344	hypothetical protein
+V1000526	Helicase IV
+V1002108	hypothetical protein
+V1006073	hypothetical protein
+V1023014	hypothetical protein
+V1032204	Transcript cleavage factor GreA
+V1032305	hypothetical protein
+V1032328	hypothetical protein
+V1032373	D-alanine--poly(phosphoribitol) ligase subunit 2
+V1032403	hypothetical protein
+V1032419	putative nicotinate-nucleotide adenylyltransferase
+V1032430	Glutamine transport system permease protein GlnP
+V1032437	hypothetical protein
+V1032439	hypothetical protein
+V1032443	hypothetical protein
+V1032467	hypothetical protein
+V1032487	Serine-aspartate repeat-containing protein D precursor
+V1032543	hypothetical protein
+V1032544	hypothetical protein
+V1032604	hypothetical protein
+V1032637	Ribosome-binding factor A
+V1032659	Elongation factor P
+V1032661	putative acyltransferase
+V1032712	Free methionine-R-sulfoxide reductase
+V1032725	hypothetical protein
+V1032757	putative phage protein (possible DNA packaging)
+V1032766	hypothetical protein
+V1032822	hypothetical protein
+V1032921	hypothetical protein
+V1032958	hypothetical protein
+V1032979	50S ribosomal protein L21
+V1033112	hypothetical protein
+V1033148	hypothetical protein
+V1033158	YGGT family protein
+V1033183	hypothetical protein
+V1033184	putative protein containing a divergent version of the methyl-accepting chemotaxis-like domain protein
+V1033190	hypothetical protein
+V1033191	hypothetical protein
+V1033214	Exodeoxyribonuclease 7 small subunit
+V1033235	hypothetical protein
+V1033238	hypothetical protein
+V1033291	hypothetical protein
+V1033339	Nitronate monooxygenase
+V1033366	type I restriction enzyme EcoKI subunit R
+V1033401	hypothetical protein
+V1033408	O-acetyl-ADP-ribose deacetylase
+V1033417	DNA-directed RNA polymerase subunit omega
+V1033477	Growth regulator
+V1033483	Dipeptidase A
+V1033514	50S ribosomal protein L1
+V1033544	hypothetical protein
+V1033579	ABC-2 family transporter protein
+V1033583	hypothetical protein
+V1033640	hypothetical protein
+V1033674	gram-positive signal peptide%2C YSIRK family
+V1033713	putative acetyltransferase
+V1033734	Regulatory protein spx
+V1033739	HTH-type transcriptional repressor YtrA
+V1033769	OsmC-like protein
+V1033783	hypothetical protein
+V1033795	Transposon resolvase
+V1033827	hypothetical protein
+V1033832	putative N-acetyltransferase YafP
+V1033871	Phage integrase family protein
+V1034184	outer membrane lipoprotein
+V1034257	Ribulose-phosphate 3-epimerase
+V1034258	hypothetical protein
+V1034329	hypothetical protein
+V1034339	PD-(D/E)XK nuclease family transposase
+V1034369	Abortive infection bacteriophage resistance protein
+V1034371	hypothetical protein
+V1036154	DNA gyrase subunit A
+V1036169	hypothetical protein
+V1036193	putative copper-exporting P-type ATPase V
+V1036268	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+V1036284	Excinuclease ABC subunit A
+V1036842	D-alanyl-D-alanine carboxypeptidase precursor
+V1037283	N-glycosyltransferase
+V1038263	Polyketide biosynthesis malonyl CoA-acyl carrier protein transacylase PksC
+V1047004	Endonuclease III
+V1047013	Inner membrane metabolite transport protein YgcS
+V1047037	hypothetical protein
+V1047117	VRR-NUC domain protein
+V1047134	hypothetical protein
+V1047143	Fumarate reductase flavoprotein subunit precursor
+V1047186	tRNA pseudouridine synthase A
+V1047212	hypothetical protein
+V1047301	Gram positive anchor
+V1064232	hypothetical protein
+V1064874	hypothetical protein
+V1075504	hypothetical protein
+V1091370	hypothetical protein
+V1101126	hypothetical protein
+V1101205	hypothetical protein
+V1101376	HTH-type transcriptional repressor SmtB
+V1101463	hypothetical protein
+V1101464	Phage-related protein
+V1101494	putative transporter
+V1101582	hypothetical protein
+V1123964	pentapeptide MXKDX repeat protein
+V1126810	hypothetical protein
+V1137436	hypothetical protein
+V1142153	hypothetical protein
+V1143186	Phosphate-import permease protein PhnE
+V1143231	hypothetical protein
+V1143248	hypothetical protein
+V1143307	hypothetical protein
+V1143385	hypothetical protein
+V1143420	hypothetical protein
+V1143912	hypothetical protein
+V1144109	hypothetical protein
+V1144115	hypothetical protein
+V1144154	hypothetical protein
+V1145706	hypothetical protein
+V1149023	hypothetical protein
+V1149101	site-specific tyrosine recombinase XerC
+V1150381	fimbrial isopeptide formation D2 domain protein
+V1150389	Farnesyl diphosphate synthase
+V1150520	hypothetical protein
+V1150716	hypothetical protein
+V1150728	hypothetical protein
+V1152223	hypothetical protein
+V1152415	hypothetical protein
+V1162351	hypothetical protein
+V1162549	helix-turn-helix protein
+V1162550	Helix-turn-helix domain protein
+V1162553	hypothetical protein
+V1162599	hypothetical protein
+V1162832	hypothetical protein
+V1162913	putative inner membrane transporter YicL
+V1162940	HTH-type transcriptional repressor YtrA
+V1162966	hypothetical protein
+V1162992	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+V1163000	DegV domain-containing protein
+V1163106	Lipid A export ATP-binding/permease protein MsbA
+V1163142	Ribose-5-phosphate isomerase A
+V1163177	ribonucleoside hydrolase RihC
+V1163288	Gas vesicle protein
+V1163649	Putative universal stress protein
+V1163654	Methionine--tRNA ligase
+V1163708	Flavin mononucleotide phosphatase YbjI
+V1163740	UDP-glucose 4-epimerase
+V1163742	HTH-type dhaKLM operon transcriptional activator DhaS
+V1163894	Magnesium-transporting ATPase%2C P-type 1
+V1172036	hypothetical protein
+V1173415	hypothetical protein
+V1184071	hypothetical protein
+V1198968	hypothetical protein
+V1199398	putative Mg(2+) transport ATPase
+V1199409	Phosphate-import protein PhnD precursor
+V1200505	pentapeptide MXKDX repeat protein
+V1202395	hypothetical protein
+V1202540	hypothetical protein
+V1203302	H(+)/Cl(-) exchange transporter ClcA
+V1203774	hypothetical protein
+V1204340	Helix-turn-helix
+V1204605	Recombination protein N
+V1204692	Pyridoxal phosphate phosphatase YigL
+V1204693	hypothetical protein
+V1204706	hypothetical protein
+V1204756	Transposase
+V1204781	Inner membrane metabolite transport protein YgcS
+V1204785	1%2C5-anhydro-D-fructose reductase
+V1204810	putative membrane protein
+V1204829	Acetate CoA-transferase YdiF
+V1204952	hypothetical protein
+V1205481	hypothetical protein
+V1205544	Lactococcin-G-processing and transport ATP-binding protein LagD
+V1205847	hypothetical protein
+V1207157	hypothetical protein
+V1209833	hypothetical protein
+V1211356	hypothetical protein
+V1211486	hypothetical protein
+V1211970	hypothetical protein
+V1211990	hypothetical protein
+V1212472	hypothetical protein
+V1213191	hypothetical protein
+V1213993	hypothetical protein
+V1214497	hypothetical protein
+V1227026	hypothetical protein
+V1232179	hypothetical protein
+V1235957	hypothetical protein
+V1235989	hypothetical protein
+V1235991	hypothetical protein
+V1237096	Aminopeptidase E
+V1237881	pentapeptide MXKDX repeat protein
+V1239157	hypothetical protein
+V1239636	hypothetical protein
+V1239700	Membrane-bound protein LytR
+V1239747	hypothetical protein
+V1256927	hypothetical protein
+V1259181	hypothetical protein
+V1260674	hypothetical protein
+V1263326	hypothetical protein
+V1263344	hypothetical protein
+V1264192	hypothetical protein
+V1266766	hypothetical protein
+V1266921	hypothetical protein
+V1268864	hypothetical protein
+V1269231	hypothetical protein
+V1276270	hypothetical protein
+V1285857	hypothetical protein
+V1288409	hypothetical protein
+V1292497	hypothetical protein
+V1292971	hypothetical protein
+V1293159	hypothetical protein
+V1293684	hypothetical protein
+V1296287	hypothetical protein
+V1297351	hypothetical protein
+V1297362	hypothetical protein
+V1297627	hypothetical protein
+V1297632	hypothetical protein
+V1297664	hypothetical protein
+V1298052	hypothetical protein
+V1300483	hypothetical protein
+V1300632	hypothetical protein
+V1333068	hypothetical protein
+V1336073	HTH-type transcriptional repressor GlcR
+V1336805	hypothetical protein
+V1337402	hypothetical protein
+V1337477	hypothetical protein
+V1339315	hypothetical protein
+V1359396	hypothetical protein
+V1362785	maltose ABC transporter periplasmic protein
+V1374569	DNA gyrase subunit B
+V1383972	hypothetical protein
+V1384519	hypothetical protein
+V1387400	hypothetical protein
+V1387846	hypothetical protein
+V1388960	ABC-type uncharacterized transport system%2C permease component
+V1389025	Growth regulator
+V1389997	hypothetical protein
+V1390507	pentapeptide MXKDX repeat protein
+V1395996	hypothetical protein
+V1415015	hypothetical protein
+V1415820	hypothetical protein
+V1417639	hypothetical protein
+V1418942	hypothetical protein
+V1418946	hypothetical protein
+V1421355	hypothetical protein
+V1421580	hypothetical protein
+V1422974	hypothetical protein
+V1425795	hypothetical protein
+V1427434	hypothetical protein
+V1433029	hypothetical protein
+V1437833	hypothetical protein
+V1440505	hypothetical protein
+V1440778	pentapeptide MXKDX repeat protein
+V1443462	hypothetical protein
+V1443738	hypothetical protein
+V1446895	hypothetical protein
+V1447425	hypothetical protein
+V1448466	hypothetical protein
+V1448999	hypothetical protein
+V1449263	hypothetical protein
+V1450076	hypothetical protein
+V1450545	hypothetical protein
+V1458347	TrbC/VIRB2 family protein
+V1459103	hypothetical protein
+V1461576	hypothetical protein
+V1463195	hypothetical protein
+V1476738	hypothetical protein
+V1476873	hypothetical protein
+V1484349	hypothetical protein
+V1486311	repeat
+V1490634	hypothetical protein
+V1492820	hypothetical protein
+V1494486	hypothetical protein
+V1494697	hypothetical protein
+V1507971	sortase
+V1511074	hypothetical protein
+V1511542	hypothetical protein
+V1512319	hypothetical protein
+V1512522	pentapeptide MXKDX repeat protein
+V1513256	hypothetical protein
+V1513840	Alpha-xylosidase
+V1552710	co-chaperonin GroES
+V1552713	Phosphoglucosamine mutase
+V1552780	cell division protein FtsL
+V1552829	H(+)/Cl(-) exchange transporter ClcA
+V1555642	hypothetical protein
+V1556783	hypothetical protein
+V1573727	hypothetical protein
+V1575079	hypothetical protein
+V1575328	hypothetical protein
+V1576114	Collagen adhesin precursor
+V1580967	hypothetical protein
+V1590913	hypothetical protein
+V1591639	hypothetical protein
+V1591834	hypothetical protein
+V1592329	pentapeptide MXKDX repeat protein
+V1597058	hypothetical protein
+V1597187	hypothetical protein
+V1598242	hypothetical protein
+V1601488	hypothetical protein
+V1604024	hypothetical protein
+V1605585	hypothetical protein
+V1607302	hypothetical protein
+V1607846	hypothetical protein
+V1608682	Phage anti-repressor protein
+V1608696	hypothetical protein
+V1609735	hypothetical protein
+V1610143	hypothetical protein
+V1610610	hypothetical protein
+V1610970	hypothetical protein
+V1612410	hypothetical protein
+V1615180	hypothetical protein
+V1615320	hypothetical protein
+V1615959	hypothetical protein
+V1616352	hypothetical protein
+V1684076	Peptide deformylase
+V1684097	hypothetical protein
+V1684107	hypothetical protein
+V1684121	hypothetical protein
+V1684195	hypothetical protein
+V1704981	sn-glycerol-3-phosphate transport system permease protein UgpA
+V1755517	Cysteine-rich secretory protein family protein
+V1755518	Tyrosine recombinase XerC
+V1755570	Glycolate permease GlcA
+V1755573	hypothetical protein
+V1755581	Maltose O-acetyltransferase
+V1796836	hypothetical protein
+V1806609	addiction module antitoxin%2C RelB/DinJ family
+V1806634	hypothetical protein
+V1806652	hypothetical protein
+V1806664	hypothetical protein
+V1807975	hypothetical protein
+V1808020	Helix-turn-helix domain protein
+V1808042	putative ABC transporter ATP-binding protein YheS
+V1808043	hypothetical protein
+V1808053	Sodium%2C potassium%2C lithium and rubidium/H(+) antiporter
+V1808209	Capsular polysaccharide type 8 biosynthesis protein cap8A
+V1808213	Oligoendopeptidase F%2C plasmid
+V1808254	Helix-turn-helix domain protein
+V1808267	Serine/threonine exchanger SteT
+V1819362	hypothetical protein
+V1819411	Putative N-acetyl-LL-diaminopimelate aminotransferase
+V1828839	hypothetical protein
+V1828841	hypothetical protein
+V1828871	hypothetical protein
+V1872727	hypothetical protein
+V1872728	hypothetical protein
+V1872735	hypothetical protein
+V1880086	Surface layer protein
+V1880920	Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+V1882178	hypothetical protein
+V1882897	thiamine pyrophosphokinase
+V1883210	phage transcriptional regulator%2C ArpU family
+V1883224	hypothetical protein
+V1883381	Peptidase T
+V1884407	Guanine/hypoxanthine permease PbuG
+V1884409	DegV domain-containing protein
+V1884803	acetoin dehydrogenase E2 subunit dihydrolipoyllysine-residue acetyltransferase
+V1884849	fimbrial isopeptide formation D2 domain protein
+V1884885	hypothetical protein
+V1884896	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+V1886028	Transposase
+V1886997	putative membrane protein
+V1887317	hypothetical protein
+V1887319	guanine deaminase
+V1890900	hypothetical protein
+V1891250	ABC transporter substrate binding protein%2C family
+V1891294	hypothetical protein
+V1891305	major facilitator superfamily transporter

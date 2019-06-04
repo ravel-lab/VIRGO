@@ -1,0 +1,1092 @@
+Sample	Annotation	numGene	numReads
+test	NA	204	2189
+test	ABC transporter	62	1425
+test	Transposase	61	2679
+test	Transcriptional regulator	52	877
+test	transposase	33	376
+test	Membrane	30	594
+test	amino acid	26	580
+test	Hydrolase	21	280
+test	ABC transporter, ATP-binding protein	19	352
+test	Inherit from COG: transposase	19	555
+test	integral membrane protein	19	213
+test	ABC transporter, permease	18	279
+test	Major Facilitator	17	315
+test	(ABC) transporter	16	410
+test	Glyco_25	16	173
+test	Lpxtg-motif cell wall anchor domain protein	16	260
+test	Transposase (IS4 family	15	320
+test	transcriptional regulator	15	260
+test	Histidine kinase	14	427
+test	PTS System	13	211
+test	Integrase	11	235
+test	Competence protein	10	208
+test	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)	10	259
+test	abc transporter atp-binding protein	10	156
+test	response regulator	10	167
+test	Transporter	9	147
+test	phosphoglycerate mutase	9	106
+test	transposase (IS4 family) protein	9	494
+test	Dehydrogenase	8	142
+test	Extracellular solute-binding protein, family 5	8	259
+test	Lysm domain protein	8	67
+test	Xanthine uracil vitamin C permease	8	115
+test	domain protein	8	232
+test	helicase	8	207
+test	hydrolase	8	102
+test	pts system	8	298
+test	reductase	8	99
+test	reverse transcriptase	8	63
+test	transposase IS116 IS110 IS902 family protein	8	492
+test	Cell wall-associated hydrolase	7	77
+test	Dipeptidase	7	207
+test	Drug resistance transporter EmrB QacA	7	140
+test	Glycosyl transferase, family 2	7	182
+test	Na H antiporter	7	120
+test	Phosphoketolase	7	155
+test	TRANSCRIPTIONal	7	179
+test	acetyltransferase	7	66
+test	degv family	7	86
+test	penicillin-binding protein	7	239
+test	surface protein	7	174
+test	-acetyltransferase	6	49
+test	ABC, transporter	6	123
+test	ATP-binding protein	6	192
+test	Chloride channel	6	93
+test	DNA gyrase negatively supercoils closed circular double- stranded DNA in an ATP-dependent manner and also catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes and knotted rings (By similarity)	6	144
+test	HTH_XRE	6	47
+test	Metallo-Beta-Lactamase	6	129
+test	Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides (By similarity)	6	117
+test	Transport of potassium into the cell (By similarity)	6	107
+test	aminopeptidase c	6	155
+test	cell wall surface anchor family protein	6	28
+test	permease	6	104
+test	transporter	6	127
+test	trehalose-6-phosphate hydrolase (EC 3.2.1.93)	6	117
+test	Archaeal ATPase	5	105
+test	Beta-lactamase class C related penicillin binding protein	5	53
+test	CAAX amino terminal protease family	5	60
+test	Catalyzes the interconversion of 2-phosphoglycerate and 3-phosphoglycerate (By similarity)	5	42
+test	Glycosyl Transferase	5	111
+test	Inherit from firmNOG: Transcriptional regulator	5	75
+test	Metal Dependent Phosphohydrolase	5	55
+test	One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity	5	27
+test	Outer surface protein	5	104
+test	decarboxylase	5	81
+test	glycerophosphoryl diester phosphodiesterase	5	102
+test	mannose-6-phosphate isomerase	5	42
+test	polysaccharide biosynthesis protein	5	163
+test	protein tyrosine serine phosphatase	5	59
+test	(LipO)protein	4	50
+test	Aminotransferase	4	93
+test	Beta-lactamase	4	94
+test	CAAX amino terminal protease family protein	4	44
+test	Cell wall formation (By similarity)	4	93
+test	Cleaves the N-terminal amino acid of tripeptides (By similarity)	4	48
+test	Cysteine desulfurase	4	71
+test	Flavocytochrome c	4	73
+test	Gcn5-related n-acetyltransferase	4	19
+test	Glycogen debranching enzyme	4	73
+test	Glycosyl transferase, family 4	4	36
+test	Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Binds to the hydrophobic signal sequence of the ribosome-nascent chain (RNC) as it emerges from the ribosomes. The SRP-RNC complex is then targeted to the cytoplasmic membrane where it interacts with the SRP receptor FtsY	4	32
+test	MMPL domain protein	4	119
+test	Major Facilitator superfamily	4	30
+test	May be involved in recombinational repair of damaged DNA (By similarity)	4	43
+test	Nudix family	4	34
+test	Peptide chain release factor 2 directs the termination of translation in response to the peptide chain termination codons UGA and UAA (By similarity)	4	26
+test	Pyruvate kinase	4	29
+test	ROK family	4	57
+test	Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine (By similarity)	4	45
+test	Rib/alpha-like repeat	4	107
+test	Rod shape-determining protein mreb	4	52
+test	Tetracycline resistance protein	4	88
+test	Threonine synthase	4	34
+test	Transport protein ComB	4	44
+test	Uncharacterized protein conserved in bacteria (DUF2213)	4	48
+test	acetolactate synthase	4	53
+test	amino acid AbC transporter	4	39
+test	amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile) (By similarity)	4	91
+test	beta-galactosidase	4	100
+test	deoxynucleoside kinase	4	35
+test	fes assembly suf system protein	4	32
+test	heavy metal translocating p-type ATPase	4	73
+test	lytTr DNA-binding domain protein	4	34
+test	magnesium-translocating p-type atpase	4	152
+test	nucleoside hydrolase	4	65
+test	oxidoreductase	4	114
+test	p-type ATPase	4	80
+test	p-type atpase	4	44
+test	phage protein	4	73
+test	phosphoglycerol transferase alkaline phosphatase superfamily protein	4	105
+test	phosphonate ABC transporter, periplasmic phosphonate-binding protein	4	49
+test	phosphonate abc transporter	4	69
+test	phosphoriboisomerase A	4	46
+test	resistance protein	4	27
+test	sucrose-6-phosphate hydrolase	4	35
+test	terminase (Small subunit)	4	40
+test	transcriptional modulator of maze toxin, mazf	4	28
+test	1,4-dihydroxy-2-naphthoate octaprenyltransferase	3	81
+test	ABC superfamily ATP binding cassette transporter ABC protein	3	46
+test	ABC superfamily ATP binding cassette transporter membrane protein	3	37
+test	ABC superfamily ATP binding cassette transporter, permease	3	57
+test	ABC transporter substrate-binding protein	3	47
+test	ATP-dependent Clp protease, proteolytic subunit	3	38
+test	ATPase (AAA	3	143
+test	Acts as a processive, ATP-dependent zinc metallopeptidase for both cytoplasmic and membrane proteins. Plays a role in the quality control of integral membrane proteins (By similarity)	3	68
+test	Addiction module antitoxin, RelB DinJ family	3	19
+test	Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp- tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln) (By similarity)	3	40
+test	Alpha-glucosidase	3	80
+test	AntA/AntB antirepressor	3	39
+test	Aspartokinase	3	57
+test	Bidirectionally degrades single-stranded DNA into large acid-insoluble oligonucleotides, which are then degraded further into small acid-soluble oligonucleotides (By similarity)	3	32
+test	Binds directly to 23S rRNA. The L1 stalk is quite mobile in the ribosome, and is involved in E site tRNA release (By similarity)	3	13
+test	CBS domain protein	3	57
+test	Catalyzes the 1,3-allylic rearrangement of the homoallylic substrate isopentenyl (IPP) to its allylic isomer, dimethylallyl diphosphate (DMAPP) (By similarity)	3	28
+test	Catalyzes the attachment of alanine to tRNA(Ala) in a two-step reaction alanine is first activated by ATP to form Ala- AMP and then transferred to the acceptor end of tRNA(Ala). Also edits incorrectly charged Ser-tRNA(Ala) and Gly-tRNA(Ala) via its editing domain (By similarity)	3	42
+test	Catalyzes the formation of acetyl phosphate from acetate and ATP. Can also catalyze the reverse reaction (By similarity)	3	84
+test	Catalyzes the interconversion of L-alanine and D- alanine. May also act on other amino acids (By similarity)	3	19
+test	Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. This reaction serves as the major source of one-carbon groups required for the biosynthesis of purines, thymidylate, methionine, and other important biomolecules. Also exhibits THF- independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism (By similarity)	3	45
+test	Catalyzes the transfer of an acyl group from acyl- phosphate (acyl-PO(4)) to glycerol-3-phosphate (G3P) to form lysophosphatidic acid (LPA). This enzyme utilizes acyl-phosphate as fatty acyl donor, but not acyl-CoA or acyl-ACP (By similarity)	3	51
+test	Cell surface protein	3	45
+test	CoA transferase having broad substrate specificity for short-chain acyl-CoA thioesters with the activity decreasing when the length of the carboxylic acid chain exceeds four carbons (By similarity)	3	36
+test	Domain of unknown function (DUF955)	3	33
+test	Endonuclease that resolves Holliday junction intermediates in genetic recombination. Cleaves mobile four-strand junctions by introducing symmetrical nicks in paired strands. Promotes annealing of linear ssDNA with homologous dsDNA. Required for DNA repair, homologous recombination and chromosome segregation (By similarity)	3	17
+test	Endothelin-converting enzyme 1	3	112
+test	ErfK YbiS YcfS YnhG	3	92
+test	F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation (By similarity)	3	11
+test	Formation of pseudouridine at positions 38, 39 and 40 in the anticodon stem and loop of transfer RNAs (By similarity)	3	12
+test	General (non sugar-specific) component of the phosphoenolpyruvate-dependent sugar phosphotransferase system (sugar PTS). This major carbohydrate active-transport system catalyzes the phosphorylation of incoming sugar substrates concomitantly with their translocation across the cell membrane. Enzyme I transfers the phosphoryl group from phosphoenolpyruvate (PEP) to the phosphoryl carrier protein (HPr) (By similarity)	3	61
+test	Inherit from COG: Tail protein	3	365
+test	Inherit from NOG: DNA repair protein	3	50
+test	Involved in peptide bond synthesis. Stimulates efficient translation and peptide-bond synthesis on native or reconstituted 70S ribosomes in vitro. Probably functions indirectly by altering the affinity of the ribosome for aminoacyl-tRNA, thus increasing their reactivity as acceptors for peptidyl transferase (By similarity)	3	26
+test	Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC)	3	31
+test	Is required not only for elongation of protein synthesis but also for the initiation of all mRNA translation through initiator tRNA(fMet) aminoacylation (By similarity)	3	64
+test	L-lactate	3	75
+test	Lanthionine synthetase C family protein	3	45
+test	Leucyl-tRNA synthetase	3	59
+test	Methylates the class 1 translation termination release factors RF1 PrfA and RF2 PrfB on the glutamine residue of the universally conserved GGQ motif (By similarity)	3	27
+test	Necessary for efficient RNA polymerase transcription elongation past template-encoded arresting sites. The arresting sites in DNA have the property of trapping a certain fraction of elongating RNA polymerases that pass through, resulting in locked ternary complexes. Cleavage of the nascent transcript by cleavage factors such as GreA or GreB allows the resumption of elongation from the new 3'terminus. GreA releases sequences of 2 to 3 nucleotides (By similarity)	3	17
+test	Oligoendopeptidase f	3	33
+test	PTS system mannitol-specific	3	40
+test	Part of the ABC transporter complex MacAB involved in macrolide export. Transmembrane domains (TMD) form a pore in the inner membrane and the ATP-binding domain (NBD) is responsible for energy generation (By similarity)	3	68
+test	Part of the ABC transporter complex PotABCD involved in spermidine putrescine import. Responsible for energy coupling to the transport system (By similarity)	3	76
+test	Part of the ABC transporter complex PstSACB involved in phosphate import. Responsible for energy coupling to the transport system (By similarity)	3	55
+test	Pfam:Transposase_8	3	164
+test	Pfam:Transposase_9	3	26
+test	Phage Portal Protein	3	44
+test	Phage antirepressor protein KilAC domain	3	28
+test	Phosphoribosyl pyrophosphate synthase	3	46
+test	Plays a role in the regulation of phosphate uptake	3	29
+test	Protein of unknown function (DUF2974)	3	82
+test	Protein of unknown function (DUF3383)	3	67
+test	Provides the sole de novo source of dTMP for DNA biosynthesis (By similarity)	3	18
+test	Pyrophosphatase that hydrolyzes non-canonical purine nucleotides such as XTP and ITP dITP to their respective monophosphate derivatives. Might exclude non-canonical purines from DNA precursor pool, thus preventing their incorporation into DNA and avoiding chromosomal lesions (By similarity)	3	25
+test	Required for replicative DNA synthesis. This DNA polymerase also exhibits 3' to 5' exonuclease activity (By similarity)	3	108
+test	Signal peptidase i	3	37
+test	Single-stranded-DNA-specific exonuclease (RecJ)	3	58
+test	Sodium hydrogen exchanger	3	69
+test	Sucrose operon repressor	3	32
+test	TRANSCRIPTIONAl REGULATOR GntR family	3	28
+test	Terminase, large subunit	3	88
+test	The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrA is an ATPase and a DNA-binding protein. A damage recognition complex composed of 2 UvrA and 2 UvrB subunits scans DNA for abnormalities. When the presence of a lesion has been verified by UvrB, the UvrA molecules dissociate (By similarity)	3	65
+test	The central subunit of the protein translocation channel SecYEG. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7, and are clamped together by SecE at the back. The channel is closed by both a pore ring composed of hydrophobic SecY resides and a short helix (helix 2A) on the extracellular side of the membrane which forms a plug. The plug probably moves laterally to allow the channel to open. The ring and the pore may move independently (By similarity)	3	41
+test	Thioredoxin	3	25
+test	This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis (By similarity)	3	20
+test	Transglycosylase SLT domain	3	99
+test	Universal stress protein	3	20
+test	abc transporter	3	35
+test	abc transporter permease protein	3	115
+test	alcohol dehydrogenase	3	33
+test	alpha beta	3	54
+test	amidohydrolase	3	27
+test	amino acids such as threonine, to avoid such errors, it has a posttransfer editing activity that hydrolyzes mischarged Thr-tRNA(Val) in a tRNA-dependent manner (By similarity)	3	62
+test	basic membrane	3	50
+test	carbamoyl-phosphate synthetase ammonia chain	3	158
+test	cytochrome d ubiquinol oxidase, subunit ii	3	24
+test	dna polymerase iii	3	59
+test	esterase	3	64
+test	folylpolyglutamate synthase Dihydrofolate synthase	3	38
+test	gtp-binding protein	3	25
+test	it binds specifically double-stranded DNA at a 9 bp consensus (dnaA box) 5'-TTATC CA A CA A-3'. DnaA binds to ATP and to acidic phospholipids (By similarity)	3	54
+test	mevalonate kinase	3	21
+test	muts2 protein	3	100
+test	pantothenic acid kinase	3	51
+test	peptidase M24	3	64
+test	permease protein	3	50
+test	phage tape measure protein	3	36
+test	phosphate abc transporter	3	65
+test	pyridine nucleotide-disulfide oxidoreductase	3	40
+test	restriction modification system DNA specificity domain	3	25
+test	ribonuclease	3	6
+test	serine threonine protein phosphatase	3	65
+test	synthase	3	34
+test	(P-type) ATPase	2	64
+test	(Ubiquinol oxidase) subunit I	2	132
+test	(sortase) family	2	15
+test	6-phospho-beta-glucosidase (EC 3.2.1.86)	2	54
+test	ABC transporter (Permease	2	63
+test	ABC transporter ATP-binding	2	52
+test	ABC transporter transmembrane region	2	45
+test	ATP GTP Binding Protein	2	31
+test	ATP-binding (A) component of a common energy-coupling factor (ECF) ABC-transporter complex. Unlike classic ABC transporters this ECF transporter provides the energy necessary to transport a number of different substrates	2	48
+test	ATP-dependent DNA helicase pcra	2	54
+test	ATP-dependent RNA helicase	2	53
+test	Abi-like protein	2	58
+test	Abortive infection bacteriophage resistance protein	2	44
+test	Abortive infection protein	2	21
+test	Abortive phage resistance protein	2	12
+test	Acetyl-CoA acetyltransferase	2	39
+test	Acyl-transferase	2	43
+test	Adenine-specific	2	61
+test	Aldolase	2	21
+test	Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in organisms which lack glutaminyl-tRNA synthetase. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu-tRNA(Gln) (By similarity)	2	42
+test	Also displays a weak uracil phosphoribosyltransferase activity which is not physiologically significant (By similarity)	2	18
+test	Aminopeptidase	2	96
+test	Antibiotic biosynthesis monooxygenase	2	28
+test	Arginyl-tRNA synthetase	2	48
+test	Atpase, p-type (Transporting), had superfamily, subfamily ic	2	7
+test	Bacterial Peptidase A24 N-terminal domain	2	16
+test	Bacteriophage protein	2	45
+test	Bifunctional serine threonine kinase and phosphorylase involved in the regulation of the pyruvate, phosphate dikinase (PPDK) by catalyzing its phosphorylation dephosphorylation (By similarity)	2	10
+test	Binding-protein-dependent transport systems inner membrane component	2	4
+test	Binding-protein-dependent transport systems, inner membrane component	2	53
+test	Binds 23S rRNA and is also seen to make contacts with the A and possibly P site tRNAs (By similarity)	2	16
+test	Binds as a heterodimer with protein S6 to the central domain of the 16S rRNA, where it helps stabilize the platform of the 30S subunit (By similarity)	2	5
+test	Binds to the 23S rRNA (By similarity)	2	26
+test	Catalyzes the ATP- as well as the pyrophosphate- dependent phosphorylation of a specific serine residue in HPr, a phosphocarrier protein of the phosphoenolpyruvate-dependent sugar phosphotransferase system (PTS). HprK P also catalyzes the pyrophosphate-producing, inorganic phosphate-dependent dephosphorylation (phosphorolysis) of seryl-phosphorylated HPr (P- Ser-HPr). The two antagonistic activities of HprK P are regulated by several intracellular metabolites, which change their concentration in response to the absence or presence of rapidly metabolisable carbon sources (glucose, fructose, etc.) in the growth medium. Therefore, by controlling the phosphorylation state of HPr, HPrK P is a sensor enzyme that plays a major role in the regulation of carbon metabolism and sugar transport it mediates carbon catabolite repression (CCR), and regulates PTS-catalyzed carbohydrate uptake and inducer exclusion (By similarity)	2	25
+test	Catalyzes the ATP-dependent transfer of a sulfur to tRNA to produce 4-thiouridine in position 8 of tRNAs, which functions as a near-UV photosensor. Also catalyzes the transfer of sulfur to the sulfur carrier protein ThiS, forming ThiS-thiocarboxylate. This is a step in the synthesis of thiazole, in the thiamine biosynthesis pathway. The sulfur is donated as persulfide by IscS (By similarity)	2	17
+test	Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity)	2	61
+test	Catalyzes the attachment of glutamate to tRNA(Glu) in a two-step reaction glutamate is first activated by ATP to form Glu-AMP and then transferred to the acceptor end of tRNA(Glu) (By similarity)	2	49
+test	Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr) (By similarity)	2	55
+test	Catalyzes the condensation of (S)-aspartate-beta- semialdehyde (S)-ASA and pyruvate to 4-hydroxy- tetrahydrodipicolinate (HTPA) (By similarity)	2	15
+test	Catalyzes the conversion of glucosamine-6-phosphate to glucosamine-1-phosphate (By similarity)	2	32
+test	Catalyzes the conversion of uracil and 5-phospho-alpha- D-ribose 1-diphosphate (PRPP) to UMP and diphosphate (By similarity)	2	13
+test	Catalyzes the dehydration of the S-form of NAD(P)HX at the expense of ADP, which is converted to AMP. Together with NAD(P)HX epimerase, which catalyzes the epimerization of the S- and R-forms, the enzyme allows the repair of both epimers of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration (By similarity)	2	13
+test	Catalyzes the formation of 5-methyl-uridine at position 1939 (m5U1939) in 23S rRNA (By similarity)	2	74
+test	Catalyzes the formation of S-adenosylmethionine from methionine and ATP	2	29
+test	Catalyzes the hydrolytic deamination of adenine to hypoxanthine. Plays an important role in the purine salvage pathway and in nitrogen catabolism (By similarity)	2	38
+test	Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain (By similarity)	2	59
+test	Catalyzes the reversible conversion of 2- phosphoglycerate into phosphoenolpyruvate. It is essential for the degradation of carbohydrates via glycolysis (By similarity)	2	38
+test	Catalyzes the reversible phosphatidyl group transfer from one phosphatidylglycerol molecule to another to form cardiolipin (CL) (diphosphatidylglycerol) and glycerol (By similarity)	2	52
+test	Catalyzes the synthesis of GMP from XMP (By similarity)	2	45
+test	Caulimovirus viroplasmin	2	21
+test	Cbs domain protein	2	36
+test	Cell division protein mraZ	2	10
+test	Cell division protein that may be involved in stabilizing or promoting the assembly of the division complex (By similarity)	2	23
+test	Cell wall-active antibiotics response protein (DUF2154)	2	25
+test	Channel that permits osmotically driven movement of water in both directions. It is involved in the osmoregulation and in the maintenance of cell turgor during volume expansion in rapidly growing cells. It mediates rapid entry or exit of water in response to abrupt changes in osmolarity (By similarity)	2	14
+test	Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins (By similarity)	2	10
+test	Converts N-acetylmannosamine-6-phosphate (ManNAc-6-P) to N-acetylglucosamine-6-phosphate (GlcNAc-6-P) (By similarity)	2	15
+test	Cytidine monophosphate kinase	2	13
+test	D-alanyl-lipoteichoic acid biosynthesis protein DltD	2	41
+test	DNA polymerase iii	2	28
+test	DNA primase is the polymerase that synthesizes small RNA primers for the Okazaki fragments on both template strands at replication forks during chromosomal DNA synthesis (By similarity)	2	39
+test	DNA repair exonuclease	2	28
+test	DNA topoisomerase IV (Subunit B)	2	50
+test	Diacylglycerol kinase	2	46
+test	Effects nucleoid occlusion by binding relatively nonspecifically to DNA and preventing the assembly of the division machinery in the vicinity of the nucleoid, especially under conditions that disturb the cell cycle. It helps to coordinate cell division and chromosome segregation by preventing the formation of the Z ring through the nucleoid, which would cause chromosome breakage (By similarity)	2	26
+test	Endonuclease	2	23
+test	Essential cell division protein that forms a contractile ring structure (Z ring) at the future cell division site. The regulation of the ring assembly controls the timing and the location of cell division. One of the functions of the FtsZ ring is to recruit other cell division proteins to the septum to produce a new cell wall between the dividing cells. Binds GTP and shows GTPase activity (By similarity)	2	43
+test	Esterase	2	6
+test	Exhibits a very high intrinsic GTPase hydrolysis rate. Involved in the addition of a carboxymethylaminomethyl (cmnm) group at the wobble position (U34) of certain tRNAs, forming tRNA- cmnm(5)s(2)U34 (By similarity)	2	60
+test	Filamentation induced by cAMP protein fic	2	9
+test	Forms oxaloacetate, a four-carbon dicarboxylic acid source for the tricarboxylic acid cycle (By similarity)	2	82
+test	Formyl-CoA transferase	2	45
+test	GTPase that associates with the 50S ribosomal subunit and may have a role during protein synthesis or ribosome biogenesis (By similarity)	2	38
+test	GlcNAc 6-P deacetylase	2	70
+test	Gluconate kinase	2	39
+test	Glutamine amido-transferase	2	13
+test	Glutamine amidotransferase	2	52
+test	Glyceraldehyde-3-phosphate dehydrogenase	2	34
+test	Glycosyl hydrolase family 1	2	7
+test	Glycosyl transferase (Group 1	2	74
+test	Glycosyl transferase family 8	2	61
+test	Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine (By similarity)	2	14
+test	Hypothetical protein (DUF2513)	2	13
+test	IF-3 binds to the 30S ribosomal subunit and shifts the equilibrum between 70S ribosomes and their 50S and 30S subunits in favor of the free subunits, thus enhancing the availability of 30S subunits on which protein synthesis initiation begins (By similarity)	2	10
+test	In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance (By similarity)	2	39
+test	Increases the formation of ribosomal termination complexes and stimulates activities of RF-1 and RF-2. It binds guanine nucleotides and has strong preference for UGA stop codons. It may interact directly with the ribosome. The stimulation of RF- 1 and RF-2 is significantly reduced by GTP and GDP, but not by GMP (By similarity)	2	35
+test	Inherit from COG: Hemerythrin HHE cation binding domain protein	2	17
+test	Inherit from COG: amidohydrolase	2	38
+test	Inherit from COG: type IV secretion system protein	2	50
+test	Inner membrane transporter yjeM	2	67
+test	Interferes with activator-stimulated transcription by interaction with the RNA polymerase alpha-CTD. May function to globally reduce transcription of genes involved in growth- and development-promoting processes and to increase transcription of genes involved in thiol homeostasis, during periods of extreme stress (By similarity)	2	9
+test	Involved in cell wall formation. Catalyzes the final step in the synthesis of UDP-N-acetylmuramoyl-pentapeptide the precursor of murein (By similarity)	2	45
+test	Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation	2	26
+test	Key enzyme in folate metabolism. Catalyzes an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis (By similarity)	2	7
+test	L-lactate dehydrogenase	2	47
+test	Lipoprotein	2	48
+test	Located at the back of the 30S subunit body where it stabilizes the conformation of the head with respect to the body (By similarity)	2	9
+test	Major tail protein	2	25
+test	Membrane Spanning Protein	2	21
+test	Methyltransferase	2	17
+test	MgtC SapB transporter	2	18
+test	Myosin-Cross-Reactive Antigen	2	84
+test	NADH dehydrogenase	2	31
+test	Nad-dependent epimerase dehydratase	2	25
+test	Nadph-dependent fmn reductase	2	20
+test	Negative regulator of class I heat shock genes (grpE- dnaK-dnaJ and groELS operons). Prevents heat-shock induction of these operons (By similarity)	2	24
+test	Nitroreductase	2	21
+test	Nucleoside deoxyribosyltransferase	2	30
+test	Oligopeptide ABC transporter, permease protein AppB	2	23
+test	One of the essential components for the initiation of protein synthesis. Protects formylmethionyl-tRNA from spontaneous hydrolysis and promotes its binding to the 30S ribosomal subunits. Also involved in the hydrolysis of GTP during the formation of the 70S ribosomal complex (By similarity)	2	76
+test	One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit (By similarity)	2	13
+test	One of the primary rRNA binding proteins, this protein initially binds near the 5'-end of the 23S rRNA. It is important during the early stages of 50S assembly. It makes multiple contacts with different domains of the 23S rRNA in the assembled 50S subunit and ribosome (By similarity)	2	16
+test	Part of the ABC transporter complex LolCDE involved in the translocation of mature outer membrane-directed lipoproteins, from the inner membrane to the periplasmic chaperone, LolA. Responsible for the formation of the LolA-lipoprotein complex in an ATP-dependent manner (By similarity)	2	47
+test	Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. Has a central role in coupling the hydrolysis of ATP to the transfer of proteins into and across the cell membrane, serving as an ATP-driven molecular motor driving the stepwise translocation of polypeptide chains across the membrane (By similarity)	2	74
+test	Peptidase M1 membrane alanine aminopeptidase	2	21
+test	Peptidase family M23	2	26
+test	Phage head morphogenesis protein	2	28
+test	Phage-associated protein, HI1409 family	2	65
+test	Phosphatase	2	12
+test	Phosphoglycerate kinase	2	39
+test	Phosphomevalonate kinase	2	32
+test	Polyprenyl synthetase	2	29
+test	Polysaccharide biosynthesis protein	2	67
+test	Poorly processive error-prone DNA polymerase involved in untargeted mutagenesis. Copies undamaged DNA at stalled replication forks which arise in vivo from mismatched or misaligned primer ends. These misaligned primers can be extended by polIV. Exhibits no 3-5 exonuclease (proofreading) activity. May be involved in translesional synthesis in conjunction with the beta clamp from polIII (By similarity)	2	29
+test	Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions (By similarity)	2	45
+test	Prophage Lp1 protein 65	2	32
+test	Protein of unknown function (DUF3737) 	2	19
+test	Protein of unknown function (DUF805)	2	25
+test	Pseudouridine synthase	2	24
+test	Pts system	2	21
+test	Pyridoxamine 5'-phosphate oxidase	2	12
+test	RNA Polymerase	2	19
+test	Releases the N-terminal proline from various substrates (By similarity)	2	31
+test	Removes 5-oxoproline from various penultimate amino acid residues except L-proline (By similarity)	2	19
+test	Replicative dna helicase	2	35
+test	Resolvase	2	28
+test	Reversibly transfers an adenylyl group from ATP to 4'- phosphopantetheine, yielding dephospho-CoA (dPCoA) and pyrophosphate (By similarity)	2	19
+test	SAM-dependent methyltransferase	2	39
+test	Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released (By similarity)	2	24
+test	Site-specific tyrosine recombinase, which acts by catalyzing the cutting and rejoining of the recombining DNA molecules. The XerC-XerD complex is essential to convert dimers of the bacterial chromosome into monomers to permit their segregation at cell division. It also contributes to the segregational stability of plasmids (By similarity)	2	43
+test	Specifically dimethylates two adjacent adenosines (A1518 and A1519) in the loop of a conserved hairpin near the 3'-end of 16S rRNA in the 30S particle. May play a critical role in biogenesis of 30S subunits (By similarity)	2	20
+test	Specifically methylates the guanine in position 2445 (m2G2445) and the guanine in position 2069 (m7G2069) of 23S rRNA (By similarity)	2	23
+test	Sulfatase	2	102
+test	The RuvA-RuvB complex in the presence of ATP renatures cruciform structure in supercoiled DNA with palindromic sequence, indicating that it may promote strand exchange reactions in homologous recombination. RuvAB is a helicase that mediates the Holliday junction migration by localized denaturation and reannealing (By similarity)	2	27
+test	The RuvA-RuvB complex in the presence of ATP renatures cruciform structure in supercoiled DNA with palindromic sequence, indicating that it may promote strand exchange reactions in homologous recombination. RuvAB is a helicase that mediates the Holliday junction migration by localized denaturation and reannealing. RuvA stimulates, in the presence of DNA, the weak ATPase activity of RuvB (By similarity)	2	20
+test	The heterodimer acts as both an ATP-dependent DNA helicase and an ATP-dependent, dual-direction single-stranded exonuclease. Recognizes the chi site generating a DNA molecule suitable for the initiation of homologous recombination	2	87
+test	The heterodimer acts as both an ATP-dependent DNA helicase and an ATP-dependent, dual-direction single-stranded exonuclease. Recognizes the chi site generating a DNA molecule suitable for the initiation of homologous recombination. The AddA nuclease domain is required for chi fragment generation	2	61
+test	Thioredoxin reductase	2	19
+test	This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance. In the 70S ribosome it contacts protein S13 of the 30S subunit (bridge B1b), connecting the 2 subunits	2	20
+test	This protein binds to the 23S rRNA, and is important in its secondary structure. It is located near the subunit interface in the base of the L7 L12 stalk, and near the tRNA binding site of the peptidyltransferase center (By similarity)	2	6
+test	This protein is involved in the repair of mismatches in DNA. It is required for dam-dependent methyl-directed DNA mismatch repair. May act as a molecular matchmaker , a protein that promotes the formation of a stable complex between two or more DNA-binding proteins in an ATP-dependent manner without itself being part of a final effector complex (By similarity)	2	59
+test	Topoisomerase	2	54
+test	Toprim domain protein	2	13
+test	Transcriptional regulator, ARAC family	2	19
+test	Transmembrane (T) component of an energy-coupling factor (ECF) ABC-transporter complex. Unlike classic ABC transporters this ECF transporter provides the energy necessary to transport a number of different substrates (By similarity)	2	16
+test	Transposase domain (DUF772)	2	9
+test	Type IV secretion-system coupling protein DNA-binding domain	2	44
+test	UTP-glucose-1-phosphate uridylyltransferase	2	38
+test	Uncharacterized conserved protein (DUF2075)	2	49
+test	Uncharacterized protein conserved in bacteria (DUF2184)	2	23
+test	acidPPc	2	29
+test	adenylosuccinate lyase	2	38
+test	aldo keto reductase	2	19
+test	aldose 1-epimerase	2	28
+test	aluminum resistance protein	2	51
+test	asparagine synthetase	2	61
+test	asparagine synthetase A	2	25
+test	asparaginyl-tRNA synthetase	2	30
+test	biosynthesis protein	2	15
+test	branched-chain amino acid transport system II carrier protein	2	44
+test	carbamoyl-phosphate synthetase glutamine chain	2	50
+test	carboxypeptidase	2	55
+test	cation-transporting atpase	2	134
+test	cell division protein	2	62
+test	converts alpha-aldose to the beta-anomer. It is active on D-glucose, L-arabinose, D-xylose, D-galactose, maltose and lactose (By similarity)	2	18
+test	crispr-associated protein	2	54
+test	d-lactate dehydrogenase	2	32
+test	damaged site, the DNA wraps around one UvrB monomer. DNA wrap is dependent on ATP binding by UvrB and probably causes local melting of the DNA helix, facilitating insertion of UvrB beta-hairpin between the DNA strands. Then UvrB probes one DNA strand for the presence of a lesion. If a lesion is found the UvrA subunits dissociate and the UvrB-DNA preincision complex is formed. This complex is subsequently bound by UvrC and the second UvrB is released. If no lesion is found, the DNA wraps around the other UvrB subunit that will check the other stand for damage (By similarity)	2	50
+test	deaminase	2	20
+test	defense response to bacterium	2	19
+test	dimethylmenaquinone methyltransferase	2	6
+test	diphosphomevalonate decarboxylase	2	20
+test	dna polymerase I	2	69
+test	epimerase dehydratase	2	12
+test	excinuclease	2	31
+test	extracellular solute-binding protein family 1	2	33
+test	formyltetrahydrofolate synthetase	2	18
+test	fructokinase	2	25
+test	fumarate reductase flavoprotein, subunit	2	45
+test	glutamine synthetase	2	34
+test	glycoside hydrolase family protein	2	173
+test	gtp-binding protein typa	2	57
+test	hemerythrin hhe cation binding domain protein	2	32
+test	hemolysin iii	2	20
+test	hydrolase family 65, central catalytic	2	64
+test	hydrolase, family 8	2	78
+test	hypoxanthine phosphoribosyltransferase	2	16
+test	integrase family	2	14
+test	isomerase	2	15
+test	it plays a direct role in the translocation of protons across the membrane (By similarity)	2	16
+test	levansucrase EC 2.4.1.10	2	64
+test	lipolytic protein, gdsl family	2	16
+test	lysyL-tRNA synthetase	2	45
+test	methyltransferase	2	18
+test	modulates the frequency and position of FtsZ ring formation. Inhibits FtsZ ring formation at polar sites. Interacts either with FtsZ or with one of its binding partners to promote depolymerization (By similarity)	2	53
+test	nudix hydrolase	2	22
+test	ornithine carbamoyltransferase	2	23
+test	peptidase S8 and S53, subtilisin, kexin, sedolisin	2	6
+test	peptidase, M16	2	66
+test	phage major capsid protein, HK97 family	2	78
+test	phage plasmid primase, p4 family	2	65
+test	phage tail tape measure protein	2	97
+test	phenylalanyl-tRNA synthetase (beta subunit)	2	59
+test	phosphate	2	37
+test	phosphomethylpyrimidine kinase	2	23
+test	phosphorylase	2	29
+test	pseudouridine synthase	2	30
+test	recombination factor protein RarA	2	43
+test	regulatoR	2	35
+test	regulator	2	18
+test	relA SpoT domain protein	2	9
+test	resolvase	2	5
+test	ribokinase	2	20
+test	ribosome biogenesis GTPase YqeH	2	42
+test	s4 domain protein	2	14
+test	secreted protein containing plastocyanin domain	2	9
+test	serine threonine protein kinase	2	50
+test	short-chain dehydrogenase reductase	2	25
+test	subunit L	2	5
+test	symporter	2	65
+test	tail component	2	48
+test	thiamine	2	7
+test	transcriptional Regulator LysR family	2	28
+test	transcriptional regulator DeoR family	2	21
+test	transcriptional regulator, lysR family	2	34
+test	transporter, permease	2	19
+test	type I restriction enzyme EcoKI subunit R	2	86
+test	type I restriction-modification system	2	41
+test	udp-glucose 4-epimerase	2	32
+test	uridine monophosphokinase	2	13
+test	uridylyltransferase	2	59
+test	ybbr family	2	25
+test	(Anaerobic) ribonucleoside-triphosphate reductase	1	66
+test	(GntR family) (Transcriptional regulator	1	19
+test	(citrate (pro-3S)-lyase ligase	1	30
+test	2',3'-cyclic-nucleotide 2'-phosphodiesterase EC 3.1.4.16	1	30
+test	2'-3'-cyclic nucleotide	1	17
+test	2-Nitropropane dioxygenase	1	5
+test	2-dehydro-3-deoxyphosphogluconate aldolase 4-hydroxy-2-oxoglutarate aldolase	1	9
+test	3'-5' exoribonuclease that releases 5'-nucleoside monophosphates and is involved in maturation of structured RNAs (By similarity)	1	48
+test	3-methyladenine DNA glycosylase	1	18
+test	30S ribosomal protein S1	1	14
+test	30S ribosomal protein S2	1	19
+test	30S ribosomal protein S21	1	2
+test	30S ribosomal protein S9	1	6
+test	4-alpha-glucanotransferase	1	3
+test	5'-nucleotidase	1	39
+test	5'-phosphate oxidase	1	6
+test	5-formyltetrahydrofolate cyclo-ligase	1	17
+test	50S ribosomal protein l17	1	11
+test	50S ribosomal protein l27	1	2
+test	50S ribosomal protein l28	1	2
+test	50s ribosomal protein L10	1	14
+test	6-phosphogluconolactonase (EC 3.1.1.31)	1	18
+test	6-pyruvoyl-tetrahydropterin synthase	1	6
+test	ABC transporter (Permease)	1	23
+test	ABC transporter (permease)	1	33
+test	ABC-2 type transporter	1	15
+test	ADP-ribosylation crystallin J1	1	2
+test	ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding. Also involved, together with DnaK and GrpE, in the DNA replication of plasmids through activation of initiation proteins (By similarity)	1	34
+test	ATP-dependent CLP protease ATP-binding subunit	1	49
+test	ATP-dependent Clp protease ATP-binding subunit	1	54
+test	ATP-dependent DNA helicase RecG	1	2
+test	ATP-dependent DNA helicase RecQ	1	28
+test	ATP-dependent DNA helicase recG	1	49
+test	ATP-dependent clp protease, ATP-binding subunit	1	67
+test	ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP (By similarity)	1	24
+test	ATP-grasp	1	36
+test	ATPase AAA superfamily	1	30
+test	ATPase, P-type (Transporting), HAD superfamily, subfamily IC	1	6
+test	Abortive infection protein AbiGI	1	12
+test	Abortive infection protein AbiGII	1	34
+test	Acetylornithine deacetylase	1	18
+test	Acetyltransferase (GNAT) family	1	7
+test	Activation of anaerobic ribonucleoside-triphosphate reductase under anaerobic conditions by generation of an organic free radical, using S-adenosylmethionine and reduced flavodoxin as cosubstrates to produce 5'-deoxy-adenosine (By similarity)	1	18
+test	Acts as a chaperone (By similarity)	1	42
+test	Acyl-ACP thioesterase	1	21
+test	Acylphosphatase	1	2
+test	Acyltransferase family	1	2
+test	Addiction module toxin, Txe YoeB family	1	6
+test	Aldo Keto reductase	1	25
+test	Aldo keto reductase	1	9
+test	Alkaline-shock protein	1	9
+test	Aminotransferase class I and II	1	32
+test	An accessory protein needed during the final step in the assembly of 30S ribosomal subunit, possibly for assembly of the head region. Probably interacts with S19. Essential for efficient processing of 16S rRNA. May be needed both before and after RbfA during the maturation of 16S rRNA. It has affinity for free ribosomal 30S subunits but not for 70S ribosomes (By similarity)	1	10
+test	An essential GTPase that binds both GDP and GTP, with rapid nucleotide exchange. Plays a role in 16S rRNA processing and 30S ribosomal subunit biogenesis and possibly also in cell cycle regulation and energy metabolism (By similarity)	1	18
+test	An essential GTPase which binds GTP, GDP and possibly (p)ppGpp with moderate affinity, with high nucleotide exchange rates and a fairly low GTP hydrolysis rate (By similarity). It may play a role in control of the cell cycle, stress response, ribosome biogenesis and in those bacteria that undergo differentiation, in morphogenesis control	1	20
+test	AraC family transcriptional regulator	1	4
+test	Arginine dihydrolase	1	23
+test	ArsR family transcriptional regulator	1	5
+test	Associates with free 30S ribosomal subunits (but not with 30S subunits that are part of 70S ribosomes or polysomes). Essential for efficient processing of 16S rRNA. May interact with the 5'-terminal helix region of 16S rRNA (By similarity)	1	4
+test	Associates with the EF-Tu.GDP complex and induces the exchange of GDP to GTP. It remains bound to the aminoacyl-tRNA.EF- Tu.GTP complex up to the GTP hydrolysis stage on the ribosome (By similarity)	1	17
+test	Bacterial extracellular solute-binding proteins, family 5 Middle	1	2
+test	Bacterial low temperature requirement A protein (LtrA)	1	4
+test	Bacterial protein of unknown function (DUF910)	1	5
+test	BadF BadG BcrA BcrD	1	21
+test	Binds directly to 23S ribosomal RNA and is necessary for the in vitro assembly process of the 50S ribosomal subunit. It is not involved in the protein synthesizing functions of that subunit (By similarity)	1	5
+test	Binds specifically to the SsrA RNA (tmRNA) and is required for stable association of SsrA with ribosomes (By similarity)	1	8
+test	Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation (By similarity)	1	18
+test	Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome (By similarity)	1	4
+test	Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter (By similarity)	1	3
+test	Binds to DNA and alters its conformation. May be involved in regulation of gene expression, nucleoid organization and DNA protection (By similarity)	1	2
+test	Binds together with S18 to 16S ribosomal RNA (By similarity)	1	9
+test	CRISPR (clustered regularly interspaced short palindromic repeat), is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain sequences complementary to antecedent mobile elements and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). Acts as a dsDNA endonuclease. May be involved in the integration of spacer DNA into the CRISPR cassette (By similarity)	1	26
+test	CRISPR (clustered regularly interspaced short palindromic repeat), is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain sequences complementary to antecedent mobile elements and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). Functions as a ssRNA-specific endoribonuclease (By similarity)	1	5
+test	CYTH domain	1	8
+test	Can catalyze the hydrolysis of ATP in the presence of single-stranded DNA, the ATP-dependent uptake of single-stranded DNA by duplex DNA, and the ATP-dependent hybridization of homologous single-stranded DNAs. It interacts with LexA causing its activation and leading to its autocatalytic cleavage (By similarity)	1	21
+test	Capsular exopolysaccharide family	1	26
+test	Capsular polysaccharide biosynthesis protein	1	2
+test	Capsular polysaccharide synthesis protein	1	33
+test	Catalyzes a salvage reaction resulting in the formation of AMP, that is energically less costly than de novo synthesis (By similarity)	1	10
+test	Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA (By similarity)	1	23
+test	Catalyzes the 2-thiolation of uridine at the wobble position (U34) of tRNA, leading to the formation of s(2)U34 (By similarity)	1	23
+test	Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen (By similarity)	1	38
+test	Catalyzes the ATP-dependent phosphorylation of L- homoserine to L-homoserine phosphate (By similarity)	1	26
+test	Catalyzes the GTP-dependent successive addition of two or more gamma-linked L-glutamates to the L-lactyl phosphodiester of 7,8-didemethyl-8-hydroxy-5-deazariboflavin (F420-0) to form coenzyme F420-0-glutamyl-glutamate (F420-2) or polyglutamated F420 derivatives (By similarity)	1	12
+test	Catalyzes the acyloin condensation reaction between C atoms 2 and 3 of pyruvate and glyceraldehyde 3-phosphate to yield 1-deoxy-D-xylulose-5-phosphate (DXP) (By similarity)	1	53
+test	Catalyzes the addition and repair of the essential 3'- terminal CCA sequence in tRNAs without using a nucleic acid template. Adds these three nucleotides in the order of C, C, and A to the tRNA nucleotide-73, using CTP and ATP as substrates and producing inorganic pyrophosphate	1	24
+test	Catalyzes the addition of meso-diaminopimelic acid to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanyl-D-glutamate (UMAG) in the biosynthesis of bacterial cell-wall peptidoglycan (By similarity)	1	48
+test	Catalyzes the attachment of proline to tRNA(Pro) in a two-step reaction proline is first activated by ATP to form Pro- AMP and then transferred to the acceptor end of tRNA(Pro). As ProRS can inadvertently accommodate and process non-cognate amino acids such as alanine and cysteine, to avoid such errors it has two additional distinct editing activities against alanine. One activity is designated as 'pretransfer' editing and involves the tRNA(Pro)-independent hydrolysis of activated Ala-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Ala-tRNA(Pro). The misacylated Cys- tRNA(Pro) is not edited by ProRS (By similarity)	1	34
+test	Catalyzes the attachment of serine to tRNA(Ser). Is also able to aminoacylate tRNA(Sec) with serine, to form the misacylated tRNA L-seryl-tRNA(Sec), which will be further converted into selenocysteinyl-tRNA(Sec) (By similarity)	1	51
+test	Catalyzes the cleavage of N-acetylneuraminic acid (sialic acid) to form pyruvate and N-acetylmannosamine via a Schiff base intermediate (By similarity)	1	21
+test	Catalyzes the condensation of isopentenyl diphosphate (IPP) with allylic pyrophosphates generating different type of terpenoids (By similarity)	1	17
+test	Catalyzes the conversion of 4-hydroxy- tetrahydrodipicolinate (HTPA) to tetrahydrodipicolinate (By similarity)	1	15
+test	Catalyzes the conversion of D-ribulose 5-phosphate to formate and 3,4-dihydroxy-2-butanone 4-phosphate (By similarity)	1	22
+test	Catalyzes the conversion of N-acetyl-diaminopimelate to diaminopimelate and acetate (By similarity)	1	29
+test	Catalyzes the conversion of dihydroorotate to orotate (By similarity)	1	19
+test	Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth (By similarity)	1	28
+test	Catalyzes the decarboxylation of orotidine 5'- monophosphate (OMP) to uridine 5'-monophosphate (UMP) (By similarity)	1	11
+test	Catalyzes the epimerization of the S- and R-forms of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration. This is a prerequisite for the S- specific NAD(P)H-hydrate dehydratase to allow the repair of both epimers of NAD(P)HX (By similarity)	1	10
+test	Catalyzes the first step in hexosamine metabolism, converting fructose-6P into glucosamine-6P using glutamine as a nitrogen source (By similarity)	1	64
+test	Catalyzes the folate-dependent formation of 5-methyl- uridine at position 54 (M-5-U54) in all tRNAs (By similarity)	1	27
+test	Catalyzes the formation of 6,7-dimethyl-8- ribityllumazine by condensation of 5-amino-6-(D- ribitylamino)uracil with 3,4-dihydroxy-2-butanone 4-phosphate. This is the penultimate step in the biosynthesis of riboflavin (By similarity)	1	5
+test	Catalyzes the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA (By similarity)	1	16
+test	Catalyzes the formation of the alpha-1,6-glucosidic linkages in glycogen by scission of a 1,4-alpha-linked oligosaccharide from growing alpha-1,4-glucan chains and the subsequent attachment of the oligosaccharide to the alpha-1,6 position (By similarity)	1	2
+test	Catalyzes the irreversible NADPH-dependent deamination of GMP to IMP. It functions in the conversion of nucleobase, nucleoside and nucleotide derivatives of G to A nucleotides, and in maintaining the intracellular balance of A and G nucleotides (By similarity)	1	22
+test	Catalyzes the irreversible cleavage of the glycosidic bond in both 5'-methylthioadenosine (MTA) and S- adenosylhomocysteine (SAH AdoHcy) to adenine and the corresponding thioribose, 5'-methylthioribose and S-ribosylhomocysteine, respectively (By similarity)	1	29
+test	Catalyzes the oxidation of 5,10- methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10- formyltetrahydrofolate (By similarity)	1	25
+test	Catalyzes the oxidative decarboxylation of 6- phosphogluconate to ribulose 5-phosphate and CO(2), with concomitant reduction of NADP to NADPH (By similarity)	1	55
+test	Catalyzes the phosphorylation of NAD to NADP. Utilizes ATP and other nucleoside triphosphates as well as inorganic polyphosphate as a source of phosphorus (By similarity)	1	21
+test	Catalyzes the phosphorylation of pyruvate to phosphoenolpyruvate (By similarity)	1	51
+test	Catalyzes the phosphorylation of the 3'-hydroxyl group of dephosphocoenzyme A to form coenzyme A (By similarity)	1	15
+test	Catalyzes the reversible adenylation of nicotinate mononucleotide (NaMN) to nicotinic acid adenine dinucleotide (NaAD) (By similarity)	1	13
+test	Catalyzes the reversible formation of acyl-phosphate (acyl-PO(4)) from acyl- acyl-carrier-protein (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA (By similarity)	1	20
+test	Catalyzes the reversible isomerization-deamination of glucosamine 6-phosphate (GlcN6P) to form fructose 6-phosphate (Fru6P) and ammonium ion (By similarity)	1	29
+test	Catalyzes the reversible phosphorylation of UMP to UDP (By similarity)	1	18
+test	Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP. Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism (By similarity)	1	23
+test	Catalyzes the stereoinversion of LL-2,6- diaminoheptanedioate (L,L-DAP) to meso-diaminoheptanedioate (meso- DAP), a precursor of L-lysine and an essential component of the bacterial peptidoglycan (By similarity)	1	17
+test	Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs (By similarity)	1	13
+test	Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 in tRNAs that read codons beginning with uridine, leading to the formation of N6-(dimethylallyl)adenosine (i(6)A) (By similarity)	1	26
+test	Catalyzes the transfer of a ribosyl phosphate group from 5-phosphoribose 1-diphosphate to orotate, leading to the formation of orotidine monophosphate (OMP) (By similarity)	1	12
+test	Catalyzes the transfer of the gamma-phosphate of ATP to D-galactose to form alpha-D-galactose-1-phosphate (Gal-1-P) (By similarity)	1	31
+test	Cation-transporting atpase	1	52
+test	Cell division protein DIVIVA	1	2
+test	Cell division protein that is part of the divisome complex and is recruited early to the Z-ring. Probably stimulates Z-ring formation, perhaps through the cross-linking of FtsZ protofilaments. Its function overlaps with FtsA (By similarity)	1	2
+test	Cell wall anchor domain protein	1	2
+test	Cell wall formation. Adds enolpyruvyl to UDP-N- acetylglucosamine (By similarity)	1	28
+test	Cell wall formation. Catalyzes the addition of glutamate to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanine (UMA) (By similarity)	1	35
+test	Cell wall formation. Catalyzes the transfer of a GlcNAc subunit on undecaprenyl-pyrophosphoryl-MurNAc-pentapeptide (lipid intermediate I) to form undecaprenyl-pyrophosphoryl-MurNAc- (pentapeptide)GlcNAc (lipid intermediate II) (By similarity)	1	19
+test	Channel that opens in response to stretch forces in the membrane lipid bilayer. May participate in the regulation of osmotic pressure changes within the cell (By similarity)	1	13
+test	Choloylglycine hydrolase	1	10
+test	Chromosome Partitioning Protein	1	24
+test	Citrate lyase beta	1	20
+test	Cobalt transport protein	1	18
+test	Cold shock protein	1	2
+test	Colicin v production protein	1	12
+test	Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0) (By similarity)	1	4
+test	Conserved Protein	1	39
+test	Conserved hypothetical protein 698	1	24
+test	Converts 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate into isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP) (By similarity)	1	12
+test	Converts 2,5-diamino-6-(ribosylamino)-4(3h)-pyrimidinone 5'-phosphate into 5-amino-6-(ribosylamino)-2,4(1h,3h)- pyrimidinedione 5'-phosphate (By similarity)	1	21
+test	Converts the preformed base xanthine, a product of nucleic acid breakdown, to xanthosine 5'-monophosphate (XMP), so it can be reused for RNA or DNA synthesis (By similarity)	1	9
+test	Could be a nuclease that resolves Holliday junction intermediates in genetic recombination (By similarity)	1	8
+test	Could be involved in insertion of integral membrane proteins into the membrane (By similarity)	1	4
+test	Covalent carrier of the coenzyme of citrate lyase (By similarity)	1	4
+test	Cytochrome b5	1	4
+test	DEAD DEAH box helicase	1	41
+test	DNA alkylation repair enzyme	1	13
+test	DNA helicase	1	114
+test	DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA (By similarity)	1	58
+test	DNA polymerase III (alpha subunit)	1	68
+test	DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity. The beta chain is required for initiation of replication once it is clamped onto DNA, it slides freely (bidirectional and ATP- independent) along duplex DNA (By similarity)	1	50
+test	DNA polymerase iii, delta' subunit	1	19
+test	DNA protecting protein DprA	1	13
+test	DNA protection during starvation protein	1	7
+test	DNA repair protein (RadC	1	14
+test	DNA replication protein DnaD	1	15
+test	DNA topoisomerase IV subunit A	1	2
+test	DNA topoisomerase IV, subunit A	1	69
+test	DNA-entry nuclease	1	19
+test	Death-On-Curing Family	1	10
+test	Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Also processes some mRNAs, and tRNAs when they are encoded in the rRNA operon (By similarity)	1	3
+test	Diguanylate cyclase	1	55
+test	Displays ATPase and GTPase activities (By similarity)	1	33
+test	Dithiol-disulfide isomerase	1	13
+test	DivIVA protein	1	23
+test	Divisome component that associates with the complex late in its assembly, after the Z-ring is formed, and is dependent on DivIC and PBP2B for its recruitment to the divisome. Together with EzrA, is a key component of the system that regulates PBP1 localization during cell cycle progression. Its main role could be the removal of PBP1 from the cell pole after pole maturation is completed. Also contributes to the recruitment of PBP1 to the division complex. Not essential for septum formation (By similarity)	1	3
+test	Dna-3-methyladenine glycosylase i	1	12
+test	Domain of unknown function (DUF1827)	1	3
+test	Domain of unknown function (DUF3284)	1	5
+test	Domain of unknown function (DUF956)	1	7
+test	Elongation factor Tu GTP binding domain	1	2
+test	Enables the recognition and targeting of unfolded and aggregated proteins to the ClpC protease or to other proteins involved in proteolysis	1	15
+test	Endonuclease Exonuclease phosphatase	1	11
+test	Endonuclease that specifically degrades the RNA of RNA- DNA hybrids (By similarity)	1	19
+test	Endoribonuclease that initiates mRNA decay (By similarity)	1	41
+test	Erf family	1	22
+test	Essential cell division protein (By similarity)	1	6
+test	Essential for recycling GMP and indirectly, cGMP (By similarity)	1	6
+test	Esterase lipase	1	23
+test	Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine (By similarity)	1	7
+test	Exodeoxyribonuclease III	1	7
+test	FAD linked oxidase domain protein	1	3
+test	FMN-binding protein	1	2
+test	FMN-dependent alpha-hydroxy acid dehydrogenase	1	34
+test	FeS assembly protein SUFB	1	27
+test	Fibronectin-binding protein	1	33
+test	First step of the lipid cycle reactions in the biosynthesis of the cell wall peptidoglycan (By similarity)	1	16
+test	Flavodoxin	1	12
+test	Forms an intersubunit bridge (bridge B4) with the 23S rRNA of the 50S subunit in the ribosome (By similarity)	1	6
+test	Functions as a ribosomal silencing factor. Interacts with ribosomal protein L14 (rplN), blocking formation of intersubunit bridge B8. Prevents association of the 30S and 50S ribosomal subunits and the formation of functional ribosomes, thus repressing translation (By similarity)	1	5
+test	GDSL-like Lipase/Acylhydrolase	1	13
+test	GTPase that plays an essential role in the late steps of ribosome biogenesis (By similarity)	1	22
+test	Glucose uptake protein	1	23
+test	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)	1	17
+test	Glycerate kinase	1	18
+test	Glycerol-3-phosphate cytidylyltransferase	1	7
+test	Glycolate oxidase subunit	1	49
+test	Glycosyl transferase	1	42
+test	Glycosyl transferase, wecb taga cpsf family	1	22
+test	Glycyl-tRNA synthetase beta subunit	1	76
+test	GntR family transcriptional regulator	1	17
+test	GtrA-like protein	1	9
+test	Guanylate kinase	1	7
+test	H( )-stimulated, divalent metal cation uptake system (By similarity)	1	30
+test	HAD-superfamily hydrolase subfamily IA variant 3	1	15
+test	HTH_ARAC	1	35
+test	Has antioxidant activity. Could remove peroxides or H(2)O(2) (By similarity)	1	9
+test	Heat shock protein	1	12
+test	Helicase, RecD TraA family	1	54
+test	Hemolysin A	1	16
+test	Hnh endonuclease	1	16
+test	Hydrolase, tatD family	1	26
+test	Hydroxymethylglutaryl-CoA synthase	1	53
+test	IIC component	1	32
+test	IIa component	1	18
+test	IS66 Orf2 family protein	1	6
+test	Inherit from COG: Competence protein	1	11
+test	Inherit from COG: Membrane	1	13
+test	Inherit from COG: Protein of unknown function (DUF1093)	1	4
+test	Inherit from COG: domain protein	1	17
+test	Inherit from NOG: Cell Wall	1	2
+test	Inherit from NOG: LPXTG-motif cell wall anchor domain protein	1	14
+test	Inherit from NOG: Lpxtg-motif cell wall anchor domain protein	1	2
+test	Integrase catalytic subunit	1	38
+test	Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits, it traverses the body of the 30S subunit contacting proteins on the other side and probably holding the rRNA structure together. The combined cluster of proteins S8, S12 and S17 appears to hold together the shoulder and platform of the 30S subunit (By similarity)	1	2
+test	Involved in DNA repair and RecF pathway recombination (By similarity)	1	17
+test	Involved in base excision repair of DNA damaged by oxidation or by mutagenic agents. Acts as DNA glycosylase that recognizes and removes damaged bases. Has a preference for oxidized purines, such as 7,8-dihydro-8-oxoguanine (8-oxoG). Has AP (apurinic apyrimidinic) lyase activity and introduces nicks in the DNA strand. Cleaves the DNA backbone by beta-delta elimination to generate a single-strand break at the site of the removed base with both 3'- and 5'-phosphates (By similarity)	1	12
+test	Involved in correct processing of both the 5' and 3' ends of 23S rRNA precursor. Processes 30S rRNA precursor transcript even in absence of ribonuclease 3 (Rnc)	1	10
+test	Involved in formation and maintenance of cell shape (By similarity)	1	24
+test	Involved in initiation control of chromosome replication (By similarity)	1	7
+test	Involved in the binding of tRNA to the ribosomes (By similarity)	1	5
+test	Involved in the biosynthesis of D-alanyl-lipoteichoic acid (LTA). Activated D-alanyl-Dcp donates its D-alanyl substituent to membrane-associated LTA (By similarity)	1	2
+test	Involved in the biosynthesis of D-alanyl-lipoteichoic acid (LTA). Catalyzes an ATP-dependent two-step reaction where it forms a high energy D-alanyl AMP intermediate and transfers the alanyl residues from AMP to Dcp (By similarity)	1	43
+test	Involved in the cellular defense against the biological effects of O6-methylguanine (O6-MeG) in DNA. Repairs alkylated guanine in DNA by stoichiometrically transferring the alkyl group at the O-6 position to a cysteine residue in the enzyme. This is a suicide reaction the enzyme is irreversibly inactivated (By similarity)	1	13
+test	Involved in the synthesis of autoinducer 2 (AI-2) which is secreted by bacteria and is used to communicate both the cell density and the metabolic potential of the environment. The regulation of gene expression in response to changes in cell density is called quorum sensing. Catalyzes the transformation of S-ribosylhomocysteine (RHC) to homocysteine (HC) and 4,5- dihydroxy-2,3-pentadione (DPD) (By similarity)	1	12
+test	Involved in the transcription termination process (By similarity)	1	2
+test	Ion channel	1	25
+test	Is involved in NO detoxification in an aerobic process, termed nitric oxide dioxygenase (NOD) reaction that utilizes O(2) and NAD(P)H to convert NO to nitrate, which protects the bacterium from various noxious nitrogen compounds. Therefore, plays a central role in the inducible response to nitrosative stress (By similarity)	1	21
+test	K05989 alpha-L-rhamnosidase EC 3.2.1.40	1	2
+test	Key enzyme in the regulation of glycerol uptake and metabolism (By similarity)	1	31
+test	L-ascorbate 6-phosphate lactonase	1	35
+test	L-asparaginase	1	22
+test	L-ribulose-5-phosphate 4-epimerase	1	31
+test	L-serine dehydratase	1	11
+test	L-serine dehydratase, iron-sulfur-dependent, beta subunit	1	15
+test	L-xylulose 5-phosphate 3-epimerase	1	30
+test	LemA family	1	18
+test	Ligates lysine onto the cytidine present at position 34 of the AUA codon-specific tRNA(Ile) that contains the anticodon CAU, in an ATP-dependent manner. Cytidine is converted to lysidine, thus changing the amino acid specificity of the tRNA from methionine to isoleucine (By similarity)	1	31
+test	Lipase (class 3)	1	2
+test	Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits	1	10
+test	Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine-Dalgarno cleft in the 70S ribosome (By similarity)	1	2
+test	Low molecular weight phosphotyrosine protein phosphatase	1	8
+test	Luciferase-like	1	26
+test	LysM domain	1	25
+test	Lyzozyme M1 (1,4-beta-N-acetylmuramidase)	1	13
+test	Manganese-dependent inorganic pyrophosphatase	1	18
+test	MarR family Transcriptional regulator	1	6
+test	Mate efflux family protein	1	33
+test	Matrixin	1	18
+test	May be required for sporulation (By similarity)	1	29
+test	May play a role in 30S ribosomal subunit biogenesis. Unusual circulary permuted GTPase that catalyzes rapid hydrolysis of GTP with a slow catalytic turnover (By similarity)	1	14
+test	May play a role in DNA repair. It seems to be involved in an RecBC-independent recombinational process of DNA repair. It may act with RecF and RecO (By similarity)	1	22
+test	May play a role in the repair of endogenous alkylation damage (By similarity)	1	33
+test	Membrane bOund o-acyl transferase mboat family protein	1	58
+test	Membrane-associated zinc metalloprotease	1	31
+test	Methionine synthase	1	29
+test	Methyl-accepting chemotaxis family protein	1	5
+test	Methylates ribosomal protein L11 (By similarity)	1	22
+test	Methylates the ribose at the nucleotide 34 wobble position in the two leucyl isoacceptors tRNA(Leu)(CmAA) and tRNA(Leu)(cmnm5UmAA). Catalyzes the methyl transfer from S- adenosyl-L-methionine to the 2'-OH of the wobble nucleotide (By similarity)	1	8
+test	Methyltransferase required for the conversion of demethylmenaquinone (DMKH2) to menaquinone (MKH2) and the conversion of 2-polyprenyl-6-methoxy-1,4-benzoquinol (DDMQH2) to 2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol (DMQH2) (By similarity)	1	19
+test	MgsA AAA+ ATPase C terminal	1	24
+test	Might take part in the signal recognition particle (SRP) pathway. This is inferred from the conservation of its genetic proximity to ftsY ffh. May be a regulatory protein (By similarity)	1	3
+test	Modifies the free amino group of the aminoacyl moiety of methionyl-tRNA(fMet). The formyl group appears to play a dual role in the initiator identity of N-formylmethionyl-tRNA by (I) promoting its recognition by IF2 and (II) impairing its binding to EFTu-GTP (By similarity)	1	16
+test	Modulates RecA activity (By similarity)	1	17
+test	Modulates transcription in response to changes in cellular NADH NAD( ) redox state (By similarity)	1	27
+test	Multicopper oxidase	1	50
+test	NAD-binding protein involved in the addition of a carboxymethylaminomethyl (cmnm) group at the wobble position (U34) of certain tRNAs, forming tRNA-cmnm(5)s(2)U34 (By similarity)	1	84
+test	NAD-dependent protein deacetylase which modulates the activities of several enzymes which are inactive in their acetylated form. May also have NAD-dependent lysine demalonylase and desuccinylase activity (By similarity)	1	15
+test	NADPH-dependent glycerol-3-phosphate dehydrogenase	1	31
+test	NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone (By similarity)	1	2
+test	NOL1 NOP2 sun family protein	1	27
+test	Necessary for normal cell division and for the maintenance of normal septation (By similarity)	1	10
+test	Negatively regulates transcription of bacterial ribonucleotide reductase nrd genes and operons by binding to NrdR- boxes (By similarity)	1	8
+test	Nicotinate phosphoribosyltransferase	1	38
+test	NlpC/P60 family	1	30
+test	NrdI protein	1	7
+test	Nucleic acid-binding protein	1	16
+test	Nucleic-acid-binding protein implicated in transcription termination	1	5
+test	One of the early assembly proteins it binds 23S rRNA. One of the proteins that surrounds the polypeptide exit tunnel on the outside of the ribosome. Forms the main docking site for trigger factor binding to the ribosome (By similarity)	1	2
+test	One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit (By similarity)	1	6
+test	One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit (By similarity)	1	13
+test	One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the head domain of the 30S subunit. Is located at the subunit interface close to the decoding center, probably blocks exit of the E-site tRNA (By similarity)	1	4
+test	One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal	1	5
+test	One of the proteins that surrounds the polypeptide exit tunnel on the outside of the subunit (By similarity)	1	3
+test	PAP2 Family	1	20
+test	PG1 protein, homology to Homo sapiens	1	16
+test	PPIases accelerate the folding of proteins	1	10
+test	PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides (By similarity)	1	2
+test	PTS system	1	2
+test	PTS system glucitol sorbitol-specific	1	11
+test	PTS system mannose fructose sorbose family transporter subunit IID	1	25
+test	PTS system sugar-specific permease component	1	37
+test	Part of the ABC transporter complex MetNIQ involved in methionine import. Responsible for energy coupling to the transport system (By similarity)	1	10
+test	Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ	1	13
+test	Participates in both the initiation and recycling phases of transcription. In the presence of the delta subunit, RNAP displays an increased specificity of transcription, a decreased affinity for nucleic acids, and an increased efficiency of RNA synthesis because of enhanced recycling (By similarity)	1	6
+test	Participates in chromosomal partition during cell division. May act via the formation of a condensin-like complex containing Smc and ScpA that pull DNA away from mid-cell into both cell halves (By similarity)	1	9
+test	Participates in chromosomal partition during cell division. May act via the formation of a condensin-like complex containing Smc and ScpB that pull DNA away from mid-cell into both cell halves (By similarity)	1	15
+test	Participates in transcription elongation, termination and antitermination (By similarity)	1	24
+test	Peptidase C39 family	1	17
+test	Peptidase M22 Glycoprotease	1	26
+test	Peptidase S24-like protein	1	2
+test	Peptidase m42 family protein	1	19
+test	Peptide chain release factor 1 directs the termination of translation in response to the peptide chain termination codons UAG and UAA (By similarity)	1	16
+test	Permease protein	1	2
+test	Pfam:Cw-hydrolase	1	11
+test	Pfam:DapD_N	1	12
+test	Pfam:Phage_integr_N	1	12
+test	Pfam:TraG	1	66
+test	Phage Tail Tape Measure Protein	1	22
+test	Phage minor structural protein	1	83
+test	Phage nucleotide-binding protein	1	22
+test	Phage regulatory protein rha	1	11
+test	Phi ETA orf 55-like protein	1	59
+test	Phoh family	1	13
+test	Phosphate ABC transporter	1	26
+test	Phosphatidate cytidylyltransferase	1	11
+test	Phosphoglucomutase phosphomannomutase alpha beta alpha domain	1	46
+test	Phosphohexokinase	1	22
+test	Phosphohydrolase	1	36
+test	Phospholipase, patatin family	1	14
+test	Phosphopantothenoylcysteine decarboxylase	1	15
+test	Phosphoribosylglycinamide synthetase	1	37
+test	Phosphorylation of dTMP to form dTDP in both de novo and salvage pathways of dTTP synthesis (By similarity)	1	24
+test	Phosphotransferase system, EIIC 	1	36
+test	Plasmid pRiA4b ORF-3 family protein	1	60
+test	Plays a major role in protein secretion by helping the post-translocational extracellular folding of several secreted proteins (By similarity)	1	13
+test	Plays an important role in the de novo pathway of purine nucleotide biosynthesis	1	49
+test	Polysaccharide Biosynthesis Protein	1	42
+test	Predicted membrane protein (DUF2335)	1	13
+test	Preprotein translocase subunit	1	6
+test	Preprotein translocase subunit SecG	1	2
+test	Primosomal protein DnaI	1	22
+test	Primosomal protein n'	1	47
+test	Probably involved in ribonucleotide reductase function (By similarity)	1	14
+test	Produces ATP from ADP in the presence of a proton gradient across the membrane (By similarity)	1	7
+test	Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit (By similarity)	1	39
+test	Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits (By similarity)	1	28
+test	Produces ATP from ADP in the presence of a proton gradient across the membrane. The gamma chain is believed to be important in regulating ATPase activity and the flow of protons through the CF(0) complex (By similarity)	1	33
+test	Promotes RNA polymerase assembly. Latches the N- and C- terminal regions of the beta' subunit thereby facilitating its interaction with the beta and alpha subunits (By similarity)	1	3
+test	Prophage Lp2 protein 31	1	10
+test	Protease HtpX homolog	1	26
+test	Protease subunit of a proteasome-like degradation complex believed to be a general protein degrading machinery (By similarity)	1	8
+test	Protease synthase and sporulation negative regulatory protein pai 1	1	14
+test	Protein CrcB homolog	1	3
+test	Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA (By similarity)	1	7
+test	Protein of unknown function (DUF1071)	1	3
+test	Protein of unknown function (DUF1149)	1	11
+test	Protein of unknown function (DUF1304)	1	7
+test	Protein of unknown function (DUF1351)	1	24
+test	Protein of unknown function (DUF1694)	1	8
+test	Protein of unknown function (DUF2922)	1	8
+test	Protein of unknown function (DUF3021)	1	14
+test	Protein of unknown function (DUF3027)	1	4
+test	Protein of unknown function (DUF3290)	1	10
+test	Protein of unknown function (DUF554)	1	15
+test	Provides the (R)-glutamate required for cell wall biosynthesis (By similarity)	1	18
+test	Putative amino acid metabolism	1	3
+test	Pyridoxal kinase	1	25
+test	RNA methyltransferase TrmH family group 3	1	28
+test	RNaseP catalyzes the removal of the 5'-leader sequence from pre-tRNA to produce the mature 5'-terminus. It can also cleave other RNA substrates such as 4.5S RNA. The protein component plays an auxiliary but essential role in vivo by binding to the 5'-leader sequence and broadening the substrate specificity of the ribozyme (By similarity)	1	8
+test	Redox regulated molecular chaperone. Protects both thermally unfolding and oxidatively damaged proteins from irreversible aggregation. Plays an important role in the bacterial defense system toward oxidative stress (By similarity)	1	24
+test	RelA SpoT domain protein	1	14
+test	Releases the supercoiling and torsional tension of DNA, which is introduced during the DNA replication and transcription, by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at a target site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(5'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 3'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand, thus removing DNA supercoils. Finally, in the religation step, the DNA 3'-OH attacks the covalent intermediate to expel the active-site tyrosine and restore the DNA phosphodiester backbone (By similarity)	1	49
+test	Removes N-terminal dipeptides sequentially from polypeptides having unsubstituted N-termini provided that the penultimate residue is proline (By similarity)	1	56
+test	Removes the N-terminal methionine from nascent proteins (By similarity)	1	19
+test	Removes the formyl group from the N-terminal Met of newly synthesized proteins. Requires at least a dipeptide for an efficient rate of reaction. N-terminal L-methionine is a prerequisite for activity but the enzyme has broad specificity at other positions (By similarity)	1	5
+test	Replication initiator protein	1	20
+test	Represses a number of genes involved in the response to DNA damage (SOS response), including recA and lexA. In the presence of single-stranded DNA, RecA interacts with LexA causing an autocatalytic cleavage which disrupts the DNA-binding part of LexA, leading to derepression of the SOS regulon and eventually DNA repair (By similarity)	1	21
+test	Required for a late step of 50S ribosomal subunit assembly. Has GTPase activity (By similarity)	1	21
+test	Required for accurate and efficient protein synthesis under certain stress conditions. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Back- translocation proceeds from a post-translocation (POST) complex to a pre-translocation (PRE) complex, thus giving elongation factor G a second chance to translocate the tRNAs correctly. Binds to ribosomes in a GTP-dependent manner (By similarity)	1	51
+test	Required for chromosome condensation and partitioning (By similarity)	1	95
+test	Required for correct processing of both the 5' and 3' ends of 5S rRNA precursor. Cleaves both sides of a double-stranded region yielding mature 5S rRNA in one step (By similarity)	1	12
+test	Required for maturation of 30S ribosomal subunits (By similarity)	1	6
+test	Required for the insertion and or proper folding and or complex formation of integral membrane proteins into the membrane. Involved in integration of membrane proteins that insert both dependently and independently of the Sec translocase complex, as well as at least some lipoproteins	1	14
+test	Required for the insertion and or proper folding and or complex formation of integral membrane proteins into the membrane. Involved in integration of membrane proteins that insert both dependently and independently of the Sec translocase complex, as well as at least some lipoproteins (By similarity)	1	20
+test	Responsible for synthesis of pseudouridine from uracil- 55 in the psi GC loop of transfer RNAs (By similarity)	1	23
+test	Responsible for the release of ribosomes from messenger RNA at the termination of protein biosynthesis. May increase the efficiency of translation by recycling ribosomes from one round of translation to another (By similarity)	1	12
+test	Rhomboid family	1	12
+test	S1 RNA binding domain protein	1	24
+test	S4 domain protein YaaA	1	2
+test	SIR2 family	1	23
+test	SNARE associated Golgi	1	10
+test	SNARE associated Golgi protein	1	15
+test	SNARE-like domain protein	1	10
+test	SNF2 family	1	90
+test	SPFH domain, Band 7 family protein	1	23
+test	SUF system FeS assembly protein, NifU family	1	9
+test	Seems to be the binding site for several of the factors involved in protein synthesis and appears to be essential for accurate translation (By similarity)	1	6
+test	Septum formation initiator	1	9
+test	Serine Threonine protein kinase	1	2
+test	Sex pheromone	1	28
+test	Short-chain dehydrogenase reductase SDR	1	20
+test	Single strand-specific metallo-endoribonuclease involved in late-stage 70S ribosome quality control and in maturation of the 3' terminus of the 16S rRNA (By similarity)	1	11
+test	Site-specific tyrosine recombinase, which acts by catalyzing the cutting and rejoining of the recombining DNA molecules. Essential to convert dimers of the bacterial chromosome into monomers to permit their segregation at cell division (By similarity)	1	21
+test	Sortase family	1	2
+test	Specifically catalyzes the cleavage of the D-lactyl ether substituent of MurNAc 6-phosphate, producing GlcNAc 6- phosphate and D-lactate	1	37
+test	Specifically catalyzes the decarboxylation of meso- diaminopimelate (meso-DAP) to L-lysine (By similarity)	1	44
+test	Specifically methylates guanosine-37 in various tRNAs (By similarity)	1	14
+test	Specifically methylates the N4 position of cytidine in position 1402 (C1402) of 16S rRNA (By similarity)	1	11
+test	Specifically methylates the N7 position of a guanine in 16S rRNA (By similarity)	1	17
+test	Specifically methylates the pseudouridine at position 1915 (m3Psi1915) in 23S rRNA (By similarity)	1	9
+test	SprT-like	1	7
+test	Sucrose phosphorylase	1	39
+test	TIGR00159 family	1	23
+test	TPR repeat-containing protein	1	37
+test	TRANSCRIPTIONal REGULATOR, LysR family	1	13
+test	TRNA binding domain protein	1	21
+test	Teichoic acid glycosylation protein	1	14
+test	Tetratricopeptide tpr_2 repeat protein	1	21
+test	The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision (By similarity)	1	33
+test	The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome (By similarity)	1	9
+test	The natural substrate for this enzyme may be peptidyl- tRNAs which drop off the ribosome during protein synthesis (By similarity)	1	14
+test	This enzyme is involved in nucleotide metabolism it produces dUMP, the immediate precursor of thymidine nucleotides and it decreases the intracellular concentration of dUTP so that uracil cannot be incorporated into DNA (By similarity)	1	9
+test	This protein binds directly to 23S ribosomal RNA (By similarity)	1	11
+test	This protein binds to 23S rRNA in the presence of protein L20 (By similarity)	1	2
+test	This protein is located at the 30S-50S ribosomal subunit interface and may play a role in the structure and function of the aminoacyl-tRNA binding site (By similarity)	1	5
+test	This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly (By similarity)	1	7
+test	This protein may be involved in anomalous filament growth. May be a component of the septum (By similarity)	1	39
+test	This protein specifically catalyzes the removal of signal peptides from prolipoproteins (By similarity)	1	7
+test	TonB-dependent Receptor Plug Domain protein	1	2
+test	Toxin-antitoxin system, antitoxin component, HicB family	1	6
+test	Toxin-antitoxin system, toxin component, RelE family	1	3
+test	Transcription elongation factor NusA	1	33
+test	Transcriptional regulator, Crp Fnr family	1	11
+test	Transcriptional regulator, GntR family	1	2
+test	Transcriptional regulator, Spx MgsR family	1	4
+test	Transcriptional regulator, TetR family	1	18
+test	Transcriptional regulatory protein, C terminal	1	9
+test	Transfers the 4'-phosphopantetheine moiety from coenzyme A to a Ser of acyl-carrier-protein (By similarity)	1	8
+test	Transfers the N-acyl diglyceride group on what will become the N-terminal cysteine of membrane lipoproteins (By similarity)	1	21
+test	Triose-phosphate isomerase	1	24
+test	Tryptophanyl-tRNA synthetase	1	35
+test	Type I Restriction	1	2
+test	Type II restriction modification enzyme methyltransferase	1	54
+test	UDP-N-acetylglucosamine 2-epimerase	1	26
+test	UDP-glucose-hexose-1-phosphate uridylyltransferase	1	37
+test	UPF0052 protein	1	30
+test	UPF0207 protein	1	16
+test	UPF0246 protein	1	23
+test	UPF0291 protein	1	4
+test	UPF0298 protein	1	9
+test	UPF0342 protein	1	4
+test	UPF0346 protein	1	2
+test	UPF0348 protein	1	26
+test	UPF0356 protein	1	3
+test	UPF0397 protein	1	10
+test	UPF0398 protein	1	16
+test	UPF0473 protein	1	6
+test	UPF0756 membrane protein	1	3
+test	Uncharacterised ACR, COG2135	1	18
+test	VRR-NUC domain protein	1	4
+test	VanZ-like protein	1	9
+test	Vanz family	1	5
+test	Veg protein	1	6
+test	Xylose Isomerase Domain-Containing protein	1	24
+test	YbaK ebsC protein	1	7
+test	YheO domain protein	1	2
+test	YhjQ protein	1	8
+test	YibE F family protein	1	30
+test	YitT family	1	22
+test	YjcQ protein	1	10
+test	YycH protein	1	8
+test	YycI protein	1	27
+test	Zinc phosphodiesterase, which displays some tRNA 3'- processing endonuclease activity. Probably involved in tRNA maturation, by removing a 3'-trailer from precursor tRNA (By similarity)	1	12
+test	acetyl xylan esterase	1	21
+test	acetyltransferase, (GNAT) family	1	10
+test	acyl-CoA thioesterase	1	14
+test	adenine deaminase	1	57
+test	aggregation promoting protein	1	7
+test	alkaline shock protein	1	7
+test	alpha amylase, catalytic region	1	51
+test	alpha-galactosidase	1	38
+test	amino acid ABC transporter	1	34
+test	aminoglycoside N(3)-acetyltransferase	1	12
+test	ammonium transporter	1	41
+test	antiterminator	1	18
+test	appr-1-p processing domain protein	1	4
+test	arginyl-trna synthetase	1	2
+test	asch domain protein	1	9
+test	aspartate racemase	1	29
+test	aspartate transcarbamylase	1	17
+test	aspartyl-trna synthetase	1	42
+test	atp-dependent rna helicase	1	53
+test	beta-galactosidase small subunit	1	19
+test	beta-phospho-glucomutase	1	28
+test	bifunctional PTS system fructose-specific transporter subunit IIA HPr protein	1	9
+test	binding-protein-dependent transport systems inner membrane Component	1	13
+test	brancheD-chain amino acid aminotransferase	1	2
+test	calcium-transporting ATPase	1	61
+test	catabolite control protein a	1	27
+test	cation diffusion facilitator family transporter	1	18
+test	cdp-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase	1	14
+test	cell division protein FtsK	1	52
+test	citrate lyase, alpha	1	16
+test	copper chaperone	1	5
+test	cyclopropane-fatty-acyl-phospholipid synthase	1	22
+test	cysteinyl-tRNA synthetase	1	53
+test	d-alanyl-d-alanine carboxypeptidase	1	3
+test	dEAD DEAH box helicase	1	2
+test	dak2 domain fusion protein ylov	1	36
+test	dedA family	1	12
+test	dehydrogenase reductase	1	2
+test	diacylglycerol kinase, catalytic	1	2
+test	dihydroorotase	1	27
+test	dinuclear metal center protein, YbgI family	1	23
+test	dna replication protein	1	15
+test	endodeoxyribonuclease RusA	1	6
+test	endonuclease III	1	7
+test	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase (EC 2.7.8.6)	1	21
+test	fatty acid synthase	1	4
+test	feS assembly ATPase SufC	1	21
+test	feS assembly protein SufD	1	13
+test	ferredoxin--nadp reductase	1	29
+test	flagellar rod assembly protein muramidase flgj	1	23
+test	ftsk SpoIIIE family protein	1	18
+test	fumarate hydratase class II	1	33
+test	gaf domain protein	1	3
+test	gatB Yqey	1	6
+test	glucose-6-phosphate 1-dehydrogenase	1	50
+test	glycoside hydrolase family 4	1	36
+test	glycoside hydrolase, family 1	1	21
+test	glycosyl glycerophosphate transferases involved in teichoic acid biosynthesis TagF TagB EpsJ RodC	1	24
+test	glycosyl transferase	1	3
+test	glycyl-tRNA synthetase, alpha subunit	1	19
+test	group 1 glycosyl transferase	1	40
+test	had superfamily (subfamily IIIa) phosphatase	1	5
+test	had-superfamily hydrolase, subfamily iia	1	19
+test	head-tail joining protein	1	5
+test	hicB family	1	14
+test	histidine triad (HIT) protein	1	8
+test	histidyl-tRNA synthetase	1	28
+test	holo-ACP synthase CitX	1	16
+test	homocysteine methyltransferase	1	18
+test	homoserine dehydrogenase	1	23
+test	host cell surface-exposed lipoprotein	1	17
+test	however, it seems to stimulate more or less all the activities of the other two initiation factors, IF-2 and IF-3 (By similarity)	1	2
+test	hydrocarbon binding protein	1	7
+test	hydrolase, family 1	1	5
+test	hydrolase, family 31	1	3
+test	hydroxymethylglutaryL-CoA reductase	1	5
+test	iic component	1	31
+test	intracellular protease Pfpi family	1	20
+test	iron permease, FTR1	1	2
+test	isochorismatase	1	3
+test	it is required for DNA replication and normal SOS inducibility. RecF binds preferentially to single-stranded, linear DNA. It also seems to bind ATP (By similarity)	1	36
+test	low temperature requirement protein	1	12
+test	maltose O-acetyltransferase	1	10
+test	mannitol-1-phosphate 5-dehydrogenase	1	32
+test	mechanosensitive ion channel	1	16
+test	membrAne	1	9
+test	membrane protein, TerC	1	29
+test	methionine sulfoxide reductase A	1	2
+test	multi-transmembrane protein	1	19
+test	mur ligase	1	33
+test	n-acetylmuramoyl-l-alanine amidase	1	17
+test	nh(3)-dependent nad( ) synthetase	1	23
+test	nicotinamide mononucleotide transporter	1	34
+test	nitroreductase	1	21
+test	of methanol dehydrogenase type	1	26
+test	oxalyl-CoA decarboxylase	1	26
+test	p-loop domain protein	1	2
+test	parb-like partition protein	1	29
+test	peptide deformylase	1	8
+test	phage Tail Protein	1	7
+test	phage shock protein C, PspC	1	4
+test	phage terminase large subunit	1	2
+test	phenylalanyl-tRNA synthetase (alpha subunit)	1	16
+test	phosphatase	1	17
+test	phosphate ABC transporter (Permease	1	22
+test	phosphate acetyltransferase	1	18
+test	phosphate-starvation-inducible protein PsiE	1	5
+test	phospho-beta-glycosidase	1	19
+test	phosphodiesterase	1	19
+test	phosphoenolpyruvate carboxykinase	1	40
+test	phosphoesterase RecJ domain protein	1	34
+test	phosphohexose isomerase	1	37
+test	prophage protein	1	18
+test	protein (oxidative damage protectant)	1	6
+test	protein family UPF0029, Impact, N-terminal protein	1	17
+test	protein family UPF0079, ATPase	1	11
+test	protein, conserved in bacteria	1	2
+test	pullulanase, type i	1	34
+test	pur operon repressor	1	21
+test	purine nucleoside phosphorylase	1	2
+test	putrescine abc transporter	1	17
+test	replication initiation and membrane attachment protein	1	40
+test	restriction endonuclease	1	2
+test	restriction enzyme	1	6
+test	rhodanese family	1	4
+test	riboflavin biosynthesis protein ribF	1	30
+test	riboflavin synthase, subunit alpha	1	14
+test	ribonuclease BN	1	18
+test	ribosomal RNA small subunit methyltransferase b	1	34
+test	ribosomal subunit Interface protein	1	16
+test	ribulose-phosphate 3-epimerase	1	3
+test	rrna methyltransferase	1	15
+test	sagb-type dehydrogenase domain protein	1	35
+test	scp-like extracellular	1	4
+test	secreted protein	1	33
+test	sensor protein	1	39
+test	serine protease	1	47
+test	single-stranded DNA-binding protein	1	8
+test	sodium solute	1	44
+test	solute-binding protein	1	2
+test	tagatose-6-phosphate kinase	1	15
+test	that it carries out the mismatch recognition step. This protein has a weak ATPase activity (By similarity)	1	93
+test	thiamine biosynthesis lipoprotein	1	25
+test	this subunit has chaperone activity. The binding of ATP and its subsequent hydrolysis by HslU are essential for unfolding of protein substrates subsequently hydrolyzed by HslV. HslU recognizes the N-terminal part of its protein substrates and unfolds these before they are guided to HslV for hydrolysis (By similarity)	1	22
+test	threonyL-tRNA synthetase	1	39
+test	thymidine kinase	1	9
+test	tpr repeat-containing protein	1	16
+test	transcriptioN-repair coupling factor	1	123
+test	transcriptional regulator MERR family	1	25
+test	transcriptional regulatory protein	1	15
+test	triphosphoribosyl-dephospho-CoA synthase	1	21
+test	trp repressor binding protein	1	4
+test	type iii restriction protein res subunit	1	104
+test	uracil-dna glycosylase	1	18
+test	ybak prolyl-trna synthetase	1	14
