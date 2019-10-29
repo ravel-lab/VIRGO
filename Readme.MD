@@ -8,7 +8,7 @@
 **VOG** is a comprehensive collection of orthlogous genes for the vaginal microbiota as defined by a novel jaccard clustering method. This complementary database of amino acid sequences can be used to improve functional annotation, comparative genomics and evolution of vaginal orthologous protein families. 
 &nbsp;
 
-The complete VIRGO and VOG databases, along with the set of vaginal metagenomes used to build and test VIRGO are available for download at: http://virgo.igs.umaryland.edu/ 
+#### The complete VIRGO and VOG databases, along with the set of vaginal metagenomes used to build and test VIRGO are available for download at: http://virgo.igs.umaryland.edu/ 
 
 
 
